@@ -1,0 +1,44 @@
+filename|speaker|text|start_time|end_time|duration
+wavs/DG_Speaker_0_i001_d002190.wav|0|Dear Eva, April 14th.|13620|15810|2.18
+wavs/DG_Speaker_0_i002_d004830.wav|0|Almost a month since you wrote to me and you have possibly forgotten your state of mind, I doubt it though.|16995|21825|4.82
+wavs/DG_Speaker_0_i003_d004995.wav|0|Seem the same as always and being you, hate every minute of it.|22995|27990|4.985
+wavs/DG_Speaker_0_i004_d003610.wav|0|Learn to say fuck you to the world every once in a while.|32015|35625|3.6
+wavs/DG_Speaker_0_i005_d052330.wav|0|Just stop thinking, worrying, looking over your shoulder, wondering, doubting, fearing, hurting, hoping for some easy way out, struggling, grasping, confusing, itching, scratching, mumbling, bumbling, grumbling, humbling, stumbling, numbling, rambling, gambling, tumbling, scrambling, scrambling, hitching, hatching, pitching, moaning, groaning, honing, boning, horse shitting, hair splitting, nitpicking, piss trickling, nose sticking, ass gouging, eyeball poking, finger pointing, alleyway sneaking, long waiting, small stepping, evil eyeing, back scratching, searching, perching, besmirching, grinding, grinding, grinding away at yourself.|36655|88985|52.32
+wavs/DG_Speaker_0_i006_d002911.wav|0|Stop it and just do.|89515|92426|2.9
+wavs/DG_Speaker_0_i007_d005311.wav|0|From your description, for what I know of your previous work and your ability, the work you were doing sounds very good.|104505|109816|5.3
+wavs/DG_Speaker_0_i008_d005051.wav|0|Drawing, clean, clear, but crazy like machines, larger and bolder, real nonsense.|112599|117650|5.04
+wavs/DG_Speaker_0_i009_d003050.wav|0|More breasts, penises, cunts, whatever.|125735|128785|3.04
+wavs/DG_Speaker_0_i010_d003790.wav|0|Try and tickle something inside you, your weird humor.|130680|134470|3.78
+wavs/DG_Speaker_0_i011_d003390.wav|0|You belong in the most secret part of you.|136120|139510|3.38
+wavs/DG_Speaker_0_i012_d014995.wav|0|Draw and paint your fear and anxiety, and stop worrying about big deep things such as to decide on a purpose and way of life, a consistent approach to even some impossible end or even an unimagined end.|147920|162915|14.985
+wavs/DG_Speaker_0_i013_d005871.wav|0|You must practice being stupid, dumb, unthinking, empty.|163910|169781|5.86
+wavs/DG_Speaker_0_i014_d005610.wav|0|Then you will be able to do.|172695|178305|5.6
+wavs/DG_Speaker_0_i015_d003185.wav|0|And even though you are tormenting your self, the work you do is very good.|179575|182760|3.175
+wavs/DG_Speaker_0_i016_d005105.wav|0|The worst thing you could think of is see what happens, but mainly relax and let everything go to hell.|185870|190975|5.095
+wavs/DG_Speaker_0_i017_d002750.wav|0|You are not responsible for the world.|191745|194495|2.74
+wavs/DG_Speaker_0_i018_d003505.wav|0|You're only responsible for your work, so just do it.|195585|199090|3.495
+wavs/DG_Speaker_0_i019_d003690.wav|0|And don't think that your work has to conform to any preconceived idea, form or flavor.|199880|203570|3.68
+wavs/DG_Speaker_0_i020_d003451.wav|0|But, if life would be easier for you if you stopped working, then stop.|206205|209656|3.44
+wavs/DG_Speaker_0_i021_d005685.wav|0|However, I think that this is so deeply ingrained in you that it would be better for you to do.|210765|216450|5.675
+wavs/DG_Speaker_0_i022_d005391.wav|0|It seems I do understand your attitude somewhat anyway because I go through a similar process every now and again myself.|219859|225250|5.38
+wavs/DG_Speaker_0_i023_d008045.wav|0|I have an agonizing reappraisal of my work and change everything as much as possible and hate everything I've done and try to do something entirely different and better.|227685|235730|8.035
+wavs/DG_Speaker_0_i024_d007905.wav|0|And maybe that kind of process is necessary to me pushing me on and on and the feeling that I could do better than that shit I just did.|236180|244085|7.895
+wavs/DG_Speaker_0_i025_d005311.wav|0|Maybe you need your agony to accomplish what you do and maybe it goads you on to do better, but it's very painful.|245094|250405|5.3
+wavs/DG_Speaker_0_i026_d004750.wav|0|It would be better if you had the confidence just to do the stuff and not even think about it.|252220|256970|4.74
+wavs/DG_Speaker_0_i027_d003166.wav|0|Can't you leave the world and art alone?|258060|261226|3.155
+wavs/DG_Speaker_0_i028_d002510.wav|0|And, also quit fondling your ego.|262955|265465|2.5
+wavs/DG_Speaker_0_i029_d010655.wav|0|I know that you or anyone can only work so much, and the rest of the time you are left with your thoughts, but when you work or before you work, you have to empty your mind and concentrate on what you were doing.|266810|277465|10.645
+wavs/DG_Speaker_0_i030_d002990.wav|0|After you do something, it is done, and that's that.|278795|281785|2.98
+wavs/DG_Speaker_0_i031_d005950.wav|0|After a while, you can see some are better than others, but also you can see what direction you're going.|283720|289670|5.94
+wavs/DG_Speaker_0_i032_d005630.wav|0|You also must know that you don't have to justify your work, not even to yourself.|292685|298315|5.62
+wavs/DG_Speaker_0_i033_d007231.wav|0|Well, you know I admire your work greatly and can't understand why you are so bothered by it, but you can see the next ones and I can't.|300259|307490|7.22
+wavs/DG_Speaker_0_i034_d002330.wav|0|You also must believe in your ability.|308735|311065|2.32
+wavs/DG_Speaker_0_i035_d003291.wav|0|So, try the most outrageous things you can.|313214|316505|3.28
+wavs/DG_Speaker_0_i036_d004590.wav|0|You have at your power the ability to do anything.|319680|324270|4.58
+wavs/DG_Speaker_0_i037_d003630.wav|0|I'd like to see your work and will have to be content to wait until August Sept.|327785|331415|3.62
+wavs/DG_Speaker_0_i038_d002350.wav|0|I've seen photos of some of Tom's new things at Lucy's.|331865|334215|2.34
+wavs/DG_Speaker_0_i039_d004636.wav|0|They're very impressive, especially the ones with more rigorous form, the simpler ones.|334265|338901|4.625
+wavs/DG_Speaker_0_i040_d002430.wav|0|Let me know how the shows are going and that kind of stuff.|341270|343700|2.42
+wavs/DG_Speaker_0_i041_d002350.wav|0|My work has changed since you left and it's much better.|345875|348225|2.34
+wavs/DG_Speaker_0_i042_d006510.wav|0|I will be having a show May 4th to 29th at Daniels Gallery 70 East and 64th Street where Emmerich was.|352830|359340|6.5
+wavs/DG_Speaker_0_i043_d002270.wav|0|Much love to you both, Saul.|361355|363625|2.26
