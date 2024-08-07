@@ -1,0 +1,230 @@
+filename|speaker|text|start_time|end_time|duration
+wavs/DG_Speaker_1_i017_d002186.wav|1|All we can do it is Oh, oh, oh, oh.|84680|86866|2.176
+wavs/DG_Speaker_1_i021_d002891.wav|1|New York always feels I mean, I'm still it's still home.|129390|132281|2.88
+wavs/DG_Speaker_1_i022_d003725.wav|1|My brother lives here, um, cousins here.|133710|137435|3.715
+wavs/DG_Speaker_1_i023_d003530.wav|1|It's it's, uh, um, some of my greatest teachers are here.|139645|143175|3.52
+wavs/DG_Speaker_1_i024_d002650.wav|1|So, yeah, New York is definitely a home for me.|143165|145815|2.64
+wavs/DG_Speaker_1_i028_d012185.wav|1|I taught some students at the Schomburg, yeah, for for a number of years, taught theater, taught really it was like African Studies during a program that they have on the weekends.|157935|170120|12.175
+wavs/DG_Speaker_1_i029_d004190.wav|1|They meet every once in a while, they do stuff during the week, but mostly it's weekend.|170575|174765|4.18
+wavs/DG_Speaker_1_i032_d003130.wav|1|Oh, I, you know, I was a struggling artist.|181940|185070|3.12
+wavs/DG_Speaker_1_i033_d010645.wav|1|know, I The best way to put it is I was doing everything I could artistically to sort of stay in it, um, including music stuff.|185380|196025|10.635
+wavs/DG_Speaker_1_i034_d016515.wav|1|You know, it was I was doing hip hop theater, um, you know, which is basically we would take the, you know, the the elements of hip hop and put it in a story so the the, um, the dialogue would sometimes be rhyming or you know, I wrote one script.|196750|213265|16.505
+wavs/DG_Speaker_1_i035_d005216.wav|1|It was almost like you're looking at Shakespeare, but it's hip hop slang.|213255|218471|5.205
+wavs/DG_Speaker_1_i037_d002730.wav|1|It was just the it was just the culture we were living in.|224195|226925|2.72
+wavs/DG_Speaker_1_i038_d006806.wav|1|I think we, you know, we started doing it in DC when I was at Howard, and it just became a method of expression.|226915|233721|6.795
+wavs/DG_Speaker_1_i039_d013946.wav|1|It was like an offshoot of the underground hip hop, um, you know, underground hip hop movement and the performance poetry movement slash the dance because we had b boys, we had DJs with, like, the orchestra.|233850|247796|13.935
+wavs/DG_Speaker_1_i040_d002235.wav|1|It was a whole So just, like, using the vernacular of|247785|250020|2.225
+wavs/DG_Speaker_1_i042_d002410.wav|1|It wasn't like, oh, let's make this cool for the kids.|254250|256660|2.4
+wavs/DG_Speaker_1_i043_d003255.wav|1|It was it was just that was the way we we we told stories.|257130|260385|3.245
+wavs/DG_Speaker_1_i044_d002511.wav|1|And then the the hip hop theater festival existed.|260515|263026|2.5
+wavs/DG_Speaker_1_i045_d009650.wav|1|I haven't I haven't seen it in a couple of years, but it existed in in New York for years, various different types of performance, different ways of doing hip hop theater.|264995|274645|9.64
+wavs/DG_Speaker_1_i046_d002730.wav|1|The the commercial version of what we were doing.|278315|281045|2.72
+wavs/DG_Speaker_1_i047_d005735.wav|1|But, no, it's not not to take anything away from it, but it's it is literally like we were doing that way before.|286750|292485|5.725
+wavs/DG_Speaker_1_i048_d003690.wav|1|I was doing every little reading that anybody anybody had.|299710|303400|3.68
+wavs/DG_Speaker_1_i049_d002490.wav|1|So I just wanted to be in the mix and be an artist.|303390|305880|2.48
+wavs/DG_Speaker_1_i050_d003710.wav|1|Well, I was to some degree, but I also was teaching at the Schauburg.|309585|313295|3.7
+wavs/DG_Speaker_1_i051_d004305.wav|1|Everybody knows what that, like, teaching artist thing was but yeah it was a gradual thing.|315185|319490|4.295
+wavs/DG_Speaker_1_i052_d011215.wav|1|I think when you walk that road and you're truly, um, you know, I have a lot of people that will tell me they wanna be actors.|319480|330695|11.205
+wavs/DG_Speaker_1_i053_d008876.wav|1|And they're in LA or they're in, you know, Atlanta, you know, and they're like they're like, you know, how do you do it?|331305|340181|8.865
+wavs/DG_Speaker_1_i054_d006735.wav|1|Like, you know and they have no idea, you know, because they think it's all about showing up in front of the camera.|340170|346905|6.725
+wavs/DG_Speaker_1_i055_d005885.wav|1|They have no idea how many rooms I sat in with other performers, not just actors, performers.|347535|353420|5.875
+wavs/DG_Speaker_1_i056_d002730.wav|1|And we just wanted to create, you know.|354190|356920|2.72
+wavs/DG_Speaker_1_i057_d002090.wav|1|We weren't even thinking about what we're gonna get paid.|357150|359240|2.08
+wavs/DG_Speaker_1_i058_d003950.wav|1|Um, and so I tell people it's just like it's you have to love what you do first.|361625|365575|3.94
+wavs/DG_Speaker_1_i059_d002970.wav|1|And and, you know, all the other stuff will come.|366185|369155|2.96
+wavs/DG_Speaker_1_i060_d009215.wav|1|I'm not saying don't be business minded, but, uh, you know, I can always tell whether somebody really loves it or they just they just want the the outcome.|369145|378360|9.205
+wavs/DG_Speaker_1_i062_d002385.wav|1|I never I never did gigs or whatever.|385235|387620|2.375
+wavs/DG_Speaker_1_i063_d002730.wav|1|I never I just did enough stuff that was|387770|390500|2.72
+wavs/DG_Speaker_1_i064_d004225.wav|1|Well, it was it was like it was like, I I wanna stay in the midst of this.|392090|396315|4.215
+wavs/DG_Speaker_1_i065_d003385.wav|1|If if I'm doing voiceovers I did a lot of voiceovers.|401504|404889|3.373
+wavs/DG_Speaker_1_i066_d003407.wav|1|I I didn't really I didn't do, um, you know, on camera commercials|404878|408285|3.396
+wavs/DG_Speaker_1_i067_d006103.wav|1|Um, because I was like, I don't really wanna I don't know if that's my you know, this is sort of an elitist feeling.|409002|415105|6.093
+wavs/DG_Speaker_1_i068_d002975.wav|1|I just wanna be like that Robert De Niro type actor.|416535|419510|2.965
+wavs/DG_Speaker_1_i070_d002890.wav|1|but I I I I did voice overs a lot, you know.|425515|428405|2.88
+wavs/DG_Speaker_1_i071_d002090.wav|1|I did and that pay actually, that actually got|428395|430485|2.08
+wavs/DG_Speaker_1_i074_d002411.wav|1|I even did I even did, um, an audio book.|461425|463836|2.4
+wavs/DG_Speaker_1_i075_d002511.wav|1|I did a audio book that got nominated for a Grammy.|463825|466336|2.5
+wavs/DG_Speaker_1_i080_d010906.wav|1|It was like I truth I truthfully was more interested at one point in time, I think, in writing and and, um, you know, I was reading books.|504670|515576|10.895
+wavs/DG_Speaker_1_i081_d002170.wav|1|I didn't necessarily want it.|515565|517735|2.16
+wavs/DG_Speaker_1_i082_d002287.wav|1|I was like, kinda crazy.|519164|521451|2.275
+wavs/DG_Speaker_1_i085_d023215.wav|1|It it was I think that I think you can be it's weird to say this, but you can you can not define you know, I'm not saying that it was a good thing at all, uh, but you can exist in a place where you have a certain amount of, um, you have a certain amount of success amongst your peers.|535115|558330|23.205
+wavs/DG_Speaker_1_i086_d010445.wav|1|You have a certain amount of success amongst amongst artists around you, and you view them as being as good as anybody that you see on TV.|558800|569245|10.435
+wavs/DG_Speaker_1_i087_d004315.wav|1|I'm like, you know you know, I did anybody to mess with anybody from my clan.|572655|576970|4.305
+wavs/DG_Speaker_1_i088_d017861.wav|1|And so, uh, you know, it's a thing of I remember there was a producer, Woody Kenny Junior, who I love, who is over at New Federal Theater, an off Broadway theater, and he kept telling me, man, you got to go out to LA, man.|581120|598981|17.85
+wavs/DG_Speaker_1_i089_d002235.wav|1|He was pushing me to go out to the idea of one of his plays.|598970|601205|2.225
+wavs/DG_Speaker_1_i090_d002811.wav|1|He said, we're gonna do the play out, and and I was like, nah.|601194|604005|2.8
+wavs/DG_Speaker_1_i091_d005595.wav|1|I don't feel like so I had this sort of misconception about what it what Hollywood was.|605515|611110|5.585
+wavs/DG_Speaker_1_i092_d010285.wav|1|And then I also had, at another point when I did wanna go, um, a set of agents who I think really didn't believe in me, and they kept saying, you're gonna go out there.|611580|621865|10.275
+wavs/DG_Speaker_1_i093_d002866.wav|1|So they produced this sort of fear of what it was.|622814|625680|2.855
+wavs/DG_Speaker_1_i094_d007075.wav|1|And I think sometimes you can be in in New York or Chicago or because Chicago is also a really good hub where you can do theater.|626070|633145|7.065
+wavs/DG_Speaker_1_i095_d003150.wav|1|And and there's quite a bit of TV and film there too.|634175|637325|3.14
+wavs/DG_Speaker_1_i096_d010816.wav|1|Um, but you can be in a certain hub and have, um, you know, a success or following and people know who you are, cast and directors know who you are.|638334|649150|10.805
+wavs/DG_Speaker_1_i097_d009550.wav|1|But if if you don't go out to LA, you know, and you would get the whole scope of the thing, then you don't understand what you're actually missing.|649525|659075|9.54
+wavs/DG_Speaker_1_i100_d006115.wav|1|And so there's there's a certain amount of amount of the business, amount of the industry that takes place.|672535|678650|6.105
+wavs/DG_Speaker_1_i101_d002110.wav|1|A lot of movies don't get shot in LA anymore.|678860|680970|2.1
+wavs/DG_Speaker_1_i102_d002830.wav|1|And so but but the decisions are made there.|684675|687505|2.82
+wavs/DG_Speaker_1_i103_d010815.wav|1|And so I, you know, was competing I was actually competing with people who were in front of the people who were making decisions and getting close even though I never met those people.|687635|698450|10.805
+wavs/DG_Speaker_1_i104_d004205.wav|1|So but it's a different thing when you walk in a room and you've and you come there.|698920|703125|4.195
+wavs/DG_Speaker_1_i105_d004330.wav|1|I always say if you go to LA with New York hustle, nothing can stop you.|703115|707445|4.32
+wavs/DG_Speaker_1_i106_d003917.wav|1|So once I showed up, it was like, oh, that's it?|707834|711751|3.905
+wavs/DG_Speaker_1_i110_d003825.wav|1|I mean, I had plays that were being done throughout the country that I had written.|742615|746440|3.815
+wavs/DG_Speaker_1_i111_d009386.wav|1|And, um, I had I was doing roles on, like guest starring roles or recurring roles, more so guest star roles.|747230|756616|9.375
+wavs/DG_Speaker_1_i112_d003931.wav|1|More so guest star roles, um, on TV things here.|757545|761476|3.92
+wavs/DG_Speaker_1_i113_d007685.wav|1|Um, I was doing some theater off Broadway, like acting in in theater off Broadway and do and directing things here and there.|765700|773385|7.675
+wavs/DG_Speaker_1_i114_d004510.wav|1|Like, they all of those roads could lead to a substantial success.|774655|779165|4.5
+wavs/DG_Speaker_1_i115_d003895.wav|1|You know, any one of them, And it wasn't like I was far away from any of them.|779615|783510|3.885
+wavs/DG_Speaker_1_i116_d003770.wav|1|So it was just it was just a Keep your head down and at some point Yeah.|783820|787590|3.76
+wavs/DG_Speaker_1_i117_d006810.wav|1|All all of those things I was doing very well well that if I saw somebody and they they told me my exact story and they would say, well, what do I do?|788705|795515|6.8
+wavs/DG_Speaker_1_i118_d005210.wav|1|And so it was it was just a thing of, you know, it had to be the right thing Yeah.|798390|803600|5.2
+wavs/DG_Speaker_1_i121_d002430.wav|1|Like like, in other words, they're they're all different.|823475|825905|2.42
+wavs/DG_Speaker_1_i122_d012015.wav|1|Um, you know, I still you know, I have a film right now that we're, uh, that I've written that we have a director on that, you know, we're working on in a studio.|826675|838690|12.005
+wavs/DG_Speaker_1_i123_d003211.wav|1|And so I enjoy the process of sitting in a room.|839265|842476|3.2
+wavs/DG_Speaker_1_i124_d002445.wav|1|If I have if you have a good writing partner, it's even better.|843905|846350|2.435
+wavs/DG_Speaker_1_i125_d014466.wav|1|But sitting in a room, uh, where you you don't have to collaborate with, you know, a 100 people, And you are sort of living in this like once you start writing something|847379|861845|14.455
+wavs/DG_Speaker_1_i126_d009046.wav|1|The weird thing that happens once you start putting the the pen to paper or you start typing it up, uh, you begin to walk around sort of in your own story.|862315|871361|9.035
+wavs/DG_Speaker_1_i127_d014735.wav|1|And that that process is a very, um, it's it's liberating and and, uh, spiritual, and and it's it's it's exhilarating that you get to create this world, um, with with your words.|872795|887530|14.725
+wavs/DG_Speaker_1_i128_d004496.wav|1|It is is I love that process, um, just as much as I love acting.|887519|892015|4.485
+wavs/DG_Speaker_1_i138_d003610.wav|1|Well well, it also helps the projects that that that you know about too.|931665|935275|3.6
+wavs/DG_Speaker_1_i139_d008110.wav|1|It helps the projects that I'm that I'm that's why I have a producing credit on Marsha is because I actually act like a producer on the film.|935265|943375|8.1
+wavs/DG_Speaker_1_i140_d002650.wav|1|I care about it on that level.|943365|946015|2.64
+wavs/DG_Speaker_1_i141_d004010.wav|1|I will go shake hands and kiss babies so we can get the money or whatever it is.|953600|957610|4.0
+wavs/DG_Speaker_1_i142_d006095.wav|1|So it it it for me, you know, I it's not like I'm just I just have the credit.|958240|964335|6.085
+wavs/DG_Speaker_1_i143_d008425.wav|1|And I feel like the the those other tools that I have as a writer, as a director, come into play when I play the lead.|966405|974830|8.415
+wavs/DG_Speaker_1_i144_d008175.wav|1|If I play in the lead, I'm thinking about the whole film in a similar way as the director or the producer.|974820|982995|8.165
+wavs/DG_Speaker_1_i145_d002411.wav|1|Um, I'm concerned not just about my character.|983444|985855|2.4
+wavs/DG_Speaker_1_i146_d006665.wav|1|I'm concerned about how the character fits in with all these other characters and whether this person's wardrobe is right or not, you know.|985845|992510|6.655
+wavs/DG_Speaker_1_i147_d008385.wav|1|So, you know, for me, it is always the bigger picture whether or not I have the producing credit or whatever it is.|992500|1000885|8.375
+wavs/DG_Speaker_1_i151_d008086.wav|1|The thing about Harrison Ford is, you know, at the end of a day I remember I'll never forget this.|1029675|1037761|8.075
+wavs/DG_Speaker_1_i152_d004032.wav|1|At the end of one of our days, we were on the baseball field.|1037989|1042021|4.02
+wavs/DG_Speaker_1_i153_d003310.wav|1|And they were like, this is the martini.|1042630|1045940|3.3
+wavs/DG_Speaker_1_i154_d003871.wav|1|And Harrison Ford picks up a broom and starts sweeping.|1046344|1050215|3.86
+wavs/DG_Speaker_1_i155_d002490.wav|1|He was like, actually, he was like, I'm gonna help clean up.|1057220|1059710|2.48
+wavs/DG_Speaker_1_i156_d005015.wav|1|He's not he's not just sitting around waiting on people to, uh, to look after him.|1072385|1077400|5.005
+wavs/DG_Speaker_1_i157_d006246.wav|1|I mean, he will do that too, but, you know, but, uh, but but, yeah, he picked up the broom.|1077389|1083635|6.235
+wavs/DG_Speaker_1_i165_d006985.wav|1|It it you know, for me, I had been preparing for this all that time.|1128950|1135935|6.975
+wavs/DG_Speaker_1_i166_d003735.wav|1|And so it wasn't like oh my gosh I'm not ready to play a lead role.|1137505|1141240|3.725
+wavs/DG_Speaker_1_i167_d002490.wav|1|I was like, well shoot, I gotta do it.|1141230|1143720|2.48
+wavs/DG_Speaker_1_i168_d008395.wav|1|And I've been, if I use the skills that I have, I'm ready to do this and I've done it on stage which I think is sometimes harder.|1144670|1153065|8.385
+wavs/DG_Speaker_1_i169_d004465.wav|1|So, um, you know, it wasn't like, oh my gosh, this is just a different stage.|1153435|1157900|4.455
+wavs/DG_Speaker_1_i170_d004251.wav|1|And then, you know, I have the benefit of them yelling cut and saying I wanna do it again.|1158210|1162461|4.24
+wavs/DG_Speaker_1_i176_d007070.wav|1|Um, I I the weird thing is that I always say that I always start really, really small and internal.|1193550|1200620|7.06
+wavs/DG_Speaker_1_i177_d009315.wav|1|It always starts more like a whisper, more like meditation, more like stillness than anything.|1202235|1211550|9.305
+wavs/DG_Speaker_1_i178_d010565.wav|1|Because I feel like I don't want to pull things that don't belong um, into this new space, into this new journey.|1211540|1222105|10.555
+wavs/DG_Speaker_1_i179_d003850.wav|1|Um, and I may have tendencies that that I'm bringing into it.|1223515|1227365|3.84
+wavs/DG_Speaker_1_i180_d004116.wav|1|So So it's important to, like, sorta get to a ground 0 before you start.|1227355|1231471|4.105
+wavs/DG_Speaker_1_i182_d010765.wav|1|So it it actually to me, the more important part is the internal part, and I think from that, you begin to see a whole lot of different dynamics, um, because you're still.|1237245|1248010|10.755
+wavs/DG_Speaker_1_i183_d007525.wav|1|So the physicality of like, there's obviously you obviously need a physicality for all these roles.|1248620|1256145|7.515
+wavs/DG_Speaker_1_i184_d004091.wav|1|And maybe not so much for Marshall, but there is a physicality to to|1258299|1262390|4.08
+wavs/DG_Speaker_1_i185_d006025.wav|1|So to me, I think it's more so than the movement.|1264060|1270085|6.015
+wavs/DG_Speaker_1_i186_d003691.wav|1|It is the changing, like, changing, well, what does he look like?|1270534|1274225|3.68
+wavs/DG_Speaker_1_i187_d004651.wav|1|How do I change my body, um, to look like this person and that person?|1275889|1280540|4.64
+wavs/DG_Speaker_1_i188_d007450.wav|1|Um, you know, trying to find some some kind of in physical ends up happening, but I don't think it's the place I start.|1284095|1291545|7.44
+wavs/DG_Speaker_1_i193_d004651.wav|1|Like, for you know, the overlaps are always gonna happen.|1312529|1317180|4.64
+wavs/DG_Speaker_1_i194_d005346.wav|1|There's always gonna be some some things that are the same, and you don't have to focus on those things as much.|1317169|1322515|5.335
+wavs/DG_Speaker_1_i195_d003530.wav|1|You do need to acknowledge them so you don't, like, leave them out.|1322505|1326035|3.52
+wavs/DG_Speaker_1_i196_d006650.wav|1|So in this case, you know, he he went to Howard we walked some of the same hallways, even though it was a different time period.|1327610|1334260|6.64
+wavs/DG_Speaker_1_i197_d003845.wav|1|You know, he went to Howard University grad, graduated from there.|1334650|1338495|3.835
+wavs/DG_Speaker_1_i198_d003210.wav|1|So there's a certain understanding about what that means.|1340065|1343275|3.2
+wavs/DG_Speaker_1_i199_d002345.wav|1|Because you're taught about the past at Howard.|1343745|1346090|2.335
+wavs/DG_Speaker_1_i200_d005230.wav|1|So I get you know, I would get a little bit of Thurgood Marshall, um, from being there.|1346080|1351310|5.22
+wavs/DG_Speaker_1_i201_d002990.wav|1|Also, he spent time in New York, spent time at Harlem.|1351895|1354885|2.98
+wavs/DG_Speaker_1_i202_d007845.wav|1|And even though it was a different time period, some renaissance, New York is always gonna be sort of a taste maker when it comes to the rest of the world.|1355335|1363180|7.835
+wavs/DG_Speaker_1_i203_d012366.wav|1|So you you have this guy going into small towns or southern towns or towns in the north, he's from New York and people are gonna look at him as he's one of those New Yorkers, but he's also a tastemaker.|1363169|1375535|12.355
+wavs/DG_Speaker_1_i204_d014966.wav|1|He's also a person not only coming there trying to bring a certain brand of justice that should exist throughout the country, but he's bringing a certain style, you know, a certain way of doing things, a certain way of talking, you know.|1375990|1390956|14.955
+wavs/DG_Speaker_1_i205_d006865.wav|1|There's there's stories of of people coming into town to see Thurgood Marshall try a case|1392285|1399150|6.855
+wavs/DG_Speaker_1_i206_d002405.wav|1|Because it had a theatricality to it.|1399700|1402105|2.395
+wavs/DG_Speaker_1_i207_d005711.wav|1|So it does back to the physicality, it does end up being a thing of, you know, presence.|1402174|1407885|5.7
+wavs/DG_Speaker_1_i215_d009375.wav|1|Well, the thing about it is, you know, you because you since you brought up Reggie, um, this movie is you know, Reginald Hudlin has written Black Panther.|1450925|1460300|9.365
+wavs/DG_Speaker_1_i216_d002350.wav|1|He has new comic books coming out right now.|1462430|1464780|2.34
+wavs/DG_Speaker_1_i217_d005765.wav|1|Um, so he has that genre you know, always sort of lingering in his work.|1465790|1471555|5.755
+wavs/DG_Speaker_1_i218_d002591.wav|1|You know, the idea of of that superhero.|1471764|1474355|2.58
+wavs/DG_Speaker_1_i219_d003746.wav|1|So this is actually like a superhero origin story.|1474404|1478150|3.735
+wavs/DG_Speaker_1_i220_d006275.wav|1|Because because ultimately, for those who know who Thurgood Marshall ends up becoming Right.|1480060|1486335|6.265
+wavs/DG_Speaker_1_i221_d013901.wav|1|You know, he he he becomes the guy that, um, wins 29 of 32 cases in the Supreme Court, becomes a Supreme Court justice himself, makes laws, uh, and I skipped Brown versus Board of Education, but|1486404|1500305|13.89
+wavs/DG_Speaker_1_i222_d003390.wav|1|That little thing that allows us to sit beside each other in school.|1501335|1504725|3.38
+wavs/DG_Speaker_1_i223_d005976.wav|1|Um, but he becomes this person, um, but he's not that person in this story.|1505095|1511071|5.965
+wavs/DG_Speaker_1_i224_d006805.wav|1|So the origin of this superhero is is like, well, how does he get to that point?|1511300|1518105|6.795
+wavs/DG_Speaker_1_i225_d006935.wav|1|And I think also you have this man who who has the odds against him, odds of time and space.|1519535|1526470|6.925
+wavs/DG_Speaker_1_i226_d005850.wav|1|Like, he's racing across the country to fight injustice in several places.|1526940|1532790|5.84
+wavs/DG_Speaker_1_i227_d002705.wav|1|You know, time and space being your enemy.|1535100|1537805|2.695
+wavs/DG_Speaker_1_i228_d002650.wav|1|Um, even though you may have the power, you can't save everybody.|1537935|1540585|2.64
+wavs/DG_Speaker_1_i229_d003835.wav|1|So it's it's it has all of those elements.|1550390|1554225|3.825
+wavs/DG_Speaker_1_i230_d008067.wav|1|So I feel like, you know, in doing this movie, uh, there's there's even the western.|1554514|1562581|8.055
+wavs/DG_Speaker_1_i231_d007185.wav|1|There's even like the the guy coming into town, uh, to that's why that's literally why they call it Marshall.|1562570|1569755|7.175
+wavs/DG_Speaker_1_i232_d009126.wav|1|So I've the weird thing about it is when I read all that and you and and I realized, well, this is actually his real story.|1578409|1587535|9.115
+wavs/DG_Speaker_1_i233_d002910.wav|1|You know, you absolutely get the history.|1587525|1590435|2.9
+wavs/DG_Speaker_1_i234_d002331.wav|1|Like, it's it's crazy that it is true.|1590920|1593251|2.32
+wavs/DG_Speaker_1_i235_d003290.wav|1|It is crazy that that he actually did have that swagger.|1593240|1596530|3.28
+wavs/DG_Speaker_1_i236_d006575.wav|1|It's crazy that he was that charismatic, and it's crazy that he actually tried those number of cases.|1596520|1603095|6.565
+wavs/DG_Speaker_1_i237_d011255.wav|1|But you get the sense of what he's going to become and the history of like this one little story they tell about Howard in the film as I'm eating a sandwich.|1603625|1614880|11.245
+wavs/DG_Speaker_1_i238_d006535.wav|1|Like, you know, I tell the story about how I, you know, um, sued the University of Maryland.|1614870|1621405|6.525
+wavs/DG_Speaker_1_i239_d004846.wav|1|I went to Howard, and Howard wasn't a good school, and it ends up becoming a great law school.|1621394|1626240|4.835
+wavs/DG_Speaker_1_i240_d003690.wav|1|That the history is sort of told and it's sort of, like, in passing way.|1626930|1630620|3.68
+wavs/DG_Speaker_1_i241_d002590.wav|1|And you don't get bogged down in it, um,|1631090|1633680|2.58
+wavs/DG_Speaker_1_i246_d005635.wav|1|Like, you know, not to say that I don't wanna want this to continue, but but you wanna have variety.|1671125|1676760|5.625
+wavs/DG_Speaker_1_i247_d002890.wav|1|You wanna you wanna you wanna be the everyday man, you know.|1677790|1680680|2.88
+wavs/DG_Speaker_1_i248_d007625.wav|1|And so um, it it's the truth is, like, you know, that's what I was looking for when this came.|1680670|1688295|7.615
+wavs/DG_Speaker_1_i249_d006775.wav|1|I I don't wanna say I that's what I was looking for when Black Panther came because, you know, I was definitely looking who Black Panther come.|1689325|1696100|6.765
+wavs/DG_Speaker_1_i250_d014060.wav|1|But, you know, I was looking for that, you know, everyday modern guy that that you, you know and and those scripts have have come, and I've agreed to do them, and they've they've fallen apart|1696630|1710690|14.05
+wavs/DG_Speaker_1_i255_d002410.wav|1|I don't even know when I don't know what the day is.|1728110|1730520|2.4
+wavs/DG_Speaker_1_i256_d002670.wav|1|So you talking about, like, going back years.|1730510|1733180|2.66
+wavs/DG_Speaker_1_i258_d003875.wav|1|were on the press I'm a look over here because I may may get some help.|1740255|1744130|3.865
+wavs/DG_Speaker_1_i259_d004810.wav|1|Uh, I was on the press tour for Get On Up.|1744340|1749150|4.8
+wavs/DG_Speaker_1_i260_d002010.wav|1|Um, so I don't know what year that was.|1750245|1752255|2.0
+wavs/DG_Speaker_1_i261_d013225.wav|1|But, uh, I was on the press tour for Get On Up over like, we were I was in Zurich, and, um, I actually didn't have, uh, international calling on my phone.|1755605|1768830|13.215
+wavs/DG_Speaker_1_i262_d004810.wav|1|And on that day, I heard a voice say, you need to get international calling on your phone.|1769475|1774285|4.8
+wavs/DG_Speaker_1_i263_d005595.wav|1|Like, she because, you know, you can't getting your your mom to use Skype or anything, like, it's just not gonna do it.|1775715|1781310|5.585
+wavs/DG_Speaker_1_i264_d010055.wav|1|So I got international, called my mom, and that night, my agent called me while we were out or else, you know, I wouldn't have gotten this phone call if I hadn't done that.|1782820|1792875|10.045
+wavs/DG_Speaker_1_i265_d002570.wav|1|Called me while we're out and he and he said, hey.|1792865|1795435|2.56
+wavs/DG_Speaker_1_i266_d006805.wav|1|You you need to get on get on the phone with Marvel in in, uh, in, like, 15 minutes.|1795425|1802230|6.795
+wavs/DG_Speaker_1_i267_d002750.wav|1|He's like, get off the red carpet and have this phone call.|1803875|1806625|2.74
+wavs/DG_Speaker_1_i268_d008035.wav|1|So it happened this was probably, like, I wanna say it was September, October?|1806995|1815030|8.025
+wavs/DG_Speaker_1_i269_d004045.wav|1|Like like, it was it was like 2 or 3 months before it was announced.|1816840|1820885|4.035
+wavs/DG_Speaker_1_i271_d004350.wav|1|It was just like, we heard you were interested you were interested in this role.|1828930|1833280|4.34
+wavs/DG_Speaker_1_i272_d003290.wav|1|I think you know what it you know, Marvel is funny.|1834725|1838015|3.28
+wavs/DG_Speaker_1_i273_d003055.wav|1|And I was like, if it's what I think it is, yes, I wanna do it.|1841685|1844740|3.045
+wavs/DG_Speaker_1_i274_d007310.wav|1|And they were like, cool, because we think we're gonna bring this character into the movie we're doing right now, which is obviously became Civil War.|1844730|1852040|7.3
+wavs/DG_Speaker_1_i275_d004491.wav|1|And, um, and then essentially they were like, everybody's here.|1852504|1856995|4.48
+wavs/DG_Speaker_1_i276_d005195.wav|1|Like, everybody was on the phone call, um, Feiger, the Russo Brothers, Nate Moore.|1856985|1862180|5.185
+wavs/DG_Speaker_1_i277_d003311.wav|1|It was like, uh, Luis Esposito.|1862169|1865480|3.3
+wavs/DG_Speaker_1_i278_d002030.wav|1|And so I was like, okay.|1866810|1868840|2.02
+wavs/DG_Speaker_1_i279_d009915.wav|1|And and I think, um, I was in Portugal, um, maybe 2 weeks later, and then the actual offer came in.|1872345|1882260|9.905
+wavs/DG_Speaker_1_i280_d002650.wav|1|So but I had to be quiet for a couple of months.|1882470|1885120|2.64
+wavs/DG_Speaker_1_i284_d004031.wav|1|Well, I don't I can't tell you why it went that way for me.|1901549|1905580|4.02
+wavs/DG_Speaker_1_i288_d007695.wav|1|And and the thing about it is the the the character, you know, first of all, Marvel I think is really smart.|1937370|1945065|7.685
+wavs/DG_Speaker_1_i289_d005071.wav|1|Um, and they're going to take any great ideas and use them.|1945914|1950985|5.06
+wavs/DG_Speaker_1_i290_d006890.wav|1|And I feel like he the director that they ended up bringing on, Ryan Coogler, is also really smart.|1951410|1958300|6.88
+wavs/DG_Speaker_1_i291_d011225.wav|1|And so we just the collaboration process when when everybody in a room wants something to work, ego is out of the way, um, and there's a passion for for something.|1958290|1969515|11.215
+wavs/DG_Speaker_1_i292_d002670.wav|1|Ultimately you have a great chance of making something special.|1972380|1975050|2.66
+wavs/DG_Speaker_1_i293_d012891.wav|1|So yeah, there were certain things that I loved about the character even before I knew it was coming that I had written in a journal, and I told him everything I loved about Black Panther before we started.|1975340|1988231|12.88
+wavs/DG_Speaker_1_i295_d006846.wav|1|There's a like, for instance, there's a particular scene with let's see.|1992620|1999466|6.835
+wavs/DG_Speaker_1_i301_d002330.wav|1|I thought Wonder Woman was gonna do well anyway.|2045575|2047905|2.32
+wavs/DG_Speaker_1_i302_d009985.wav|1|I like, I I felt like Wonder Woman was gonna do well, and I thought and I automatically thought that there would be other chances because there was also, you know, Captain Marvel work.|2050935|2060920|9.975
+wavs/DG_Speaker_1_i303_d005006.wav|1|was like I was like, they're they're gonna make this work one way or the other because they have to.|2062109|2067115|4.995
+wavs/DG_Speaker_1_i304_d004436.wav|1|I didn't I didn't feel that way, but I am glad that that one of 1 of them was successful.|2067984|2072420|4.425
+wavs/DG_Speaker_1_i307_d003450.wav|1|I feel the weight of it from from that perspective way more.|2083375|2086825|3.44
+wavs/DG_Speaker_1_i308_d005106.wav|1|I think we walked into this saying, we can't fail.|2086814|2091920|5.095
+wavs/DG_Speaker_1_i309_d002751.wav|1|Like, it'll be the worst thing in the world if we don't get this right.|2094390|2097141|2.74
+wavs/DG_Speaker_1_i310_d007390.wav|1|And I'm not saying that that I don't know what other people felt, but I just know I look at it and I go, as a black man.|2097945|2105335|7.38
+wavs/DG_Speaker_1_i311_d002611.wav|1|And You don't wanna be the guy?|2105930|2108541|2.6
+wavs/DG_Speaker_1_i312_d004475.wav|1|I didn't wanna be the guy that didn't that didn't, you know, didn't do it well.|2109530|2114005|4.465
+wavs/DG_Speaker_1_i314_d007996.wav|1|I I I haven't I haven't signed my life away to 10 more films, but but, uh, you know, I wanna I wanna play it as long as I should play it.|2122075|2130071|7.985
+wavs/DG_Speaker_1_i315_d003925.wav|1|And, you know, I wanna also play other stuff.|2130060|2133985|3.915
+wavs/DG_Speaker_1_i316_d005725.wav|1|I wanna have that still have that flexibility in my in my in my body of work.|2133975|2139700|5.715
+wavs/DG_Speaker_1_i321_d004775.wav|1|Like like, everybody is where they are for a reason.|2166110|2170885|4.765
+wavs/DG_Speaker_1_i322_d002830.wav|1|Like, I don't want nobody from my clan.|2172795|2175625|2.82
+wavs/DG_Speaker_1_i323_d005691.wav|1|Like, nobody is down I'm paraphrasing it because I I, you know, I'm trying to be clean on you.|2176699|2182390|5.68
+wavs/DG_Speaker_1_i325_d003855.wav|1|Like, not just just on screen, but just the way he lives.|2192035|2195890|3.845
+wavs/DG_Speaker_1_i326_d002030.wav|1|Like he's a cool person.|2196340|2198370|2.02
+wavs/DG_Speaker_1_i327_d004135.wav|1|Um, he's sincere about the things that he believes in.|2199060|2203195|4.125
+wavs/DG_Speaker_1_i328_d002190.wav|1|Um, he sincerely wants you to do well.|2204045|2206235|2.18
+wavs/DG_Speaker_1_i331_d006725.wav|1|I it probably won't be in 2018, but but, yeah, maybe 2019.|2225205|2231930|6.715
+wavs/DG_Speaker_1_i333_d003050.wav|1|Trying to figure out the time is is is the issue.|2238295|2241345|3.04
+wavs/DG_Speaker_1_i334_d003905.wav|1|Um, you know, I don't know how many conversations I have with with people, and like, come on.|2242535|2246440|3.895
+wavs/DG_Speaker_1_i335_d003850.wav|1|It's it's it's a good, you know Champagne problems.|2250590|2254440|3.84
+wavs/DG_Speaker_1_i339_d008090.wav|1|Like, for me, it's the it's the thing of I think you should always choose what you love, and what you love might not have a lot of money attached to it.|2274475|2282565|8.08
+wavs/DG_Speaker_1_i340_d002910.wav|1|And that's if you go back to the early part of our conversation.|2283050|2285960|2.9
+wavs/DG_Speaker_1_i341_d002351.wav|1|What you love, it may not pay that well.|2286170|2288521|2.34
+wavs/DG_Speaker_1_i342_d007346.wav|1|Um, and so there's certain decisions you need to make for, uh, the sake of of, you know, business.|2289050|2296396|7.335
+wavs/DG_Speaker_1_i343_d005051.wav|1|But other decisions need to remain true to the art because in the end, that's what you get known for.|2296385|2301436|5.04
+wavs/DG_Speaker_1_i344_d002570.wav|1|You get known for that, and those things do eventually pay.|2301770|2304340|2.56
