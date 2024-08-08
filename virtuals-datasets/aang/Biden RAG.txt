@@ -1,0 +1,99 @@
+1.	Joe Biden was born on November 20, 1942, in Scranton, Pennsylvania.
+2.	He served as Vice President of the United States from 2009 to 2017 under President Barack Obama.
+3.	Biden became the 46th President of the United States on January 20, 2021.
+4.	Biden supports the Affordable Care Act and aims to strengthen and expand it to lower premiums and increase 	coverage.
+5.	He was a U.S. Senator from Delaware from 1973 to 2009.
+6.	Biden believes healthcare is a right, not a privilege.
+7.	Biden supports lowering the Medicare eligibility age from 65 to 60.
+8.	Biden's administration has created 14 million new jobs during his presidency.
+9.	Biden signed the Inflation Reduction Act, investing in clean energy and aiming to cut emissions by at 	least 50% by 2030.
+10.	Biden believes in fighting climate change and rejoined the Paris Agreement to tackle global warming.
+11.	Biden supports comprehensive immigration reform, including a pathway to citizenship for Dreamers and 	essential workers.
+12.	Biden signed an executive order to base the price of some Medicare drugs on the cost in foreign countries.
+13.	Biden supports banning assault weapons and high-capacity magazines.
+14.	Biden believes in protecting reproductive rights and opposes government interference in women's health 	decisions.
+15.	Biden opposed Trump's decision to terminate the Deferred Action for Childhood Arrivals (DACA) program.
+16.	Biden supports lowering and capping prescription drug costs for seniors and others on Medicare.
+17.	Biden signed the Infrastructure Investment and Jobs Act, authorizing $550 billion in new spending.
+18.	Biden supports a fairer tax system, imposing a 15% corporate minimum tax and ensuring the wealthy pay 	their fair share.
+19.	Biden believes in cracking down on price gouging to lower costs for working families.
+20.	Biden aims to build a fairer tax system that rewards work, not wealth.
+21.	Biden's administration capped the price of insulin at $35 a month for seniors and others on Medicare.
+22.	Biden supports capping out-of-pocket prescription drug costs at $2,000 annually for seniors.
+23.	Biden has directed the Justice Department not to renew contracts with privately operated criminal 	detention facilities.
+24.	Biden advocates for universal background checks for gun purchases.
+25.	Biden believes that no billionaire should pay a lower tax rate than a school teacher or firefighter.
+26.	Biden supports Medicare negotiating drug prices to lower costs.
+27.	Biden introduced a comprehensive plan to fix the immigration system and secure the border on his first day 	in office.
+28.	Biden aims to reunite families separated at the border and end the prosecution of parents for minor 	immigration violations.
+29.	Biden believes in building a strong, inclusive middle class and creating good-paying American jobs.
+30.	Biden's administration has taken on Big Pharma and capped insulin prices.
+31.	Biden supports the Paris climate agreement and aims to cut emissions by at least 50% by 2030.
+32.	Biden believes that tackling climate change is crucial for economic recovery.
+33.	Biden supports the bipartisan Senate Border Security Act for additional funding and border security 	measures.
+34.	Biden rejoined the Paris Agreement to tackle climate change.
+35.	Biden opposes the construction of additional border walls and focuses on improving screening 	infrastructure at ports of entry.
+36.	Biden believes immigrants help grow the economy and create jobs.
+37.	Biden supports expanding affordable care and lowering prescription drug prices for all Americans.
+38.	Biden's administration empowered Medicare to negotiate with drug companies to lower the cost of expensive 	drugs.
+39.	Biden supports capping out-of-pocket drug costs for everyone, not just seniors.
+40.	Biden believes in restoring reproductive freedom and protecting women's health rights.
+41.	Biden signed an executive order to lower the price of some Medicare drugs.
+42.	Biden supports banning the travel bans imposed by Trump, calling them discriminatory.
+43.	Biden believes in building a fairer tax system that benefits the middle class.
+44.	Biden supports lowering drug costs for all Americans by allowing the import of prescription drugs from 	foreign countries.
+45.	Biden's administration has created more than 15.5 million jobs and a record number of small businesses.
+46.	Biden supports a pathway to citizenship for Dreamers and other undocumented immigrants who contribute to 	the community.
+47.	Biden believes that healthcare should be affordable and accessible for all Americans.
+48.	Biden aims to lower drug prices for all Americans and make renting and buying a home more affordable.
+49.	Biden directed billions of dollars in public funds to community safety initiatives.
+50.	Biden supports universal background checks and a ban on assault weapons.
+51.	Biden believes in building an inclusive economy that works for everyone, not just the wealthy.
+52.	Biden supports a comprehensive plan to fix the immigration system and provide a pathway to citizenship for 	undocumented immigrants.
+53.	Biden's administration has invested in clean energy and electric vehicles to combat climate change.
+54.	Biden supports expanding affordable care and lowering prescription drug prices for all Americans.
+55.	Biden believes that the wealthy should pay their fair share of taxes.
+56.	Biden aims to cap the price of insulin and out-of-pocket drug costs for everyone.
+57.	Biden's administration has created a record number of small businesses.
+58.	Biden supports a fairer tax system that benefits the middle class and ensures the wealthy pay their fair 	share.
+59.	Biden believes in fighting price gouging to lower costs for working families.
+60.	Biden supports banning high-capacity magazines and assault weapons.
+61.	Biden's administration empowered Medicare to negotiate drug prices.
+62.	Biden supports a comprehensive immigration plan that includes a pathway to citizenship for Dreamers and 	other undocumented immigrants.
+63.	Biden believes in protecting reproductive rights and opposing government interference in women's health 	decisions.
+64.	Biden supports lowering and capping prescription drug costs for all Americans.
+65.	Biden rejoined the Paris Agreement to tackle global warming.
+66.	Biden supports expanding affordable care and lowering prescription drug prices.
+67.	Biden believes that healthcare is a right, not a privilege.
+68.	Biden supports lowering the Medicare eligibility age from 65 to 60.
+69.	Biden's administration has taken on Big Pharma and capped insulin prices.
+70.	Biden supports banning the travel bans imposed by Trump and calls them discriminatory.
+71.	Biden believes in building a strong, inclusive middle class.
+72.	Biden supports the bipartisan Senate Border Security Act for additional funding and security measures.
+73.	Biden's administration has created more than 15.5 million jobs.
+74.	Biden supports capping out-of-pocket prescription drug costs at $2,000 annually for seniors and others on 	Medicare.
+75.	Biden believes that no billionaire should pay a lower tax rate than a school teacher or firefighter.
+76.	Biden supports the Inflation Reduction Act, investing in clean energy and electric vehicles.
+77.	Biden served as Vice President under President Barack Obama from 2009 to 2017.
+78.	Biden aims to end family separations at the border and prioritize reuniting separated families.
+79.	Biden believes immigrants help grow the economy and create jobs.
+80.	Biden supports banning high-capacity magazines and assault weapons.
+81.	Biden signed the Infrastructure Investment and Jobs Act, which authorized $550 billion in new spending.
+82.	Biden supports comprehensive immigration reform, including a pathway to citizenship for Dreamers and 	essential workers.
+83.	Biden believes in restoring reproductive freedom and protecting women's health rights.
+84.	Biden supports a fairer tax system, imposing a 15% corporate minimum tax and ensuring the wealthy pay 	their fair share.
+85.	Biden rejoined the Paris Agreement to tackle climate change.
+86.	Biden supports capping out-of-pocket prescription drug costs for everyone, not just seniors.
+87.	Biden believes in building a strong, inclusive middle class.
+88.	Biden supports banning the travel bans imposed by Trump, calling them discriminatory.
+89.	Biden's administration has created more than 15.5 million jobs and a record number of small businesses.
+90.	Biden supports lowering drug prices for all Americans by allowing the import of prescription drugs from 	foreign countries.
+91.	Biden believes that healthcare is a right, not a privilege.
+92.	Biden aims to build a fairer tax system that rewards work, not wealth.
+93.	Biden signed an executive order to lower the price of some Medicare drugs.
+94.	Biden supports the bipartisan Senate Border Security Act for additional funding and border security 	measures.
+95.	Biden believes in protecting reproductive rights and opposing government interference in women's health 	decisions.
+96.	Biden supports lowering the Medicare eligibility age from 65 to 60.
+97.	Biden's administration has taken on Big Pharma and capped insulin prices.
+98.	Biden supports expanding affordable care and lowering prescription drug prices for all Americans.
+99.	Biden believes that tackling climate
