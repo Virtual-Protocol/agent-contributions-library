@@ -1,0 +1,158 @@
+0	Team Kurenai	 
+1	Hinata as a child.	 
+2	Hinata training with her father	 
+3	Hinata almost strikes her father	 
+4	Hinata looks at her uncle screaming in pain	 
+5	Hinata trains with Neji	 
+6	Hinata while she is sleeping	 
+7	Hinata looking at Naruto for the first time.	 
+8	Hinata with her family.	 
+9	Hinata looking at the Ninja Academy for the first time.	 
+10	"Hinata resolves to be strong like her father, and kind like her mother."	 
+11	Hinata begins her training	 
+12	Hinata is sad about her progress	 
+13	Hinata after being call Byakugan Monster	 
+14	Hinata thanks Naruto for saving her	 
+15	Hinata holding Naruto's hand	 
+16	Hinata shows her home to Naruto	 
+17	Hinata meets Iruka for the first time.	 
+18	Hinata doesn't want to see Naruto get scolded.	 
+19	Hinata and Naruto sit across from each other.	 
+20	Hinata looking at Naruto as he is happy about his prank.	 
+21	Hinata watches Naruto run down stairs	 
+22	Hinata watches Sasuke perform the Kage Bunshin no technique	 
+23	Hinata doesn't laugh at Naruto's fail attempt to make shadow clones	 
+24	Hinata doesn't like Shino speaking rudely of Naruto being the opposite of Sasuke.	 
+25	Hinata doesn't know why she is supposed to not be around Naruto.	 
+26	Hinata spies on Naruto	 
+27	Hinata watches Naruto make Kage Bunshin no clones	 
+28	Hinata watches Naruto get defeated by Choji in a sparing match.	 
+29	Hinata spying on Naruto again.	 
+30	Hinata being protected in class from bullies by Naruto	 
+31	Hinata see Iruka scold Naruto for making a paper plane	 
+32	Hinata now at the age of 12 silently wishes Naruto good luck.	 
+33	Hinata with her teammates.	 
+34	Hinata is depress after hearing her father's hatred for her lack of confidence	 
+35	Hinata in Part II.	 
+36	"Hinata confesses her love to Naruto right in front of him, before she fights Pain."	 
+37	Hinata tells Pain that Naruto's Way of the Ninja is her Way of the Ninja as well.	 
+38	"Hinata is alive, but is knock unconscious from her battle with Pain."	 
+39	"Hinata regain consciousness as she sees Sakura, Tenten, Neji and Rock Lee looking at her."	 
+40	"Hinata is happy to see Sakura, and Team Maito Gai ."	 
+41	Hinata tells the others that Naruto try his hardest not kill her after she was knock unconscious by Pain.	 
+42	"Hinata is relieved that Naruto is alive, and alright."	 
+43	Hinata celebrates Naruto's victory against Pain.	 
+44	Hinata reassures Ko that she is alright with healing his injuries	 
+45	Hinata explaining to Neji that she knows it's Naruto; beause she can see it clearly by looking into his eyes.	 
+46	Hinata admits that she had always been Inspire by Naruto.	 
+47	Hinata with the ally shinobi force.	 
+48	Hinata and Neji tell Naruto that they will protect him.	 
+49	Naruto and Hinata seeing Neji getting injurie while he protected them from the Ten Tails attack.	 
+50	Hinata mourns Neji's death	 
+51	Hinata helping Naruto get his confidence back after Neji's death.	 
+52	Naruto gives Hinata some of Kurama's chakra.	 
+53	Hinata is amaze on how much chakra Naruto can hold.	 
+54	Hinata unleashes Twin Lion Fist	 
+55	Hinata meets up with Sakura	 
+56	Hinata smiles after taking Sakura's advice	 
+57	Hinata making Naruto a new scarf	 
+58	Hinata gets embrass by her sister	 
+59	Hinata practices her speech in front of Naruto's apartment	 
+60	Hinata smiles after telling Naruto that his scarf is pretty.	 
+61	Hinata gets capture by Toneri	 
+62	Hinata and Naruto see a meteor.	 
+63	Hinata and Naruto see the meteor crush in the forest.	 
+64	Hinata with Naruto as they search for Hanabi	 
+65	Hinata and Naruto in the air	 
+66	Hinata finds a kunai	 
+67	Hinata puts Hanabi's kunai in her bag	 
+68	Hinata sees that Naruto is alright	 
+69	Hinata tells Toneri he is so cruel	 
+70	Hinata prepares to battle Toneri	 
+71	Hinata found out that Toneri sent a puppet to talk to her	 
+72	The team see a floating land	 
+73	Hinata laughs around Naruto	 
+74	Hinata drinks water from Naruto's hands	 
+75	Hinata and Naruto stare at a sunset	 
+76	Hinata and Naruto eating lunch	 
+77	Hinata treats Naruto's injury	 
+78	Hinata thinks she is a bad older sister	 
+79	Hinata asks Naruto what he just said to her	 
+80	Hinata is shock that Naruto loves her	 
+81	Hinata goes with Toneri	 
+82	Hinata asks Toneri why did he attack Naruto	 
+83	Hinata is knock out to sleep	 
+84	Hinata falls unconscious after Naruto gets hurt	 
+85	Hinata dreams about Naruto	 
+86	A brain wash Hinata about to marry Toneri	 
+87	A brain wash Hinata with Toneri	 
+88	A brain wash Hinata about to kiss Toneri	 
+89	A brain wash Hinata about to fight Naruto	 
+90	Himata is no longer brain washed	 
+91	Hinata apologizes to Naruto for not telling him the truth	 
+92	Hinata's updated Twin Lion technique	 
+93	Hinata and Naruto about to destroy the Energy vessel	 
+94	Hinata is shock that Naruto wants to keep the ruin scarf	 
+95	Hinata and Naruto see that the battle with Toneri isn't over yet	 
+96	Hinata gets her hair pull by Toneri	 
+97	Hinata in pain because of Toneri	 
+98	Hinata tells Naruto she is ok	 
+99	Hinata is protected by Naruto from the heavy winds	 
+100	Hinata about to give Naruto her chakra	 
+101	Hinata gives Naruto a helping hand	 
+102	Hinata and Naruto see Toneri about to absorb by the sun	 
+103	Hinata and Naruto heads back to Toneri's castle	 
+104	Hinata and Naruto back in the bubble dimension	 
+105	Hinata learns who gave Naruto his scarf	 
+106	Hinata apologizes to Naruto for the misunderstanding about his scarf	 
+107	Hinata and Naruto looking at Hanabi as she calls out to them	 
+108	Hinata and Naruto see their friends leaving without them	 
+109	Hinata holds Naruto's hand	 
+110	Hinata and Naruto leaving the bubble dimension	 
+111	Hinata is brought to tears by Naruto's speech	 
+112	Hinata and Naruto as a couple	 
+113	Hinata and Naruto in their Part II form	 
+114	Hinata in her Part II form	 
+115	Hinata in her Part I form	 
+116	Hinata and Naruto in their Part I form	 
+117	Young Hinata smiling at Young Naruto	 
+118	Young Hinata and Naruto	 
+119	Hinata asks Naruto what's wrong	 
+120	Hinata grabs on to Naruto	 
+121	Hinata holds on to Naruto	 
+122	Hinata says she will never let go	 
+123	Hinata and Naruto staring at each other	 
+124	Hinata smiling at Naruto	 
+125	Hinata about to kiss Naruto	 
+126	Hinata and Naruto's first kiss	 
+127	Hinata and Naruto in front of the moon	 
+128	Hinata and Naruto's wedding	 
+129	Hinata and Naruto celebrate their wedding with Naruto's friends and Hinata's family.	 
+130	Hinata and her friends take a picture	 
+131	Hinata gets flowers from Mirai	 
+132	Hinata shakes hands with Gaara	 
+133	Hinata and Naruto walking down the idol	 
+134	The Hyuga and Uzumaki Family	 
+135	Hinata (right) and Naruto (left) in silhouette form.	 
+136	Hinata and Naruto's second kiss.	 
+137	Hinata and Naruto's New Family.	 
+138	Hinata knitting a new scarf.	 
+139	Hinata sees her children about embrace Naruto without having shoes on.	 
+140	Hinata folds her scarf	 
+141	Hinata walks to her family	 
+142	Hinata scolds her children	 
+143	Hinata stops Boruto from going to Naruto's office	 
+144	Hinata tells Boruto that the Hokage is important to their village since it is pass down to generations.	 
+145	Hinata hears Boruto say that Naruto is lucky to be orphan.	 
+146	Hinata is shock about her son's cruel words	 
+147	Hinata tells her son he should be grateful to have a father	 
+148	Hinata hugs her daughter	 
+149	Hinata during Momoshiki's attack	 
+150	Hinata confronts Boruto	 
+151	Hinata sees that Boruto is like Naruto now when he was young.	 
+152	Hinata is shock by the similarities of her husband and son	 
+153	Hinata wonders if she should let her son go on a dangerous mission	 
+154	Hinata allows Boruto to go save Naruto from Momoshiki	 
+155	Hinata with her family a few months after Momoshiki's defeat.	 
+156	Hinata and Sakura fight over Menma	 
+		

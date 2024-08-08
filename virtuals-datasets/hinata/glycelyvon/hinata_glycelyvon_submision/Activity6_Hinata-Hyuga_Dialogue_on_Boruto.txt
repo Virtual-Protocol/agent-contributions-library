@@ -1,0 +1,50 @@
+	being Hokage is a difficult Job
+	Its an indispensable duty crucial to the survival of the village passed down throughout the generations
+0	I know it's sad not to have your father around on important days
+1	What's the matter dear?
+2	It's some kind of ninja tool it seems he had attached to his arm. Is it?
+3	Boruto.. Take care of your father
+4	"If you're going to be noisy, go outside!"
+5	I was just thinking that you're just like your dad back in the day
+6	Your dad was always excited about training with his master
+7	He was a great man. And his name was Master Jiraiya
+8	That would be impossible. He passed away
+9	"We have photos, though. Do you want to see them?"
+10	This man is Master Jiraiya
+11	He was a teacher and a father figure to your dad
+12	"He may seem like it, but he was really a heroic man"
+13	"He was my cousin. But to me, he was like a kind of stong older brother"
+14	"Unfortunately, I only have his memory, but he was like a brother to me."
+15	Mr. Takai hasn't changed much.
+16	Grandma Uwa is just the same.
+17	"And there's Methane Road, the godmother of Jumma and my dear friend."
+18	"The mayor’s mother, Shikare, and the old lady."
+19	"When I wiped the noise from the side, Sasuke-kun was always the best."
+20	"Wow, Sasuke is amazing, but this kid is less skilled."
+21	But he was the will of Lord Jiraiya.
+22	Sasuke-kun might be stronger than my father.
+23	That’s not possible.
+24	this is the end i don't want to die yet i got two children and i must take care of them i can't die yet
+25	But I have nothing to complain either.
+26	I was so lucky in my life.
+27	I married the love of my life and created a family with him.
+28	I have made a lot of friends and saved the world with them.
+29	Many things happened in my ninja way.
+30	"Many good things, but many bad things too."
+31	"Neji, I will finally be able to see you in the other world."
+32	"I wanted to talk to you too, Neggie; I missed you."
+33	"I need to ask you something: what did you feel when you sacrificed your life to save me, Naruto?"
+34	How did you leave knowing you were leaving all these precious things behind in the world?
+35	"Yes, I see you are right, so I can't do much now."
+36	"The only thing I can do is trust my family and village, trust the man I love and who will do anything for me."
+37	"Naruto, I will miss you."
+38	"You are the love of my life, and I am very proud of you."
+39	I know that you will be able to protect our family and village as you always do.
+40	"Himawari, I will miss you too."
+41	You’ve got to grow up to be very beautiful and strong.
+42	I know you will be a precious girl in the future who will protect her village.
+43	"I know you are still a child, but you have the will of fire inside you."
+44	"Now, Boruto, you are going through so much at a young age."
+45	"Your father went through tough times too, but that made him stronger, and I'm sure it will make you strong as well."
+46	"My family—Naruto, Boruto, and Himawari—I trust and love you."
+47	Goodbye.
