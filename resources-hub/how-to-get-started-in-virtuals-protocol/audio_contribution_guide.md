@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio Core Contribution Guide</title>
-</head>
-<body>
 
 <h1>Audio Core Contribution Guide</h1>
 
