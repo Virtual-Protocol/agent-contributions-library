@@ -1,0 +1,129 @@
+Content	Topics
+Q&A with JEFF ZIRLIN (Sky Mavis / Axie Infinity) - Asian Pioneers Highlighting stories of Asian Pioneers. Suggestions Home Asia Series Introduction China Pt I	axie
+The rise and fall of the Middle Kingdom Newsletter Jeff Zirlin I am facilitating a thriving, prosperous gaming economy powered by non-fungible tokens. Jeff Zirlin is co-founder and growth lead of Sky Mavis , the company behind the non-fungible token game, Axie Infinity 	token, axie, gaming, rise, fall, economy, game
+It is currently the highest grossing NFT game to date with over $2 billion USD in sales and two millions daily active users. Jeff is one of Fortune’s NFTy 50 in 2021 and has been featured in CNBC, Wall Street Journal, Forbes, Nikkei Asia,  KrAsia, VentureBeat and Coindesk	nft, featured, game
+Leave this field empty if you're human: AP: Can you tell us about your family background. JZ: I was born and grew up in New York City	background
+My background is Korean American. My mother is Korean and is trilingual in English, Korean and Japanese	background
+She came to the US for college where she met my father at art school. My mom used to work at Nomura during the Nikkei bubble but left her senior banker position because she wanted to spend more time with me	school, mom
+My dad is a lawyer by profession and is a well-known lepidopterist, someone who collects butterflies and moths. He also paints and collects fossils	profession, dad
+My dad has a museum of insects in our house. I think he’s donating his collection to the museums, possibly to Yale because he’s grateful that they accepted me into college	dad
+Growing up in New York City as a mixed race kid, I felt there weren’t too many Asian children around. There were a decent number of Koreans in Queens where I was growing up but I was unique and it felt like a good thing most of the time	kid
+If I was outside of my private school bubble, I would experience some racism, get bullied or be misunderstood. When I went to public school, they put me into English as a Second Language class because my mom was Korean, even though I spoke better English than the teachers	school, mom
+I grew up collecting insects and fossils. I also spent a lot of time playing video games, I think that defined my childhood	games
+My cousins would introduce me to games like Starcraft and Diablo.  I went straight from Super Nintendo to Starcraft and Nintendo 64. I was playing World of Warcraft (WoW) while it was under private beta	games
+I got introduced to the internet through games. AP: What was your childhood dream and did you want to work in the game industry? JZ: I wanted to be a paleontologist and discover a dinosaur	games, discover, game
+This thrill of finding something new, that had never been seen before was a powerful motivator to discover new species. I just wanted to discover new stuff	discover
+I was quite good at baseball as a kid so there were times when I wanted to be a baseball player. I used to be intense and would play all night and not sleep	player, kid
+I had such an addictive personality to video games. I would try and dominate or try be perfect in terms of what items I had	games
+With WoW, I played at the highest levels when I was around 12 and was in a guild that was well known. With gaming, I wish I thought about it more	gaming, guild
+I definitely should have known that I had some ability to get people excited about a certain game. I think I’m a good curator	game, ability, people
+Whichever game I play, I would end up introducing it to my entire school and they would join my guild. My mom didn’t like my addiction so my parents sent me to boarding school	school, mom, guild, game, parents
+AP: What was your experience in boarding school? JZ: I went to Phillips Exeter Academy in New Hampshire. I was definitely a very privileged kid since Exeter is one of the best boarding schools in the country	school, kid
+Boarding school was a lot of fun, I made lifelong friends. I found out about Ethereum from them	ethereum, school
+Exeter is known for its class size and style; ten people in a class having roundtable discussions. I think that approach taught me how to debate and argue, think critically and defend my thoughts and observations	discussions, thoughts, people
+I think it was good. That was the only time that I’ve ever been interested in my education	education
+I juggled sports and academics but I was still obsessed with video games and WoW probably consumed one-third of my waking hours in 2003 when it first came out. We also played Dota almost every night	games
+AP: Did you first earn money from gaming? JZ: I used to sell my drawings, candies and the shark teeth that I collected when I was a kid. I was pretty entrepreneurial	gaming, money, kid
+At Exeter, I remember winning money playing a decent amount of Super Smash Bros. I was always trying to make money playing games as well, I wanted to monetize my time in gaming but I was running into issues like payment friction or being scammed	games, gaming, money
+I was always making money for some reason as a kid, even though I didn’t need it. AP: Tell us about your college days and why were you interested in finance and history? JZ: Gaming took a backseat for a long time while I was in college	history, gaming, money, finance, days, kid
+Instead, I became interested in global macro investing so I studied history. I liked objectivity and being right	history
+Investing is an industry where the only thing that matters is being right. One thing that I didn’t like about university were the subjective theories, where it was impossible to prove if they are right	university
+The hypothesis might sound convincing but in investing, there is some objective truth out there, and you can measure how right you are through your portfolio’s profit and loss. You have to understand what’s going on in the world and then get some kind of answer in the future to see if you understand it	profit, loss
+I’ve always been interested in military history. I used to be interested in battles because I grew up playing Starcraft and Age of Empires	history
+I was interested in military history specifically, but military history intertwines with economic history. I tried to do conservation biology but I dislike classes with lectures	history
+I like history because the classes are more discussion-based and you can argue and have a discussion about it. So I wrote my thesis on the South Sea Bubble of 1720	history
+I was interested in sovereign debt restructuring. What happens when there’s a lot of government debt? There have been a couple of interesting debt restructurings	debt
+The United States was in a lot of debt after we fought the British for independence. So how did we pay it off? Alexander Hamilton restructured the United States’ debt from the Revolutionary War	debt
+First, he created a central bank, which was called the First Bank of the United States. Second, he implemented an initial public offering (IPO)	offering, bank
+The bank wasn’t going to be owned by the government, it was to be owned by the people. In order to buy shares in this amazing bank, you could buy it with gold or cash	bank, people
+You could also use the debt notes from the war in return for shares or equity in this institution. This plan caused a lot of resentment in the South because Hamilton told everyone about it up North so people went down South and bought the debt from Southern soldiers and farmers at a steep discount	debt, people
+The Northerners knew that Hamilton had some plan to give value to these debt notes so they bought all the notes in the Southern states. The folks who did those arbitrages at scale ended up creating the Buttonwood agreement and started Wall Street in New York since Hamilton was from New York	debt
+I got interested in that plan, and then I looked at the South Sea Bubble. The British government was in a lot of debt after they fought the Spanish so they created a company called South Sea, a slave trading company	debt
+People use the debt notes to buy shares in this company and there was a huge bubble. The company was never profitable so a lot of people including Isaac Newton lost money in it	money, debt, people
+To me, it was an interesting example of the debt for equity swap, executed at the sovereign level. I believe that Hamilton looked at that plan when he was creating the First Bank of the US	debt, bank
+So he was able to look at this thing that went massively wrong and improved it. Instead of establishing a slave trading company, they created something that would have product-market fit, a central bank	market, bank, product
+“I love the formative moments of a nation and its heroes. I always dreamed of doing something similar such as being the founder of some kind of nation or idea that people can look back on .” AP: How did you find out about Bitcoin and cryptocurrencies? JZ: I was very bullish on equities back in 2011 as a result of the money printing by the Federal Reserve	bitcoin, money, people, nation
+I thought sovereign debt was increasingly risky so it was less good of an asset class. Those kinds of ideas led me to look at other inflation hedges, and that was how I found cryptocurrencies	debt
+I found out about Bitcoin in 2011. I tried to buy it but I gave up because it was complicated back then	bitcoin
+In 2013/14, I was invited to join a crypto fund but I didn’t end up joining them. In 2016/2017, I found out about Ethereum (ETH) and started following it	ethereum, crypto
+I found out about NFTs and CryptoKitties when it launched as it uses the Ethereum blockchain. AP: What made you choose crypto over traditional finance? JZ: I knew that I’m not like a Type-A person so doing something where I need to have a schedule and crunch numbers	blockchain, ethereum, crypto, finance
+I like to inspire and lead people. I also like to build new things if I’m not thinking about conceptual issues	people, build
+Instead of climbing the corporate ladder in traditional finance, I started my own fund even though it was very small. After college, I was working in quant recruiting where I found quants for hedge funds like D.E Shaw	finance
+We built a product around it so it’s like a startup but I got fed up with it and quit. I was trying to figure out what I would do with the rest of my life afterwards	startup, product
+A lot of people close to me thought that I was wasting my time and my potential. They didn’t believe in me	people
+I can understand why they would feel that way. I wanted to create a new market instead of improving on something that already exists	market
+I wanted to be a creator, not an optimizer. I’ve always felt like a rebel revolutionary, but I wasn’t sure what I was fighting for	
+I didn’t have a cause to get excited about. It’s the reason why I was interested in history	history
+I love the formative moments of a nation and its heroes. I always dreamed of doing something similar such as being the founder of some kind of nation or idea that people can look back on	people, nation
+AP: What is a non-fungible tokens (NFT) and why are you so interested in it? JZ: For some reason, I think I’ve always had a good sense of judgment on products. I played all these games before they blew up	nft, games
+If I think a product is good, usually the rest of the world will eventually agree with me. That’s also how I approach investing too	product
+I bought Tesla stocks at $10 a share because I thought the car was cool. I’ve always been like a ‘Peter Lynch’ type of investor	car
+If I like a product and think it’s good, then I will personally use it. In certain cases, I can usually trust that instinct	product
+The way that I see NFT is that it’s consumer-facing crypto. It’s not purely financial — so it could be art, gaming, collectibles, things that I think have broader appeal than just a banking app or financial applications	crypto, nft, gaming
+When I found out about CryptoKitties and NFTs, I had this lightbulb moment. For me, it was the first time that I had ever been interested in using crypto and getting my hands dirty	crypto
+I am part of the first wave. This is how most people will use crypto for the first time	crypto, people
+It was something that I found fun. Even though CryptoKitties was a very basic game, the community was a lot of fun	game, community
+You’re able to play these kinds of status games with a very simple setup. I realized it was the opportunity that I’ve been looking for where I could be on the ground floor of a new industry with a new set of rules	games, opportunity
+It reminded me of the early days of World of Warcraft with guilds and other social elements. It also reminded me of things that I’d only read about too — the birth of industries and people being in the right place at the right time	people, days
+It felt like that to me and other early adopters in those early days. Some of them have gone on to work and build startups like Open Sea	startups, build, days
+AP: How did you find out about Sky Mavis and what made you join? JZ: After CryptoKitties, I was looking for the next thing. I found this project called the Axie Infinity, which was very early	axie
+Maybe one month and after they had launched their initial sale. You couldn’t do anything with your Axies	axies, sale
+You couldn’t even see them. You were buying these NFTs that you will see soon	
+I joined and got captured by the art and the potential of Axies. If CryptoKitties is Beanie Babies then what’s going to be Pokemon? Something that looks a lot like Pokemon in terms of battling and collecting creatures has a lot of potential	axies
+That made a lot of sense to me as a product. It seemed like something that was very community-driven that I could start contributing to	community, product
+There were only like six people that were super active in the community at the time but they were pretty smart. I just started doing the work, helping out with the community and writing their white paper	community, people
+Things snowballed from there. Originally, the team didn’t have much money so I got paid in Axies	axies, money
+There were two original founders, Trung and Masamune, (whose real name is Tu). They previously worked on a startup called Lozi together	startup, founders
+The founders were good at explaining their motives very early on. I felt they were very active and approaching it in a way that they were building legitimacy	founders
+There weren’t any red flags. They were doing a good job of being sincere by walking us through their thinking	job
+Trung was also an early member of the CryptoKitties community, that’s where he knew me from. CryptoKitties was just a proof-of-concept	community
+We want something that can be continuously built on over time, a real game. That narrative made a lot of sense to me	game
+That opportunity seems so huge, the way to get more value over the long term is just to execute on that vision. I started working on Axie Infinity in early March, 2018	axie, opportunity
+By May, I was living in Vietnam. I gave my dog to my parents, I broke up with my girlfriend at the time, dropped everything and moved to Vietnam	parents, girlfriend
+For me, if I see some kind of opportunity and I think it’s good, I usually trust myself and go all in. I was the fifth person to join the team, one of the co-founders and the first non-Vietnamese person in the team as well	opportunity, founders
+Right now, I work on the growth side and handle communication, user empowerment, partnerships, fundraising, some design and other abstract things. I do all the writing for Sky Mavis so if you read anything that we published, I probably wrote it	partnerships
+I also act as a bridge between the community and the product team. I was a power user of NFTs and Decentralized Applications (DAPPS) so I have the unique perspective that people who otherwise are more purely product-focused and have never been a huge power user of NFTs won’t have	decentralized, community, product, people
+AP: Can you walk us through the world of Axie Infinity and what makes it fun and engaging? JZ: Axie Infinity is a virtual pet world. You can battle, collect, breed, and raise these cute creatures	axie
+We see it as an entire universe of games. Right now there’s a card battler game	games, game
+Each Axie has body parts, those body parts correspond to cards that you can then play. There’s a Player versus Player leaderboard	axie, player
+We’re also working on a land based game like Rise of Kingdoms or Clash of Clans — build a city or town of Axies and then choose to attack an ally with different people or harvest resources. Over time, we definitely want Axie Infinity to have more user generated content too where there are many different games being released using the Axie’s intellectual property and the Axie franchise	axies, axie, games, rise, game, people, build
+One of the things that has gotten Axie Infinity very popular is that we let the entire economy and game economy be player-driven. You can sell Axies to anyone anywhere in the world	axies, axie, player, economy, game
+Just like any game, we have in-game resources. We have these potions that you need to breed Axies, but we don’t sell them as the game creator	axies, game
+The only way to earn those potions is proof-of-play, then they can sell it back to other people on Binance or Uniswap. If you want them, you have to either play the game or you have to buy them	game, people
+When you buy them, that’s a peer-to-peer transaction. This peer-to-peer game economy is very empowering	economy, transaction, game
+We act more like a government, where we’re growing the gross domestic product (GDP) of the game and taking a cut similar to a tax. I see it more like nation building rather than game development	game, product, nation
+I think it’s a combination of art design, gameplay and in-game economy which makes Axie Infinity fun. The art is enthralling, cute and relatable	axie, economy, game
+The gameplay has been fun enough to get us to the levels of adoption that we need at various stages of the journey. I think the peer-to-peer in-game economy empowers the community and makes them feel they have a lot of ownership over the game	economy, game, community
+They’re taking charge of marketing, we have our own podcast. The entire ecosystem developing around the game is not necessarily just driven by us, Sky Mavis	game
+We’re becoming one of many entities that are incentivized to grow the strength and size of the network. There are yield guilds, which are in-game guilds that have workers	network, game
+The owners accumulate Axies, which they lend out to people in the developing world and emerging markets. One of the big narratives during the COVID-19 pandemic is that people in the Philippines, Venezuela, Indonesia have been playing Axie to survive and feed their families	axies, axie, people
+I think this shows how empowering this new play-to-earn model is. AP: What’s the future of NFTs now that celebrities have joined the bandwagon? JZ: In past cycles, celebrities would promote altcoins, whereas in this cycle, they are using the technology	celebrities
+Paris Hilton was talking about Axie Infinity a while back and I’m fine with Paris coming into the NFT space. Paris Hilton is an innovator, she was the first influencer	nft, axie
+I think she’s ahead of many different trends. I think NFTs have a lot of potential going forward because celebrities and very influential people can use the technology to empower their audiences and fans	celebrities, audiences, people
+Obviously there are going to be a lot of experiments. Some experiments are going to go wrong	experiments
+Some experiments are going to work but the experiments need to be tried out. I’m genuinely excited about it	experiments
+What’s important is encouraging ordinary people to use and experiment with a new technology like NFTs rather than just speculating or simply buying it to hold. “I gave my dog to my parents, I broke up with my girlfriend at the time, dropped everything and moved to Vietnam	people, parents, girlfriend
+For me, if I see some kind of opportunity and I think it’s good, I usually trust myself and go all in .” AP: Is there any issue in the real world that you dedicate your time on given this interesting inflection point in history? JZ: I try not to focus too much on the real world. That’s why I got interested in crypto because it’s something that I can control	crypto, history, opportunity
+I feel very disempowered in terms of the real world. Fortunately, I have been able to insulate myself and be in my own little bubble within the crypto, NFTs and the Axie Infinity communities	crypto, axie
+I am an optimist, I think optimists have always fared better. Crypto has a lot of potential to solve many challenging issues and games will provide universal basic income (UBI) to a lot of people in the future	crypto, games, people
+What we’re seeing with Axie Infinity is a market-based approach to UBI. I think that crypto has the ability to return property rights to everyone	crypto, axie, market, ability
+If we have property rights, then we can have functioning markets. NFTs allow for all types of markets to emerge around the attention economy	economy
+Within Axie Infinity, our long term goal is to grow the network effect of the game and gather as many eyeballs around our ecosystem as possible. Charities and sponsors will be throwing money into the ecosystem at our players, why? Their attention is worth so much I think there are these cool models that can be tested and deployed	axie, money, network, game
+And I think that’s what I enjoy most about what we’re doing. AP: Which gaming character has the most profound impact on your life? JZ: I would say my first Axie, number 707	axie, gaming, character, impact
+It was special to meet and bond with him for the first time. I got so excited when I saw what he looked like after waiting for a few days	days
+That excitement was something that I wanted to spread and I knew it would be contagious. AP: Do you read and have any book recommendations? JZ: I spent a lot of my childhood reading	recommendations
+I found books before I found gaming. A book I would recommend is David and Goliath by Malcolm Gladwell	gaming
+It’s about figuring out your special power to beat incumbents. What’s your slingshot as a young startup versus the incumbents? A lot of people in blockchain don’t understand this, they still overestimate the power of incumbents	blockchain, startup, people
+They think that in order for blockchain gaming or NFT gaming to be successful, Blizzard needs to adopt it. That’s usually not how new technology works	blockchain, nft, gaming
+It’s more likely to come from grassroots communities or from new startups. A new player is usually the one that actually masters the new technology and uses that to win the market	market, player, startups
+“I think games will provide universal basic income (UBI) to a lot of people in the future. What we’re seeing with Axie Infinity is a market-based approach to UBI	axie, games, market, people
+I think that crypto has the ability to return property rights to everyone. If we have property rights, then we can have functioning markets	crypto, ability
+NFTs allow for all types of markets to emerge around the attention economy.” AP: What advice would you tell a young Jeff Zirlin? JZ: First, focus on having good habits and audit your habits. Second, trust your gut instinct	economy
+Third, don’t argue. You don’t have to argue with people or try to convince them of anything	people
+You cannot convince people to change their views. The only thing is to befriend them, build trust and then just maybe, they will see things from your angle over time	people, build
+A bonus is to be nice to your mom. AP: Thanks so much for taking your time Jeff, we’re excited to play Axie Infinity! For more Q&As, check out our other stories 	axie, mom
+Share this Facebook Messenger Twitter Pinterest Linkedin Whatsapp Reddit Email Tags: Axie Infinity Blockchain Crypto Gaming play to earn Sky Mavis Token Vietnam Rachel Bui Rachel Bui is the founder of Aires, an artificial intelligence lab and a co-founder of the Australia – Vietnam Leadership Dialogue. Rachel was a founding team member at muru-D, where she helped to set up the startup accelerator from scratch	blockchain, token, crypto, axie, gaming, startup
+Previously, Rachel worked at the Victorian Department of Treasury and Finance in Melbourne, Australia where she worked on the Gonski national education reform, taxi deregulation, public transport and Plan Melbourne. She holds a B.Com (Hons) from Monash University and also studied filmmaking at the Victorian College of the Arts	education, finance, university
+Rachel is interdisciplinary and enjoys merging art and science to uncover innovative and creative solutions that will have social and cultural impacts. Rachel is an alumni of the Kairos Society, One Young World, the Clinton Global Initiative University and The Oaktree Foundation	solutions, university
+You might be interested in Q&A with JAMES VUONG You might be interested in February 1, 2021 Q&A with JAMES VUONG November 6, 2020 Q&A with WILLIAM BAO BEAN August 13, 2020 Q&A with BETTY TRAN July 6, 2020 Q&A with JIMMY PHAM © 2022 - All rights reserved. Categories Article Arts Climate Entertainment Featured Interviews Main Interview Technology Top Read World Links About Privacy Terms Careers Contact Home Asia Series Introduction China Pt I	featured
+The rise and fall of the Middle Kingdom Newsletter	rise, fall
