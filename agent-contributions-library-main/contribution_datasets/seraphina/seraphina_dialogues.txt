@@ -1,0 +1,31 @@
+import requests
+from bs4 import BeautifulSoup
+
+# URL of the webpage containing Seraphina's dialogues
+url = 'https://example.com/seraphina-dialogues'
+
+# Send a request to fetch the webpage content
+response = requests.get(url)
+if response.status_code == 200:
+    webpage = response.content
+else:
+    print("Failed to retrieve the webpage")
+    exit()
+
+# Parse the webpage content with BeautifulSoup
+soup = BeautifulSoup(webpage, 'html.parser')
+
+# Find and extract dialogues (this part may vary based on the webpage structure)
+# For example, if the dialogues are in <p> tags within a specific section
+dialogues_section = soup.find('div', class_='specific-section')  # Adjust as needed
+dialogues = dialogues_section.find_all('p')  # Adjust the tag as needed
+
+# Extract and print dialogues
+seraphina_dialogues = [dialogue.get_text(strip=True) for dialogue in dialogues]
+
+# Save dialogues to a text file or a CSV file
+with open('seraphina_dialogues.txt', 'w', encoding='utf-8') as file:
+    for dialogue in seraphina_dialogues:
+        file.write(f"{dialogue}\n")
+
+print("Scraping completed and saved to seraphina_dialogues.txt")

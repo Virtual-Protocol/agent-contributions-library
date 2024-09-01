@@ -1,0 +1,574 @@
+1	Harley Quinn: I got you a kitty.
+2	Harley Quinn: Anything. I mean, yeah.
+3	Harley Quinn: A machine gun?
+4	Harley Quinn: Huh? What was that? I should kill everyone and escape?
+5	Harley Quinn: Sorry. The voices.
+6	Harley Quinn: I'm kidding! Jeez! That's not what they really said.
+7	Harley Quinn: Yes.
+8	Harley Quinn: Huh?
+9	Harley Quinn: [ to Katana ] Love your perfume. What is that? The stench of death?
+10	Harley Quinn: [ at a bar ] Whatcha having, K.C.?
+11	Harley Quinn: K.C., it's the end of the world. Have a drink with us.
+12	Harley Quinn: How about you, hot stuff?
+13	Harley Quinn: That's a good idea, honey.
+14	Harley Quinn: Ninja? You want some sake?
+15	Harley Quinn: Whiskey.
+16	Harley Quinn: I'm known to be quite vexing. I'm just forewarning you.
+17	Harley Quinn: [ takes a purse ] We're bad guys. It's what we do.
+18	Dr. Harleen Quinzel: I did everything you said. I helped you.
+19	Dr. Harleen Quinzel: What are you gonna do? You gonna kill me, Mr. J?
+20	Dr. Harleen Quinzel: You think so? Well, I can take it.
+21	Harley Quinn: [ walks from a helicopter crash ] What a ride!
+22	Harley Quinn: Come on, Puddin'. Do it!
+23	Harley Quinn: Batsy, Batsy, Batsy.
+24	Harley Quinn: Stupid Bats, you're ruining date night!
+25	Harley Quinn: Puddin'!
+26	Harley Quinn: Well...
+27	Harley Quinn: You're cute. You want me? I'm all yours.
+28	Harley Quinn: Why, what's wrong? You don't like me? Fine. Don't waste my time then.
+29	Harley Quinn: [ long pause ] You ever been in love?
+30	Harley Quinn: Bullshit.
+31	Harley Quinn: Another textbook sociopath.
+32	Harley Quinn: You got all dressed up for me?
+33	Harley Quinn: Yeah?
+34	Harley Quinn: Let's do it!
+35	Harley Quinn: Pussy.
+36	Harley Quinn: [ sees everyone staring at her ] What?
+37	Harley Quinn: I'm bored. Play with me.
+38	Harley Quinn: [ regarding Diablo ] I love this guy.
+39	Harley Quinn: What, these bars?
+40	Harley Quinn: Gonna come in here and tell me that? Or are you too scared? Come on, I'm bored. I'm bored. Play with me.
+41	Harley Quinn: I sleep where I want, when I want, with who I want.
+42	Harley Quinn: I do.
+43	Harley Quinn: Please?
+44	Harley Quinn: Are you the Devil?
+45	Harley Quinn: I lost my Puddin'. But you can get him back, right?
+46	Harley Quinn: You promise?
+47	Harley Quinn: I like what you're sellin', lady. There's just one teeny problem. You messed with my friends!
+48	Harley Quinn: [ seeing Enchantress building her weapon ] Hey, everyone can see all this trippy magic stuff, right?
+49	Harley Quinn: I'm off my meds.
+50	Harley Quinn: Puddin'.
+51	Harley Quinn: Puddin', I can't swim!
+52	Harley Quinn: He killed them. Didn't you?
+53	Harley Quinn: Own that shit. Own it! What'd you think was gonna happen? Huh?
+54	Harley Quinn: What, you were just... Thinking you can have a happy family and coach little leagues, and make car payments? Normal's a setting on the dryer. People like us, we don't get normal!
+55	Harley Quinn: We all are. We all are! Except for him.
+56	Harley Quinn: He's ugly on the outside, too.
+57	Harley Quinn: Yeah, you are.
+58	"Harley Quinn: We all know the saying, ""Behind every successful man, there's a badass broad."" Well, that was me."
+59	Harley Quinn: Psychologically speaking, vengeance rarely brings the catharsis we hope for.
+60	Harley Quinn: Oh hey, you're that singer no one listens to.
+61	Harley Quinn: [ to Montoya ] Aren't you glad you wore that? Sexy AND bulletproof!
+62	Harley Quinn: Do you know what a harlequin is? A harlequin's role is to serve. It's nothing without a master. No one gives two shits who we are, beyond that.
+63	Harley Quinn: Here's the thing, Romy baby: your protection is based on the fact that people are scared of you. Just like they're scared of Mr. J. But I'm the one they should be scared of! Not you, not Mr.J! Because I'm Harley Fucking Quinn!
+64	Harley Quinn: If you want boys to respect you, show them you're serious. Shoot something, blow it up!
+65	Harley Quinn: I'm not shopping at this store - I'm robbing this store. Paying is for dummies!
+66	Harley Quinn: [ at end of closing credits ] Are you dummies still sitting there? Fine! Since you stuck it out this long, I'll tell you a super-duper secret secret, which you can't tell anyone! Okay. Did you know that Batman f...
+67	Harley Quinn: [ while arming themselves against Roman's army ] Isn't this fun? It's just like a sleepover. We should order pizza, make Cosmos...!
+68	Harley Quinn: There are two ways that diamond's coming out of you.
+69	Harley Quinn: This way.
+70	Harley Quinn: Or this way.
+71	Harley Quinn: That's what I thought. Also, I'm out of groceries.
+72	Harley Quinn: I named him Bruce after that hunky Wayne guy.
+73	Harley Quinn: [ sees poster of Captain Boomerang ] Hey, I know that guy.
+74	Harley Quinn: [ after Dinah uses her Canary Cry ] I told you she had a killer voice.
+75	Harley Quinn: [ Sionis is outside the Booby Trap hideout ] He's after all of us.
+76	Harley Quinn: The kid just robbed him.
+77	Harley Quinn: You betrayed him.
+78	Harley Quinn: You killed his BFF.
+79	Harley Quinn: And you're dumb enough to be building a case against him. So, unless we all want to die very unpleasant deaths, and let Roman go finger-fishing through the kid's intestinal tract, we're going to have to work together.
+80	Harley Quinn: [ mockingly ] Oh, boo-hoo.
+81	Harley Quinn: YOU KILLED MY SANDWICH!
+82	Harley Quinn: [ shrugs ] I'm used to it.
+83	Harley Quinn: Call me a softie, I dare ya!
+84	Harley Quinn: [ handing out lime margaritas, to Cassandra ] You drink, right, kid?
+85	Harley Quinn: [ gets kicked ] Right in the tit!
+86	Harley Quinn: I'm sorry, kid, I'm just a terrible person I guess.
+87	Harley Quinn: You're not going to try to run, are you?
+88	Harley Quinn: Fine. But if you try to run, I will kill you. I do not care that you're a kid.
+89	Harley Quinn: [ as they're fighting off Roman's army ] Hair tie?
+90	Harley Quinn: [ talking about the Ace Chemical Plant ] Some people have their Eiffel Tower or Olive Garden...
+91	Harley Quinn: I'm sorry, kid. And I'm sorry I tried to sell you, that was a dick move. For what it's worth, you made me want to be a less terrible person.
+92	Harley Quinn: You slippery fingered little turd.
+93	Harley Quinn: My ring?
+94	Harley Quinn: [ voice over ] The whack job with the penchant for peeling faces is Roman Sionis, aka Black Mask. The fact that he wants me dead hasn't yet hit my radar. See, I was halfway across town, hungover, and thinking about breakfast. Egg, bacon, American cheese. Soft, toasted buttered roll. Just a dash of hot sauce. What a way to start my new life. With the perfect egg sandwich.
+95	Harley Quinn: [ voice over ] I know what you're thinking. You think I'm a dick after all that. But you heard what the cop said. Sionis is gone. And those guys? They're going to be just fine. Montoya's boss picked up the gangbangers at the Booby Trap. And took all the credit while he was at it. Again. It was the kick in the balls she needed to see that she had nothing to prove to those blowhard assholes. She quit the same day. We got the secret bank codes off the diamond. And Huntress got her family money back. She's using it to fund a little crime fighting outfit. They call themselves the Birds of Prey. I call them dorky little do-gooders. The rock itself was worth a chunk of change, so I pawned it. And I invested the cash in a little startup making waves in the East End. Oh! And I found Bruce. He was wandering around Chinatown. I guess it proves the theory that hyenas really do have nine lives. Yeah. Yeah. I made the kid my apprentice. Call me a softy...
+96	Harley Quinn: [ lowers her sunglasses and looks into the camera; aloud ] I dare you.
+97	Harley Quinn: You made me want to be a less terrible person
+98	Harley Quinn: Number one, no one is like me. If you wanted to even come close, you would have to go to medical school. Become a psychiatrist. Work in an asylum. Fall in love with your patient. Break said patient out of said asylum. Begin a life of crime. Jump into a vat of chemicals to prove yourself to a madman. Get arrested by the Batman. Go back to jail. Get out of jail with a bomb on your neck. Save the world, go back to jail, and break out of jail before breaking up with the aforementioned madman, and going out on your own. Number two...
+99	Harley Quinn: Six bucks for tap water with a fucking cucumber stick in it? *That's* crazy. I'm not shopping at this store. I'm robbing this store. Consider this your first lesson: paying is for dummies.
+100	Harley Quinn: Number 1: No one is like me.
+101	Harley Quinn: [ voice over ] I knew I needed to find some way to show the world that I'd cut ties with Mr. J for good. Some people have the Eiffel Tower, or Olive Garden. The Joker and I? Our love bloomed in a highly toxic industrial processing plant. And, luckily for me, I have all my best ideas drunk.
+102	Harley Quinn: I have the *best* idea!
+103	Harley Quinn: [ voice over ] And what's worse, every person I ever wronged now felt free to come and take their pound of flesh. Turns out, I wronged a lot of people.
+104	Harley Quinn: Being Joker's girl gave me immunity.
+105	Harley Quinn: They say if you want to tell a story right, you gotta start at the beginning.
+106	"Harley Quinn: [ voice over ] Oh, I fell hard. Like out of a plane without a parachute, right in your dumb fucking face kind of hard. I lost all sense of who I was. I only had eyes for Pudding. We all know the saying, ""Behind every successful man there's a badass broad."" Well, that was me. I was the brains behind some of Mr. J's greatest stunts. Not that he let anyone know it."
+107	Harley Quinn: Not tonight, Romy. Not tonight.
+108	Harley Quinn: [ voice over ] Okay, fine, so I hadn't told people about the breakup. But you don't understand. Being Joker's girl gave me immunity. I could do whatever I wanted, to whoever I wanted, and no one ever dared to object.
+109	Harley Quinn: [ to Cassandra ] I'm telling you, if you want boys to respect you, you have to show them that you're serious. Blow something up. Shoot someone. Nothing gets a guy's attention like violence.
+110	Harley Quinn: I wasn't going to sell the kid. I was going to trade the kid.
+111	Harley Quinn: I'm not proud of what I did. But I had half the city after me.
+112	Harley Quinn: [ voice over ] I guess all good things have to come to an end. So, we broke up. I handled it real mature.
+113	Harley Quinn: But Mr. J was super broke up about it. I got an amazing new place that was all mine. It gave me the space to really reflect on the mistakes of my past.
+114	Harley Quinn: [ Harley meets Dinah at Roman's club ] Know what a harlequin is?
+115	Harley Quinn: Oof! Oof! A harlequin's role is to serve. An audience. A master. You know a harlequin's nothing without a master. And no one gives two fucks who we are beyond that.
+116	Harley Quinn: Yeah, I don't know who you think I am, lady, but I'm not her.
+117	Harley Quinn: Pudding and I broke up. I haven't told that to anyone. Yeah. For good this time. And for the first time, in a long time, I'm all on my lonesome. It's great.
+118	Harley Quinn: The inflection in your voice, the way you can't hold eye contact, and the fact that you're a filthy little thief, all suggest that you do. Now, you can give it to me, or I can give you to the man that diamond belongs to. But trust me when I say, you're not going to like what he's going to do to you. Now, hand it over.
+119	Harley Quinn: [ in the Batmobile, after picking a fight with Bobby Leibowitz ] Waited ten years to get that...
+120	Harley Quinn: I was just... But... He...
+121	"Harley Quinn: [ very rebelliously ] Oh, big whoop. ""You're living under my roof. You play by my rules."" Is that it? Newsflash, gruesome. You ain't my dad!"
+122	"Harley Quinn: [ still oblivious ] Focus-schmocus. You know, I'm starting to rethink this whole deal. Here I am, helping you guys out, pro bono, I might add, and you got to go and get all mega control-freaky on me. ""Do this. Don't do that! Sit up straight. Brush after every meal. Don't bite your toenails. Keep your knees together when you're wearing a dress."""
+123	Harley Quinn: [ resigned ] Oh, my God! Yeah, yeah, the whole world's gonna plotz. I get it. I get it. You think I'm just some dizzy airhead that don't know nothin'. Do you know what I am?
+124	Harley Quinn: Harley Quinn reporting for duty, sir.
+125	Harley Quinn: You give 'em 20 minutes of naughty fun time and they think they own ya!
+126	Harley Quinn: Friends don't let friends kill 7,000,000,000 people.
+127	Harley Quinn: [ to Nightwing who she has strapped to her bed ] Hey Nightwing is it true you used to be Robin? Huh ain't that a kick in the pants, little boy wonder all grown up?
+128	Harley Quinn: Too late!
+129	Harley Quinn: It's funny I always kinda thought you and Batman didn't like girls.
+130	Harley Quinn: You know, that book with the headlights and eyeball gouging, I had to write a paper about it back in college, got a B minus
+131	Harley Quinn: [ interrupting him ] Pretty lonely these last few months, if you know what I mean? You don't meet a lot of likely prospects at Super Babes, I'm kinda choosy
+132	Harley Quinn: Shhh, face it sugar I got something you want and you sure a shootin' have something I want, so be a good boy and maybe, maybe Mama will give you a cookie
+133	Harley Quinn: I'm taking that as a yes
+134	Harley Quinn: [ to Nightwing ] Meet you at the car
+135	Harley Quinn: [ on Floronic Man ] He's just made of leaves, right? anybody got a match?
+136	Harley Quinn: [ blushes ] Aw shucks!
+137	Harley Quinn: [ farts ]
+138	Harley Quinn: Look at you, Boy Wonder all grown up...
+139	Harley Quinn: Too late.
+140	Harley Quinn: I can help you find her, but you can put in a good word for me for the parole board.
+141	Harley Quinn: My God, Pammy. You haven't even tested it yet, have you? Have you? Batman said that if you get just one teensy-weensy thing wrong, you could wind up killing everything on the planet. Everything, Pammy! Plants, people, animals... everything.
+142	Harley Quinn: You're gonna make me do it, aren't you? Well, when this is all over, just remember... I gave you a chance.
+143	Harley Quinn: [ pulls off her fool's cap and wipes off her face paint ] That's right, sweetie. The nuclear option!
+144	Harley Quinn: [ hugs Ivy ] Works every time. Phew!
+145	Harley Quinn: I'd like to keep it that way.
+146	Harley Quinn: [E xcitedly ] Is this the good kinda acid that gives you superpowers?!
+147	Harley Quinn: Awwww...
+148	Harley Quinn: Oh, no, wait! I'll have a green potato curry.
+149	Harley Quinn: But you're right here.
+150	Harley Quinn: I know it's you Scarecrow,Two-Face,other half of Two-Face,Bane.
+151	Harley Quinn: I need a crew!
+152	Harley Quinn: [ To Maxie Zeus ] Ah, Got it. So you're just a creepy , I'm not fucking you.
+153	Harley Quinn: No, no. No one. Just squeeze into the crawlspace, get into the house, and open it from the inside.
+154	Harley Quinn: You're the only thing small enough to fit!
+155	Harley Quinn: Then they all ran off with that loser Kite Man!
+156	Harley Quinn: You don't think I can kill a 12 year old?! Oh, okay. Well, I will smash in his face with a like a WATERMELON !
+157	Harley Quinn: Robin's lying. Why would I fight a kid? I want a nemesis with some hair on their chest!
+158	Harley Quinn: Hey, Ive, I think there's something really screwed up about me.
+159	Harley Quinn: Obviously! But those pieces of shit were the only people Joker respected. I'll never match up to him unless I'm in the Legion too.
+160	Harley Quinn: Exactly!
+161	Harley Quinn: [ Looking around Batman's Batcave as she dangles from the ceiling ] So this must be where you fuck the bats.
+162	Harley Quinn: We're gonna rob Bruce Wayne!
+163	Harley Quinn: Yeah, says the girl who dissolved the head of Ace Chemicals in a bath of his own herbicide.
+164	Harley Quinn: You know, I do a lot of that, so you're going to have to be more specific.
+165	Harley Quinn: Hey, there's a YMCA pool down the street!
+166	Harley Quinn: So you got a fish tank and you do improv?
+167	Harley Quinn: When my mind is set, it is set. Hell, they blew out three electricshock machines at Arkham trying to get through to me.
+168	Harley Quinn: It's an orca.
+169	Harley Quinn: Ooh, that sounds fun.
+170	Harley Quinn: No.
+171	Harley Quinn: I know you were just trying to protect me and, listen, I'm gonna do the same thing for you. Okay, just cause I'm a card carrying member of the Legion of Doom now...
+172	Harley Quinn: How much of this am I hallucinating?
+173	Dr. Harleen Quinzel: Just me. Weirdly, the passed-out guy with the boner and the talking plant driving a car are both real.
+174	Harley Quinn: Ehh, not really my thing.
+175	Harley Quinn: He broke every promise he ever made!
+176	Harley Quinn: Gentleman--and Psycho--begin Phase 2.
+177	Harley Quinn: Nice save, Jerk-Off League!
+178	Harley Quinn: All right, everybody, back in the tank. If you need to pee, now's your chance.
+179	Harley Quinn: Yuck, you worry too much, Ive.
+180	Harley Quinn: Listen up, goons.
+181	Harley Quinn: This is what I've always wanted, Ivy. Anarchy and sushi.
+182	Harley Quinn: What? It's an ice flue. You know I can't resist alcohol being poured down an icy surface.
+183	Harley Quinn: Damn it! How is a girl supposed to plan her takeover of Gotham if she (raising her voice to a yell) can't see her kill board?!
+184	Harley Quinn: Well, I wanted to give us a head start.
+185	Harley Quinn: You know, you don't have to say that every time you drop us off, okay?
+186	Harley Quinn: And you're free to... umm, shut your trap, Trap!
+187	Harley Quinn: Here, kitty, kitty!
+188	Harley Quinn: Give me a dictionary, and I'll tell you.
+189	Harley Quinn: Ohh, now I've got smashing blue balls. [ breaks a nearby bust ] Ahh, now I can get on with my day.
+190	Harley Quinn: Everyone into the ice vagina.
+191	Harley Quinn: Wait! I know how we can save your wife!
+192	Harley Quinn: So what, you don't want me savin' your wife's life? Okay, I won't.
+193	Harley Quinn: My friend's a doctor and the smartest person I know.
+194	Harley Quinn: Not you, idiot. Ivy.
+195	Harleen Quinzel: Mr. Dent, You can't burn inmates.
+196	Harleen Quinzel: [ spits on Harvey Dent angrily ] Fuck off, Two-Face!
+197	Harley Quinn: And I didn't get a single royalty...
+198	Harley Quinn: [realising what she has to do] : Ivy.
+199	Harley Quinn: It's okay.
+200	Harley Quinn: Have a good life, get married, make babies. Name them Harley. The girls and boys.
+201	Harley Quinn: See? It totally works. You know I love you. Bye, Ive.
+202	Harley Quinn: Let's not judge a lawyer by the fact he's a bat.
+203	Harley Quinn: So I am going to lie very high!
+204	Harley Quinn: So I just got to beat up an old lady and I get an army? I can do that.
+205	Harley Quinn: Probably be best if you turn around your merry band of meatbags.
+206	Harley Quinn: Gordo, I have a flying army from a hell planet under my control.
+207	Harley Quinn: I don't know, but I think you do. Are you sure you can't just remember?
+208	Harley Quinn: That's disappointing because I really, really, really don't wanna have to do this.
+209	Harley Quinn: I'll be seein' ya soon, Mistah J.
+210	Harley Quinn: Pussies are powerful. They birthed all of humanity!
+211	Harley Quinn: What?
+212	Harley Quinn: Gross.
+213	Harley Quinn: Oh, gross! Did you just spray them with Ivy's love pheromones?!
+214	Harley Quinn: Or not! A lot of not! PLEASE, NOT!
+215	Harley Quinn: I sometimes can't get over the fact that Ivy has sex with you.
+216	Harley Quinn: Ivy, you call me out on all my bullshit but you don't judge me for it. We have fun wether we're sitting on the couch or murdering a group of investment bankers. You showed me what the best version of myself could be and... and you held me to it. I'm in love with you. I wanna to be with you and... and yes, it might be messy, it might not work. It might even destroy our friendship forever, but love is a risk. I'd rather risk our friendship than pretend these feelings aren't real. You see, you don't give up on love, Ive. Take a risk, take leap of faith and be with me.
+217	Harley Quinn: [ driving ] Where's the exit?
+218	Harley Quinn: If I can't fuck up Ivy's wedding, no one can!
+219	Harley Quinn: I'm really sorry, Ivy! Kite Man will come around, he always does!
+220	Harley Quinn: Well, people change, Ive!
+221	Harley Quinn: You... you don't think I'm chaotic, crazy and make a bunch of messes?
+222	Harley Quinn: I love you, Ive!
+223	Harley Quinn: Ah, thanks. We've been doing a ton of fucking.
+224	Harley Quinn: I'm getting nervous about Kylie's and Brittney's improv skills with Gordon.
+225	Harley Quinn: What up, Gotham City? You ready to lick up my toe? Harley Quinn and Poison Ivy are back! [to Dick] Now, that's how you make an entrance, you fucking dork.
+226	Harley Quinn: You know, I should hate 'em, but damn it, the girls got moves.
+227	"Harley Quinn: Beacuse we had an affair while you were dating, and you left him at the altar for me, and now we're all seated at an award show where you and I are run for ""Best Couple""..."
+228	Harley Quinn: Totally. How?
+229	Harley Quinn: Okay, I absolutely love that image, but Ive, I'm so sorry. You had real anxiety all night and... I should have helped. I was so fixated on that award when I was with Joker 'cause it was the only validation I've ever got. But that was a bad relationship and I've grown beyond that. So who cares about a dumb trophy? [gently touches Ivy's face] I got the real award right here.
+230	Harley Quinn: [ Singing in heavy metal style ]: Ivy is so smart. She's no science wuzzy. And in celebration, I'm gonna eat her puss... [Ivy shows up.] Oh, hey babe!
+231	Harley Quinn: Let's make some shit disappear, Chris Angel!
+232	Harley Quinn: Well, congrats for freeing yourself from the chains of hetero hell.
+233	Harley Quinn: Why are you smiling?! You were seconds away from being puppeted by a leprechaun in a funky hat.
+234	Harley Quinn: [ Immediately beats the Mad Hatter to death with her baseball bat ] You were saying?
+235	Harley Quinn: I like killing assholes. Don't read into it.
+236	"Harley Quinn: [ Sighs ] We are in the AREA of friendship. We're not making bracelets yet. [ Brief silence ] We're NOT ! Oh, and FYI, when someone texts ""LOL period"", the conversation is over!"
+237	Harley Quinn: LOL PERIOD! [ Leaves ]
+238	Harley Quinn: [ After throwing Bruce Wayne's unconscious body to the floor ] Who has two thumbs to break and a full set of teeth to yank out? THIS GUY!
+239	Harley Quinn: [to Bruce's child self] You grow up to have a real savior-complex. Who do you think you are? You don't sound like Bruce Wayne there. You sound like... [gasps] Holy shit! You're...
+240	Harley Quinn: How could Bruce be Batman? I mean, sure, he's the richest man in Gotham, so that explains all the vehicles, and he always goes missing at big galas when villains show up... Okay, if you come to think of it, it's very obvious.
+241	Harley Quinn: I'm barley clown-themed anymore. I just dress like this because it's hot. I mean, check out how good this booty-shorts make my ass look. [Kid Bruce looks confused.] Nevermind, you're eight.
+242	Harley Quinn: You're disgusthing. All this destruction and mayhem for what? Do you really like this?
+243	Harley Quinn: Oh, and that accent. Oh, my God! So heavy, girl. Ease it down.
+244	Harley Quinn: Not you. Not anymore. Someday you'll get with the love of your life and realize how foolish you've been all those years.
+245	Harley Quinn: We haven't talked about marriage YET.
+246	Harley Quinn: Hey, you never told me stopping baddies is this much fun. Being a hero is supposed to be lame.
+247	Harley Quinn: You don't think the shorts are too short? I like to show off a lil' something, but come on. This is a thong.
+248	Harley Quinn: No, absolutely not! The last time you went there, you almost died.
+249	Harley Quinn: Who knew confidence was my kink?
+250	Harley Quinn: And you're delegating. Oh, I'm gonna need to change my shorts. [Ivy pulls her closer and passionately kisses her.] Oh God, I love you.
+251	Harley Quinn: Okay, so which way is the Batcave?
+252	Harley Quinn: Guys, I know Bruce is Batman.
+253	Harley Quinn: That is not true.
+254	Harley Quinn: Because I don't wanna lose you.
+255	Harley Quinn: If we don't want the same thing, what is that mean for us?
+256	Harley Quinn: Yeah, I know, I could not pull off those cargo shorts.
+257	Harley Quinn: But what if I don't know exactly what that is? Look, I know I don't want to kill Joker and I don't want to do big evil plans, but... do I wanna help people? Maybe. I don't know. I haven't really let myself think about it. People are saying I'm not a villain anymore which is fine, like, whatever, labels are lame, but... I'm not ready to identify as... the other thing.
+258	Harley Quinn: It is. I was alone for so long carrying around this trauma. Then I met you and I fell in love which helped me get past it. I'm finally in a place where I can actually think about what I want. It's exciting. And scary.
+259	Harley Quinn: So, is Lex gonna be pissed you didn't killed Joker?
+260	Harley Quinn: Hmm. God knows I do. [kisses Ivy]
+261	Harley Quinn: Hey, assholes!
+262	Harley Quinn: Yeah, with Baty in the clink, I thought you silly rodents might need a little help. Hm? Don't worry, Nightwing. You still got the best looking ass out of all of us.
+263	Harley Quinn: Like in general or is there some specific we need to do?
+264	Harley Quinn: Thanks for waiting me, you fucking dildos! [smiles] I'll take the stairs.
+265	Harley Quinn: Who is pumped for the best VD ever? I mean, ugh, look, you know what I meant.
+266	Harley Quinn: I was a wolf wearing a Wonder Woman suit. It made perfect fucking sense.
+267	Harley Quinn: Holy shit. Do I love Valentine's Day? Not only is it the gushiest, mushiest, most romantic day of the year, but for 24 hours, you have a bulletproof excuse for doing super cheesy shit for your partner. You can eat as much chocolate as you want, no judgment. And it's super fucking cold in February, so it's the perfect excuse to snuggle.
+268	Harley Quinn: I promise, if you let me have this one, I will never bring it up again.
+269	Harley Quinn: Yeah, but with less gusto.
+270	Harley Quinn: Oh, you can't possibly be mad at me for getting you off too good. That is not a thing.
+271	Harley Quinn: It's a bird, it's a plane. It's motherfucking Harley Quinn!
+272	Harley Quinn: Who's disrespecting you? I will kill them!
+273	Harley Quinn: Out of my way, Alfred! I finished my chores, and now I'm off to fight crime. Step aside or I'll have to fuck you up!
+274	Harley Quinn: Ah! Why?
+275	Harley Quinn: You should know that your rage is making your forehead wrinkles pop! [ Clayface looks in a mirror and sees it's true ]
+276	Harley Quinn: [ Rough housing with Babs and Dick, body flipping him on the floor ] And... you're both dead! Come on. You can do better than that! [ Punches Barbara in chest ]
+277	Harley Quinn: Toughen up! You think real villains are about giving you a ?! [ Grabs Dick by nipples and throws him on floor ] Think again!
+278	Harley Quinn: If you want a weapon, look around! Everything's a weapon!
+279	Harley Quinn: Horrible choice for fashion. Great choice for weapon. [ Garrotes Babs's neck with belt ]
+280	Harley Quinn: Okay, paranoid, I'm sure it's just a Swedish tradition. [ Points ] Be... respectful !
+281	Harley Quinn: Remember this binder from when we fought the CleggBnB guest? Man, that was amazing! I mean, look, it still has some of Yonas's on it!
+282	Harley Quinn: I was thinking that too! Where are you guy's friendship bracelets?
+283	Harley Quinn: [ Leaps onto a thug ] Of course we're friends! Just like my old crew! [ Points to each crew member ignoring her ] Batgirl, you're King Shark! Robin, you're Psycho! Uh, [ punches a thug in face ] Nightwing, [ punches a thug in face ] you are Clayface,  [ kicks a thug in face ] because of what a drama queen you are!
+284	Harley Quinn: See, such a Clayface!
+285	Harley Quinn: I never realized how bad my night vision was till I started sneaking around in the shadows with you. [ Gasps ] It does explain why I went down on Ivy's armpit. Meh, she still got there.
+286	Harley Quinn: Okay, okay. I see what's going on. You haven't let me into your hearts because my eyes suck. [ Pokes Nightwing's abdomen ]
+287	Harley Quinn: [ Runs to thug running with a warehouse pallet ] I'll protect you! [ Jumps past thug and knocks herself out on a pipe ]
+288	Harley Quinn: Thank you for the hero discount! I cannot wait to surprise the Bat family with my new eyes! If they're willing to see how far I'm willing to go to be better, maybe they'll reciprocate and wear my bracelet.
+289	Harley Quinn: Ugh, yeah. Nora. [ Holds up phone ] Let me try, Ivy. Call soulmate peach emoji sweat droplets emoji devil horn smile.
+290	Harley Quinn: Okay, I'm trying! I'm trying! [ Calls Batgirl only to be unanswered with a scene of her phone left on bed ] I've been abandoned!
+291	Harley Quinn: [ Walks in Ivy's apartment with a box calling for Ivy ] Ive? Ivy? Guess who's moving in? [ Sees Frank ] Frank?! What.. what are you doing here?! I thought you lived at the office?!
+292	Harley Quinn: The Jons?! Ugh! I don't even know what's going with Ivy anymore. I mean, wait. Does she still have red hair? Tell me everything.
+293	Harley Quinn: Uh, hey, Frank, I'm gonna aw up for Ivy, okay? [ Sets box on floor, sits in sofa seat and falls asleep ]
+294	Harley Quinn: What?! No, I didn't!
+295	Harley Quinn: Sleepwalking? Wait, wait, is Ivy here?
+296	Harley Quinn: She didn't even notice I was here?
+297	Harley Quinn: [ Bursts in causing James to lose balance and have scissors rammed up nose ] Gordon! I need your help!
+298	Harley Quinn: [ Grabs James and throws him into chair ] Listen, I was here last night for the Nightwing's dead party, and I saw another Harley! I gotta know if I'm losing my fucking mind! So, can we please check the security cameras now?
+299	Harley Quinn: [ Looks at monitor ] Who the hell is this?
+300	Harley Quinn: Come on.
+301	Harley Quinn: Hey, where is the rest of the footage?!
+302	Harley Quinn: [ Grabs James shirt and gets on his lap ] So fucking worthless! When I'm looking for something... I need to know what's happening to me! Gordon, do I seem insane to you?!
+303	Harley Quinn: [ To Batgirl on the computer in the Batcave ] Batgirl, I need to have a very one-sided conversation about my mental state. So, could you... hello?!
+304	Harley Quinn: So, um, I just wanna, like, talk about last night.
+305	Harley Quinn: I did?! I don't remember doing that or eating half an egg sandwich?! Oh, my God. I'm really losing it?!
+306	Harley Quinn: Okay. Well, cool. But I am totally not good. I'm more...
+307	Harley Quinn: Oh, my God! You're right! He really is the worst at keeping secrets! I mean, he always tells the kids where the is hidden [[w:passover|at passover!
+308	Harley Quinn: Right! That's, kind of, what I was hoping to talk to you about.
+309	Harley Quinn: Awesome. You're the best. Thank you. [ Walks away ]
+310	Harley Quinn: [ Enters office ] Hey babe, um...
+311	Harley Quinn: What's with the red wig?
+312	Harley Quinn: [ Arrives to Poison Ivy attempting to hijack the time-sphere from a moving transport-truck ] Listen, I need to talk to you.
+313	Harley Quinn: I would not have come if it wasn't super important.
+314	Harley Quinn: I don't think we can.
+315	Harley Quinn: Geez! There's a time-ball on this truck?!
+316	Harley Quinn: It's intuitive.
+317	Harley Quinn: Damn it.
+318	Harley Quinn: Hmm? Interesting. It may not be as intuitive as I thought, which is on the time-sphere.
+319	Harley Quinn: Oh, what? Sorry. Do you have a hard-out?
+320	Harley Quinn: Well, guess what? There's an apocalypse happening in my brain. The emotional chickens came home and they are roasting, Ivy!
+321	Harley Quinn: Cluck-cluck, Ivy. The chickens are fucking...! [ militarized aerial drones approach and open fire on them ]
+322	Harley Quinn: You wanna dance, baby? Let's fucking dance!
+323	Harley Quinn: I'm better than a hero. I'm Harley Fucking Quinn.
+324	Harley Quinn: The Mother Box: my favorite means of intergalactic transportation and body part.
+325	Harley Quinn: Oh, Come on! My hands weren't even in her pants yet!
+326	Harley Quinn: Batgirl did it! We're in!
+327	Harley Quinn: Oh, I love the plan, very emotionally cool, obvs, but maybe first, let's evacuate the buildings, huh?
+328	Harley Quinn: Okay, now you're just showing off! [ To Poison Ivy ] Who are we going to blow up first, hot stuff?
+329	Harley Quinn: I love when we're in sync like this.
+330	Harleen Quinzel (Arkhamverse): Anyone who throws boomerangs has some real issues letting go.
+331	Harleen Quinzel (Arkhamverse): Excellent reflexes! You've just passed the first test--not dying!
+332	Harleen Quinzel (Arkhamverse): The Joker saved you. Just like he did me. And now you're the only thing protecting this town from guys like Batman. You're Arkham's Knight in shinning armor, kid. The Joker chose you just for this... just like me.
+333	Harleen Quinzel (Arkhamverse): My little Buddy was a very little guy, with a very big heart. Brought to life with magic, with so much love to give. He was my friend. And you're going to pay.
+334	Harleen Quinzel (Arrowverse): Do you cuties need some counseling? I'm a trained therapist.
+335	Harleen Quinzel (Batman 1966 TV Series): Knock, knock, Puddin'! Say hello to your new and improved Harley Quinn!
+336	Harleen Quinzel (Batman vs. TMNT): Eight years of college, a three-year residency, and he says nurse!
+337	Harleen Quinzel (Birds of Prey): Never send a businessman to do a psychopath's job.
+338	Harleen Quinzel (Birds of Prey): I was the one who told him the key to his mental well-being was to express his rage. That's not bad work, for an amateur.
+339	Harleen Quinzel (Breaking Glass): Listen up, 'cuz I'm gonna tell you this really great story and you're gonna love it. It's gonna make your brains explode like spaghetti. Ready? Okay. No interrupting! Okay. Once upon a time, not so so long ago, there was a most amazing person... who was from everywhere and nowhere. And her name was... Ta-da! Harleen Quinzel.
+340	Harleen Quinzel (Breaking Glass): From the moment Harleen met Ivy... she knew Ivy was a super-special person. Ivy was one of those people who always had questions. Mostly, Ivy had all this stuff she wanted to talk about... that other people weren't talking about. Even when it bugged other people. Ivy didn't care. Which was cool. Super cool. The best thing to do with a super-special person is to make them your friend. So that's what Harleen did.
+341	Harleen Quinzel (Breaking Glass): Mama, a.k.a. Benny, a.k.a. the fairy godperson of the story, a.k.a. yes, I know Little Red Riding Hood doesn't have a fairy godperson, shut up. Mama gets to be the fairy godperson of the story because he said he is a fairy and because he is the most non-booger person in any story ever.
+342	Harleen Quinzel (Burtonverse): In my practice i work with violent, sick people. But when you give them a secret face--- a vehicle for all their hostility and aggression and base impulses-- their normal face becomes the disguise.
+343	Harleen Quinzel (Criminal Sanity): In a movie, this is the part where the stranged daughter thinks about the happy memories she has of her mother. But my mom was a heartless bitch.
+344	Harleen Quinzel (Criminal Sanity): Psychopaths are apex predators. Society's version of tigers, stalking us in concrete jungles. Without any predators to challenge them, criminals like the Joker will keep killing. Unless we stop them. Batman had the right idea, but he didn't take it far enough. Putting predators behind bars will only slow them down. Someone has to hunt the hunters. In the jungle, the animal with the best chance of killing a tiger is one of its own. I'll be that someone.
+345	Harleen Quinzel (DC Animated Movie Universe): I ain't worried, I know I'm going to heaven. Anyone who can put up with Mr. J deserves a break.
+346	Harleen Quinzel (DC Bombshells): I'm sure glad my unsung superpower is to turn everything into comedy, or else this sure would hurt.
+347	Harleen Quinzel (DC Bombshells): No one likes a brassy, mouthy broad with a sense of humor. Except one. Let's call him Mistah J.
+348	Harleen Quinzel (DC Bombshells): Eh , best not to think about it. Time-travel
+349	Harleen Quinzel (DC Bombshells): ' Eh, best not to think about it. Time-travel  sucks.
+350	Harleen Quinzel (DC Extended Universe): Number one, no one is like me. If you wanted to even come close, you would have to go to medical school. Become a psychiatrist, work in an asylum. Fall in love with your patient, break said patient out of said asylum. Begin a life of crime. Jump into a vat of chemicals to prove yourself to a madman. Get arrested by the Batman. Go back to jail, get out of jail with a bomb in your neck. Save the world, go back to jail, and break out of jail before breaking up with the aforementioned madman and going out on your own.
+351	Harleen Quinzel (DC Legends): My old gang didn't think I was so bad. Just ask 'em, if they're still alive.
+352	Harleen Quinzel (DC Super Hero Girls TV Series): Youse guys are villains? Why didn't ya say somethin'?
+353	Harleen Quinzel (DC Super Hero Girls TV Series): Ah, you're thinkin' the Ace chemical plant third. This is the from twenty-seventh. This tub is where turned Dr. Fries into Mister Freeze.
+354	Harleen Quinzel (DC Super Hero Girls): It's my job as a superhero to save you... FROM YOURSELVES! Harley-fying is history. From here on out, the only things I'll be blogging about is boring-old sugar-free cupcakes!
+355	Harleen Quinzel (DC Super Hero Girls): Serious, why so serious? ... Ha, I can't! I need funny STAT! Woo-hoo! That's the ticket!
+356	Harleen Quinzel (DC Super Hero Girls): Your mission, if you choose to be missioning is to get your sneak on and help me put this birthday surprise in Batgirl's room.
+357	Harleen Quinzel (DC Super Hero Girls): Harriet is crazy. You need someone thinks even crazier to stop her.
+358	Harleen Quinzel (DC Super Hero Girls): You can also call me... The Harlster supertar, the girl everybody wants to be like, Gotham City's greatest comedic genius.
+359	Harleen Quinzel (DC Super Hero Girls): Ugh, this ink splatting's totes tedious. TIME TO GO BIG, OR GO BIGGER!!!
+360	Harleen Quinzel (DCAU): You'd think after living with Mr. J I'd be used to a little pain.
+361	Harleen Quinzel (DCAU): I've never seen you laugh before... I don't think I like it!
+362	Harleen Quinzel (DCAU): I'm having a BAD DAY! I'm sick of people trying to shoot me, run me over, and blow me up!
+363	Harleen Quinzel (DCAU): A Harley Scout does whatever she wants, whenever she wants, to whoever she wants. So get out of my face, chump.
+364	Harleen Quinzel (DCAU): She had legs. Legs that started in New Jersey and ended up here: in that litter-box known as Gotham City.
+365	Harleen Quinzel (DCAU): That woman has got to be stopped!
+366	Harleen Quinzel (DCAU): Who'da thought? Batgirl, a guy?
+367	Harleen Quinzel (DCAU): Harley Quinn is nobody's fool anymore!
+368	Harleen Quinzel (DCAU): Don't flatter yourself, Kid Kilowatt!
+369	Harleen Quinzel (DCAU): Who could possibly be mad at me? Well... there was that guy I took a coupla million dollars from. And then there was that lady's yacht I stole... and sank. Oh, and there was also that time I tried to bake part of Clayface, to see if I could make a nice ashtray or somethin' for Mister J.
+370	Harleen Quinzel (DCAU): I broke you out of that two-bit prison they stuck you in... For this?!? Flowers and love poems?
+371	Harleen Quinzel (DCAU): Hey! I was a psychologist, y'know. I ain't stupid!
+372	Harleen Quinzel (DCAU): Geez, Mr. J. wasn't kidding when he said we were stuck in a rut fighting second-stringers.
+373	Harleen Quinzel (DCAU): Sigh. A man wasting away for the woman he loves. Ain't it romantic?
+374	Harleen Quinzel (DCAU): Lighten up, sourpuss. This is fun.
+375	Harleen Quinzel (DCAU): I swear to God, I liked it better when Robin was helpin' the B-man insteada us.
+376	Harleen Quinzel (DCAU): You know the Carpenter, fix-it gal to Gotham's criminal elite?
+377	Harleen Quinzel (DCAU): Who're you? Batman's squeeze?
+378	Harleen Quinzel (DCAU): Did you see the way I handled those creeps? Pow! Bam! Batgirl, eat your heart out!
+379	Harleen Quinzel (DCeased): This could take a few days, as the scrapbook will require glitter and taxidermy.
+380	Harleen Quinzel (Earth -44): Nu-uh, Wally-Gator, save some for the rest of us.
+381	Harleen Quinzel (Earth-508): Women in red and black clown suits first!
+382	Harleen Quinzel (Future State): You want me to help you catch Gotham's baddies because...you can't?
+383	Harleen Quinzel (Future State): You think you're the new Joker with a laugh like that? PATHETIC!
+384	Harleen Quinzel (Futures End): You do not belong here. You deserve better. Way better. C'mon. I'm takin' you home puddin'.
+385	Harleen Quinzel (Futures End): I can't believe I'm gonna marry Mista J... This is so exciting!
+386	Harleen Quinzel (Gotham City Garage): Oh, Puddin'. Nonsense is my specialty.
+387	Harleen Quinzel (Harleen): It's the color of his grin. The color of my sin. Red is the color of our art. Red is the color we painted this town. Red is the color of a breakup. Because a broken heart is a wounded heart and a wound bleeds and in that moment of rage even he is red and... and red is the color of a rose.
+388	Harleen Quinzel (Harleen): My story's is the one where the girl dances with the devil, and he takes her with him on a long road to hell. That road starts, as they often do... With a good intention.
+389	Harleen Quinzel (Harley Quinn TV Series): I have friends that love and care about me. I'm moving my life with the people that matter.
+390	Harleen Quinzel (Harley Quinn TV Series): What Queen of Fables made me realize, is if I want a crew, I shouldn't be looking for scumbags who believe in me, I should be looking for scumbags no one else believes in.
+391	Harleen Quinzel (Harley Quinn TV Series): It was him all along, wasn't it? It's always been him. Joker never loved me. He only loves Batman.
+392	Harleen Quinzel (Harley Quinn TV Series): Anyone who is a respected supervillain is in the Legion of Doom. That's when you know you've made it. If Joker can get in, so can I!
+393	Harleen Quinzel (Harley Quinn TV Series): What do you say, buddy? You up for a classic Shark-Ley adventure?
+394	Harleen Quinzel (Harley Quinn TV Series): How could Bruce be Batman? I mean, sure, he's the richest man in Gotham, so that explains all the vehicles. And he's always going missing at big galas when villains show up. Okay, come to think of it, it's very obvious.
+395	Harleen Quinzel (Harley Quinn TV Series): Yesterday I was a villain and now I'm training alongside the Bat-Fam.
+396	Harleen Quinzel (Harley Quinn TV Series): This is our very first Valentine's Day together!
+397	Harleen Quinzel (Harley Quinn TV Series): It has got to be him. God, I'm so good at my new job.
+398	Harleen Quinzel (Harley Quinn TV Series): This is a job for... Hargret.
+399	Harleen Quinzel (Harley Quinn TV Series): I'm better than a hero, I'm Harley fucking Quinn.
+400	Harleen Quinzel (Harley Quinn TV Series): I've been abandoned.
+401	Harleen Quinzel (Harley Screws Up the DCU): So... you blew up the baby?!
+402	Harleen Quinzel (Injustice): I don't know what I ever saw in that man. When he was gone, I became the woman I was destined to be...a hero!
+403	Harleen Quinzel (Injustice): Who run Tartar-Town! I run Tartar-Town
+404	Harleen Quinzel (Injustice): Wow, Black Canary. You look pretty calm for someone who's just caught exploding slippers.
+405	"Harleen Quinzel (Injustice): ""Arrow Cave"" is a pretty stupid name, though. I know Batman has a Bat Cave but that makes sense. Bats live in caves. Arrows don't live in caves. They're inanimate objects, they don't live at all. Why don't you call it, like, ""The Quiver""?"
+406	Harleen Quinzel (Injustice): I thought a love like ours was forever. I mean, it was. But it's hard to love a man who has Superman's fist rammed through his chest.
+407	Harleen Quinzel (Injustice): The same thing that made our Super-Fascist so terrifying, made their Superman so awe-inspiring.
+408	Harleen Quinzel (Injustice): For a little bit, it was fun. So fun I forgot. What the stakes were. Who we were up against. That this was a war. People died. The big names. The unknown henchmen. Especiall them.
+409	Harleen Quinzel (Injustice): Sure, he wasn't technically my Mr. J, but he was close enough for comfort.
+410	Harleen Quinzel (Injustice): I realize you're young, so let me explain the concept of escaping in as condescending of a manner I can...
+411	Harleen Quinzel (Injustice): I always liked this Robin the best. He smiled and his jokes were good. You seemed... better around him.
+412	Harleen Quinzel (Injustice: Earth One): Let's get crazy!
+413	Harleen Quinzel (New Earth): Why can't a girl be nice to a guy without the mook trying to moider her?
+414	Harleen Quinzel (New Earth): The furries are cheating!
+415	Harleen Quinzel (New Earth): Ivy, I know you think you love this guy, but you're just gonna end up strapped to his rocket!
+416	Harleen Quinzel (New Earth): I'm going to kill you. For everything you've done to me. All the times you've made me feel useless and small. For all the times I will never forget. For all the things I can never forgive. All the memories...
+417	Harleen Quinzel (New Earth): After all this time--all these years--you and I have history. I know what you think of me. You think I'm just a doll. A doll that's pink and light. A doll you can arrange any way you like. You're wrong. Very wrong. What you think of me is only a ghost of time. I am dangerous. And I will show you just how dark I can be.
+418	Harleen Quinzel (New Earth): And Batman is allowing one of his worst enemies to walk around free for what reason?
+419	Harleen Quinzel (New Earth): And if I've learned nothing else from Bugs Bunny cartoons, it's that there's always SOMETHING I can say to get the bad guy to untie me.
+420	Harleen Quinzel (New Earth): You know, Pop, the main reason I became a psychiatrist was so I could understand why you did the things you did to our family. Now that I've been a criminal myself, I think I understand some of the choices you felt you had to make.
+421	Harleen Quinzel (New Earth): That's when everything went ka-blooey!
+422	Harleen Quinzel (New Earth): He's unique. One of a kind. But as a boyfriend, he has some commitment issues.
+423	Harleen Quinzel (New Earth): Between you and me, I find persistence extremely sexy.
+424	Harleen Quinzel (New Earth): This girl is going to give me a drinking problem.
+425	Harleen Quinzel (New Earth): Why are you always running away?
+426	Harleen Quinzel (New Earth): I'm rubber, you're glue, whatever you say bounces off me and makes a six-inch-diameter exit wound in you.
+427	Harleen Quinzel (New Earth): Yeah, yeah, yay Girl Power. I hate to break it to you strong female characters, but I'm just the sideshow.
+428	Harleen Quinzel (New Earth): Ladies and jerks! There's been a slight change in tonight's show. Insteada the opera robbin' you for somethin' like a thousand bucks a seat -- we're gonna rob you! Believe me folks, I've seen it already. I'm doin' ya a big favor!
+429	Harleen Quinzel (New Earth): He... He loves me not...
+430	Harleen Quinzel (New Earth): Wouldn't it be funny if they just grabbed each other and started making out?
+431	Harleen Quinzel (New Earth): Hot patootie, bless my soul!
+432	Harleen Quinzel (Old Lady Harley): Man, I miss that head.
+433	Harleen Quinzel (Old Lady Harley): I know that even on the best days, in our happiest moments, we can feel alone. I've lost people, just as I'm sure you have, and I've come very close to losin' myself. But the thing is... I don't think that's specific to just us Harleys. I think that's kind life sometimes, yeah?
+434	Harleen Quinzel (Old Lady Harley): For someone who didn't want a cliché ending, you really did lean into the cheese...
+435	Harleen Quinzel (Prime Earth): HELP WANTED. Looking for a few brassy lassies willing to make the world a better place, take a bite out of crime, and b a part of something bigger than themselves... There will be no background check, as experience with insubordinance will only work to your advantage in the hiring process.
+436	Harleen Quinzel (Prime Earth): But the clown-spankin' truth is this, our strength comes not from being whole, but from bein' broken differently. Because there's enough of us, we are whole together.
+437	Harleen Quinzel (Prime Earth): Ya wanna know what this is really about, Mistah J? It's about cognitive empathy. It's about finally understandin' what it was like ta be me in our relationship. By experiencin' what it's like ta be trapped.
+438	Harleen Quinzel (Prime Earth): Gotham needs you to get your @#$$ together, or we're all gonna die!
+439	Harleen Quinzel (Prime Earth): This can't be like all the other times. This story needs to change. It needs an ending.
+440	Harleen Quinzel (Prime Earth): With that in mind, we opted for the next best thing...a big, splashy holiday special!
+441	Harleen Quinzel (Prime Earth): My rational mind can recognize pain when I see it. But my rational mind is in a pretty small box. All tied up with a bow on it.
+442	Harleen Quinzel (Prime Earth): Hey, Grifter! Anyone ever tell you you're supposed to break out of jail-- not into it, you idiot?
+443	Harleen Quinzel (Prime Earth): Welcome, ladies and genocides! Ta the  Annual Villain Awards!''
+444	Harleen Quinzel (Prime Earth): Holee hairy scarlet an' scary! What the fuzzy hell are YOU? I mean...WHO the fuzzy hell are you?
+445	Harleen Quinzel (Prime Earth): Okay, my li'l sea treasure...Let's see if ya got any interestin' messages in you.
+446	Harleen Quinzel (Prime Earth): Ha, ha, ha, ha, ha, ha! It's hysterical, Mr. J! Welp, scratch one slinky stink bomb! Let her have it, puddin'!
+447	Harleen Quinzel (Prime Earth): Right now what I want... is to hold onto what I have. Because without that, I'm not sure I have anything. Aww, jeez! I blew the whistle on him! What was I thinking?!
+448	Harleen Quinzel (Prime Earth): My book, Red Tool. I never lose.
+449	Harleen Quinzel (Prime Earth): Not everyone understands her intentions are for the good' of the whole wide world! I'm her best friend.
+450	Harleen Quinzel (Prime Earth): Mmmm, spiked eggnog. It's like the cream a' Christmas in a spoon!
+451	Harleen Quinzel (Prime Earth): Holee-Clusterfolee, it's a friggin' zoo in here!
+452	Harleen Quinzel (Prime Earth): Bruce Wayne, yer millionaire butt is sooo mine.
+453	Harleen Quinzel (Prime Earth): I would be instigating mayhem everywhere I go!
+454	Harleen Quinzel (Prime Earth): Understood, Dr. Hertz. Too much of anything is no good. Not.
+455	Harleen Quinzel (Prime Earth): Nice to meet'cha too. Anyone ever tell you your breath stinks of cheese farts?
+456	Harleen Quinzel (Prime Earth): Sorry. I was tryin' out somethin' for our new team.
+457	Harleen Quinzel (Prime Earth): Well, if you ain't findin' my bodacious bongos distractin'-- I'm sure you'll be mesmerized by my resplendent rear end!
+458	Harleen Quinzel (Prime Earth): Look, I'm in no mood for this crap. Especially after the day I been havin!
+459	Harleen Quinzel (Prime Earth): What's gonna happen here is, I'm gonna turn off the lights fer two minutes, an' when I turn 'em back on, whoever's still standin' gets the job.
+460	Harleen Quinzel (Prime Earth): I must let the world know about my craving.  I want pancakes and I want them now!
+461	Harleen Quinzel (Prime Earth): Yeah, but it's like twenty-five bucks now.  They oughta give you a massage with that, y'know?  I mean, I can almost buy five comics with that.  It's crime on a Wednesday, I tell ya.
+462	"Harleen Quinzel (Prime Earth): Gotham's so pretty from this distance.  I miss my friends, but the city itself has changed ... I've changed, too.  I love the home I have now."""
+463	Harleen Quinzel (Prime Earth): I love it! It's so... cinematic!
+464	Harleen Quinzel (Prime Earth): That was so not romantic.
+465	Harleen Quinzel (Prime Earth): The rest of you have five seconds before I take your tacky tickle toys and find new places ta shove 'em!
+466	Harleen Quinzel (Prime Earth): Maybe we should just let 'im... y'know... kick the bucket natcherly.
+467	Harleen Quinzel (Prime Earth): Holee stinkerolee! It smells like a turd's butthole back here.
+468	Harleen Quinzel (Prime Earth): Hey, shishka-bimbo... You try an' turn my friend into cole slaw... and I'm gonna go all hibachi steakhouse on your ass!
+469	Harleen Quinzel (Prime Earth): How's my babies? Anyone squeeze out some more ammo for mama?
+470	Harleen Quinzel (Prime Earth): What the Hell? That suit! What are you, the president'a my fan club?
+471	Harleen Quinzel (Prime Earth): Welcome, everybody, ta the greatest show in the whole wide world!  My birth name is Harleen Quinzel, but my friends an' enemies know me simply as Harley Quinn!  I will be your host-est with the most-est this evening!
+472	Harleen Quinzel (Prime Earth): What part of what I said didn't you guys get? If anyone is doin' any Scooby-Dooin' around here, it's me. Just me. No damned meddlin' kids allowed.
+473	Harleen Quinzel (Prime Earth): Harley's back, bitches.
+474	Harleen Quinzel (Prime Earth): I'm Harley Quinn. Twice the smarts of Batman and all the vitamins of a bowl of oranges.
+475	Harleen Quinzel (Prime Earth): A hammer, a dog and no rules! What else could a gal want?!
+476	Harleen Quinzel (Prime Earth): Y'see, Granny, takin' people less fortunate than meself an' herdin' them ta certain death... it just ain't my  je ne sais quoi .
+477	Harleen Quinzel (Prime Earth): Ugh...Th-That stings. Ya c-can hit me with that hammer a  hundred times--but I learned the meanin' o' life! Or, at least, my life! There ain't nothin'--and I mean nothin'--I love more than seein' a grade-A jerkface like you so furious! I'm havin' the time o' my life!
+478	Harleen Quinzel (Prime Earth): Attention Losers! Ya just messed with the wrooooong secret headquarters! So says Harley Quinn!... I can play whack-a-mook all day, ya mooks!
+479	Harleen Quinzel (Prime Earth): Let's be real, yer dyin' for the approval of yer dad, and he ain't even qualified to give it! He should always want ya to be the best version of yerself, even if ya fight about it! Don't become a monster for someone who doesn't even want the best for ya!
+480	Harleen Quinzel (Prime Earth): Listen up! What's the best holiday? Christmas! I don't need to tell ya, I been havin' a real hard time lately! An' Christmas has been the one thing I'm lookin' forward to! If ya ruin it fer me... I'll kill all y'all and hang ya with th' stockings! Ho ho ho!
+481	Harleen Quinzel (Prime Earth): I like ta cause a ruckus as much as anyone. What I don't understand is -- why do it for such boring old ideas?! I mean, if yer gonna be evil, at least make it interestin'.
+482	Harleen Quinzel (Prime Earth): Bats -- after all we've been through, all the ups and downs -- ya really think I'm irredeemable?
+483	Harleen Quinzel (Prime Earth): I took on Apokolips! Just like she said! Heck, I survived a relationship with th' Joker! I got more guts in my boot heel than she does in her entire family!
+484	Harleen Quinzel (Prime Earth): Don't worry, ma. I already laughed in the face a Death once today. An' if he comes back, I'll do it again.
+485	Harleen Quinzel (Prime Earth): I mean, for one thing...you thought you could tie me up?  Me?  I'll have you know, professionals have tied me up--and not just Ivy on date night, either!
+486	Harleen Quinzel (Prime Earth): We usually do bat for the bad guys. Pun intended. But where has it gotten us? It's the same joke over and over. We've heard that punch line. But maybe we need a change. Maybe we should try being heroes. ...And not just when we're framed for a bunch of murders. For real. ...Babe?
+487	Harleen Quinzel (Prime Earth): What kind of alien ass do I gotta kick?!
+488	Harleen Quinzel (Prime Earth): I'm gonna creatify me some art!
+489	Harleen Quinzel (Prime Earth): We had two bags a' catnip, seventy-five rounds a' hollow point bullets, half a bag a' fried bacon an' three copies a' Death of Superman.
+490	Harleen Quinzel (Prime Earth): Love makes ya crazy, Mistah V, but sometimes ya get so mixed up an' crazy in love, y'can't tell that yer sweetie is nasty an' yer relationship is toxic.
+491	Harleen Quinzel (Prime Earth): Hey, so, this has been so fun. But sadly, I got to go. Now, as I do... I want to leave you with one thought. A reminder, really. Booster did it!
+492	Harleen Quinzel (Prime Earth): Wait, Wally's alive?!
+493	Harleen Quinzel (Prime Earth): Body not working like it should, Middy?  Parasite's pirating your enhancements.  Gotta change your Wi-Fi password regularly, I always say.
+494	Harleen Quinzel (Prime Earth): Ya wanna know what else I think about the Fist of Cain?  I think they're gonna haveta do a major membership drive after this.
+495	"Harleen Quinzel (Prime Earth): Aw, Mr. Reed.  You thought you could ""outevil"" us.  The Friggin' Suicide Squad.  You made a deal with demons.  What'd you think would happen, ya silly goose?"
+496	Harleen Quinzel (Prime Earth): Harley, I'm trying to figure out why you're trapped.  Why you're trapped in a cycle you can't seem to escape.  I want to set you free.
+497	Harleen Quinzel (Prime Earth): Trust me, if anyone should know about him, it's me. He was the biggest mistake of my life... Do not let him be yours.
+498	Harleen Quinzel (Prime Earth): Although it was intriguing, I felt what I was doing was nothing extraordinary and found myself drawn back ta the subject that has always had my interest. The criminal mind.
+499	"Harleen Quinzel (Prime Earth): Dude, I have white skin, two colors of hair, and I dress like a roller derby reject.  What part of ""Covert"" do you think I do?"
+500	Harleen Quinzel (Prime Earth): We're all a li'l screwy in the brain, Floyd... But the shrink in me says you've gotta way better chance of helping your daughter if you're still alive.
+501	Harleen Quinzel (Prime Earth): Well, aren't you a peach? There are a ton of things I hate about myself, but my face isn't one of them, so I think I'll keep that.
+502	Harleen Quinzel (Prime Earth): You were dead. I'm positive of it. And I got thirty-six stitches in my wrist yesterday. Now look. Gone. They're pumping us with something.
+503	Harleen Quinzel (Prime Earth): Nothing says l'Chaim like a girl dressed in a stripper clown outfit wielding a hundred-pound mallet.
+504	Harleen Quinzel (Prime Earth): Wheee...! This is just like a video game I love called Zombie Wombie. I can get all the way to the last level! It's where I always die.
+505	Harleen Quinzel (Prime Earth): Lookit mah gangsta skeelz.
+506	Harleen Quinzel (Prime Earth): Boy, taking care of babies is harder than it looks.
+507	Harleen Quinzel (Prime Earth): It's so nice to get out of prison, you guys! I mean... it can get kind of oppressive being a bad guy covertly working for the good guys, taking out other bad guys because of the brain bombs the good guys illegally and immorally put in our brains!
+508	Harleen Quinzel (Prime Earth): Maybe we choose madness.  Maybe it chooses us.  I don't know.  Once, a long time ago, I was Dr. Harleen Quinzel, psychotherapist.  Maybe she'd have known.  But let's imagine, for a second, that we do choose madness.  Why would anyone do that, do you think?  Perhaps it's because the insane realize, at some quantum emotional level, that we are alone in this indifferent universe and always will be.  And madness is company.  Another voice in the wilderness.  White noise to break the silence you ain't ever coming back from...
+509	Harleen Quinzel (Prime Earth): You're a slave, I'm a slave, we go kill a few more people in the name of one's person's justification of freedom when what they really mean is...CONTROL!
+510	"Harleen Quinzel (Prime Earth): I got a message for you from Waller.  She says, ""I was right, Caitlin.  And this is who you really are.  Bitch."""
+511	Harleen Quinzel (Prime Earth): You said it yourself, Amanda. I'm a killer. We are all killers. This is the Suicide Squad. You want to use criminals to save the world? This is what you get. We are not heroes. So blow my brains out if you need to, Waller. Kill me. Better dead than your slave.
+512	Harleen Quinzel (Prime Earth): Y'know, reader with hands over eyes...I'm amazed to think, in this brief oasis moment of frozen lucidity amidst the tumult...that we're actually gonna make it.  We are definitely gonna make it...I am an excellent driver....AHHHHH!!!  Whose $%&£&%$ idea was this again?!
+513	"Harleen Quinzel (Prime Earth): Y'know, it's ironic. And not in the ""10,000 spoons when all you need is a knife"" sense. America's the land of the free. Someone commits a crime? You remove their freedom. Throw them behind bars. Then you go back about your lives. Your free lives of rigid nine-to-five schedules. Of mortgages that last a whole adult life. Of doing what your president or news outlet of choice or yer preacher tells you.... See, that's the appeal of madness--true freedom. No doors! No walls! No pants! All da fun thoughts all da time...."
+514	Harleen Quinzel (Prime Earth): Yeah, I was looking forward to a knockout mallet big-brawl showdown with POTUS himself! I mean, one of us is crazy, right?
+515	Harleen Quinzel (Prime Earth): Every super-villain in Belle Reve has gone murdery-loco...  And I, Harley Quinn -- the mad quinnpin of crime --- have just got my sanity back...
+516	Harleen Quinzel (Prime Earth): I'm not gonna lie... ...It's never ended well.
+517	Harleen Quinzel (Prime Earth): Naughty naughty, Space-head jerk!  You wanted ta get inta my head, an' in turn I got inta yours -- an' with me came Mistah J.
+518	Harleen Quinzel (Prime Earth): If I'm not outta here in five seconds, somebody's gonna get their spleen ripped out.  I mean it... spleenless!   As in no spleen.  About ta get a splenectomy.  Adios spleen-ios,  if you will.  Spleen-free!  Aw, ya get the idea.
+519	Harleen Quinzel (Prime Earth): Christmas is a bust...
+520	Harleen Quinzel (Prime Earth): I haven't punched a clown in years!
+521	Harleen Quinzel (Prime Earth): A fixed fight?! Fergeddit!
+522	Harleen Quinzel (Prime Earth): Kiss th' ring, ya Nazis!
+523	Harleen Quinzel (Prime Earth): Do I have a crush on Booster Gold?! Ew!
+524	Harleen Quinzel (Prime Earth): Is Booster Gold catchin' feeling's?
+525	Harleen Quinzel (Prime Earth): Shut up, ya cornyass dork. Yer ruinin' th' moment.
+526	Harleen Quinzel (Prime Earth): Jeez, Harl, how many supporting cast members do you have?!
+527	Harleen Quinzel (Prime Earth): Don't need 'em. See if they can fly.
+528	Harleen Quinzel (Prime Earth): Childhood trauma or not... I just think you're a little $*&^.
+529	"Harleen Quinzel (Prime Earth): You heard apathy, but, to me, his body language really said... ""... Good job, Harley! I'm so glad you're back in Gotham!"""
+530	Harleen Quinzel (Prime Earth): Welcome to the first-ever community support group for--
+531	Harleen Quinzel (Prime Earth): S.A.F.E.... me Harley Quinn.
+532	Harleen Quinzel (Prime Earth): The Rag Tag group of rebels takin' out the Big Bad evil against the odds...
+533	Harleen Quinzel (Prime Earth): But it's not about the past. It's about the future and trying to make it a little better for the people I want in that future with me.
+534	Harleen Quinzel (Prime Earth): No matter how many times I blow that place up... it never gets old!
+535	Harleen Quinzel (Prime Earth): You worked for the Joker... a former clown... this... this is what Hugo was doing at S.A.F.E.... mind-control...
+536	Harleen Quinzel (Prime Earth): There's nothing more terrifying than falling in love.
+537	Harleen Quinzel (Prime Earth): Miss Kyle, for dateline lovelife, do ya think it's fair of Batman to come back to the city while you're still technically on a break?
+538	Harleen Quinzel (Prime Earth): I wanted to pick off right where we left off. But while you've been stuck in the ground, I've been on this journey... I've changed.
+539	Harleen Quinzel (Prime Earth): ... I hate Keepsake most of all...
+540	Harleen Quinzel (Prime Earth): Thanks Kev. I just hope I can be the person they need...
+541	Harleen Quinzel (Prime Earth): ... I'd say there's enough room in this world for more than one merry woman with a band of outcast do-gooders.
+542	Harleen Quinzel (Prime Earth): Are we teaming up, Batsy? Because this feels like we're teaming up!
+543	Harleen Quinzel (Prime Earth): Why would a Fed want my snow globe?
+544	Harleen Quinzel (Prime Earth): Metal claws? Wrong universe, cloaky!
+545	Harleen Quinzel (Prime Earth): ... I am not alone.
+546	Harleen Quinzel (Prime Earth): I wanna see the world the way you do.
+547	Harleen Quinzel (Prime Earth): Startin' to remember... a little. Was in a time machine. A time machine I definitely shoudn't have been in.
+548	Harleen Quinzel (Prime Earth): This is for thinkin' Clooney is the best Batman! No one thinks that! Not even Clooney!
+549	Harleen Quinzel (Prime Earth): ... guess I'm still a little bit of a villain.
+550	"Harleen Quinzel (Prime Earth): Professor Incredulous says, ""When it comes to time-travel, always remember the reason something didn't happen that way is-- that's not the way it happened."""
+551	Harleen Quinzel (Prime Earth): All the Zoo Crew got flattened? 'Cause Captain Carrot didn't have his Vorpal Fish?
+552	Harleen Quinzel (Prime Earth): I can stop this. The question is... do I stop it?
+553	Harleen Quinzel (Prime Earth): I am in trouble with Lady Quark, defender of all this crap. The last thing I need to be doing is placing orders out of the Multiversal catalog.
+554	Harleen Quinzel (Prime Earth): That's right, I'm right. Except when it comes to counting, cuz there's eight of us.
+555	Harleen Quinzel (Prime Earth): She died? Wait, I was her. I mean, I simulated being her!
+556	Harleen Quinzel (Prime Earth): I'll give ya extra credit for botha yas to quit now!
+557	Harleen Quinzel (Prime Earth): ... smell ya later, Multiverse!
+558	Harleen Quinzel (Prime Earth): I been fascinated by villain types forever-- the ideo of buildin' a whole new version of yourself.
+559	Harleen Quinzel (Prime Earth): Gotham is my world!
+560	Harleen Quinzel (Prime Earth): Can I call ya Maxie?
+561	Harleen Quinzel (Prime Earth): Always my most famous pics. Always my worst.
+562	Harleen Quinzel (Prime Earth): This city is 🦇🦇🦇🦇🦇🦇 up in the head! I can officially give it that diagnosis because I'm a doctor. And cuz I'm 🦇🦇🦇🦇🦇🦇 up in the head, too.
+563	Harleen Quinzel (Scooby-Doo Team-Up): Okay, losers! Which one of you is the ghost? Start talkin' or it's hammer time!
+564	"Harleen Quinzel (The Batman TV Series): So, you didn't like my show? Well try this one: ""When Animals Attack People I Hate!"" It's a comedy."
+565	Harleen Quinzel (The Dark Prince Charming): Oh guys, you are sooo adorable! But Puddin', you got it wrong. There are only sixteen candles, but I'm already 25!
+566	Harleen Quinzel (Wayne Family Adventures): I'm covering for Batsy and Birdboy. Duh!
+567	Harleen Quinzel (White Knight): She's not pathetic, Jack! No more than I was! She's a person -- a flesh and blood woman who loved you and wanted to give you everything! Don't underestimate her! Don't underestimate her like you did me.
+568	Harleen Quinzel (White Knight): Who are you kidding, Jack?  You did break the rules -- you used every criminal to scare them into giving you power!  You were never playing fair, and now's not the time to start! She can still be defeated -- you need a new way to rig the game.  By doing something the Joker would never do... by working with someone she would never expect you to work with.
+569	Harleen Quinzel (White Knight): If the city was going to forever condemn the Joker, they deserved to know Jack Napier. And I was betting that Jack had a lot to show us. A lot to show you. And I was right.
+570	Harleen Quinzel (White Knight): There are only two men in this world who ever saw through my facade. And I've loved them both. Jack is gone, but he's with me every day in the twins. I want you to know that I'm still here for you, too. So for this one day only, I, Harley Quinn, am asking Batman: Will you be my valentine?
+571	Harleen Quinzel (White Knight): See? He wasn't Joker yet. He was just a man who was sick and getting sicker. And I was just a girl who couldn't help him.
+572	Harleen Quinzel (White Knight): I feel like I've been walking a tightrope, trying to find the balance between all these versions of myself -- the doctor, the criminal, the converted good guy... the mom. I'm all of them. And yet... I'm also none of them. I couldn't save myself from the madness... How the hell am I supposed to save Hector?
+573	Harley Quinn (Dark Knights of Steel): My lady, I'm always happy to visit. Buy you have your world to protect, and I have mine. Respect that.
+574	Harley Quinn (Dark Knights of Steel): Majesty, Prince Bruce might be the cleverest boy in the kingdom. But he's also the most desperately in need of a hug,
