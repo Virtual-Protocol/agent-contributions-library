@@ -1,0 +1,33 @@
+	Content			Topic
+1	Find Axie Infinity in our Top Blockchain TCG Games list. What is Axie Infinity Axie Infinity is a creature collection and battling game, we use blockchain technology to really	empower our players and allow them to earn crypto despite playing the game	axie, crypto, blockchain, technology
+2	We also seek to be the first game that’s really owned by its community. So we just released a governance token called AXS to achieve that goal		axs, community, token
+3	I see that AXS token is pumping hard. I try not to focus too much on the price		axs, token
+4	Axie Infinity is the number one NFT project in terms of traction and community right now. A lot of investors are looking into Axie infinity	axie, nft, community, project
+5	The other one is the community, which is sharing all day long. The community is doing a lot of really hard work to expand and evangelize the game	community
+6	Recently, you partnered with Chainlink. In the official announcement, you mentioned the integration of price feeds for ETH/USD		eth, chainlink
+7	Why integrate a decentralized feed, rather than centralized prices? Inside Axie Infinity With Jihoz - Growth Lead 32 We’re doing two things with Chainlink . One, we integrated 	decentralized price fees for the ETH/USD price on our marketplace, which makes sure that the price feed is accurate and never doubted		eth, axie, jihoz, decentralized, 	chainlink
+8	If we were taking it from centralized websites, the price could go down, and, that could impact the service. This is also good especially for newcomers who might not be familiar 	with ETH prices		eth
+9	The second thing that we’re doing is that we’re integrating the Chainlink VRF that ensures when there’s some kind of random element or event related to chance, then you make sure 	that that act of rolling is fair. Take for example origin 	Axies, chainlink
+10	Those axes can only be created from a special token that’s leftover from the beginning of the game. So you can think of them as kind of like the unknown Opened first edition 	booster packs from Pokemon	token
+11	There’s still a chance of opening an origin Axie and some of them could have mystic parts, which are rare. The cheapest is around six or seven ETH right now	eth, axie
+12	A triple mystic Axie just sold for 300 ETH. That property is very important, and it needs to be as transparent as possible	eth, axie
+13	Smooth and faster-paced gameplay. Project L, the Axie Infinity Secret Project		axie, project
+14	We also have a secret project. That is also gameplay related		project
+15	We’ll just leave that as a little bit of a surprise. That’s project L		project
+16	What are some other things Axie is working on? On top of gameplay. We’re also obviously working on a lot of other things like Ronin, which is our Ethereum based side-chain, a 	wallet for Ronin, marketplace upgrades, as well as a staking dashboard and try the community Treasury		axie, ronin, community, ethereum
+17	How many people work for Axie Infinity? We have around 25 people on the team right now. And we’re looking to expand pretty aggressively		axie
+18	The next question is about Ronin. Why do you develop your own sidechain? Couldn’t you use an already established solution? We have a history of building, we’re one of the few 	projects that have actually delivered on side-chains or layer two	ronin
+19	So we built our land and item marketplace on top of the LOOM network. We saw a lot of the pitfalls of building on top of someone else’s technology requires a lot of back and forth 	and requests for features and things		technology
+20	So we believe in taking our destiny into our own hands. That’s why we call it Ronin	ronin
+21	Ronin is kind of a samurai without a master in ancient Japan. We prefer to have more control over the developer experience for ourselves	ronin
+22	For the Axie universe, they’re great as avatars, and they kind of really make a statement when someone is looking at your account. If you have a mystic Axie, people know you are 	someone important within the Axie ecosystem, or, someone who believes in the vision	axie, ecosystem
+23	Community Question: Axie looks like a closed game, many games are doing various collaborations but not you, why is that? A lot of people want us to collaborate with other games, 	but I don’t think that that’s necessarily the best for growth. Because these other games are really small, especially compared to us now, we would rather, you know, interoperate, 	and work with projects that are much larger than us		axie, community
+24	That’s why we’re big and they’re not. But we are very interoperable at all moments, all Axie Infinity players have used Uniswap because you need to use it to sell your tokens and 	your small love potions		axie
+25	We also worked with MAKER, with Kyber network and others, introducing them to these DeFi protocols. What we’ve tried to do is work with the best of blockchain projects and that are 	bringing real benefits to users and have been able to scale their communities		blockchain
+26	You need to have a growth mindset because the problem with these applications is that they don’t have users, When you need to grow or die, everything needs to be worth the growth 	mindset. What about Axie Infinity in underdeveloped countries such as the Philippines or Venezuela? Image courtesy of Coindesk.com The intersection of blockchain and games is 	doing, it will be critical in the rise of digital nations	axie, blockchain
+27	So these digital nations will have their jobs, markets, complex economies, social structures, and even governments. The Axie community is becoming its own digital nation		axie, community
+28	That’s adding value, into the network and being able to earn some type of token or reward in exchange for that work. The player base from the Philippines and Venezuela increased, 	and even in developed countries in the West, this is becoming a valid source of income for people, and I expect it to increase over time	token
+29	So people need to figure out how to how to earn money, just by being on their computer. If you look at it, the people who are leading this revolution, come from some of the poorest 	countries in the world		computer
+30	These people are looking for new opportunities. I’m proud that Axie can introduce this concept to the rest of the world		axie
+31	Where do you see blockchain gaming five years from now? I think that blockchain gaming will not just be seen as gains. In five years, people will live work, and play in these 	digital nations		blockchain
+32	NFT Games are very risky and come with no guarantees. We use affiliate links to monetize our content	nft
