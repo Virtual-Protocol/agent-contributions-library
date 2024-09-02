@@ -1,0 +1,31 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+
+# URL of the page with Iona quotes
+url = 'https://example.com/iona-quotes'  # Replace with the actual URL
+
+# Function to scrape quotes
+def scrape_quotes(url):
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            quotes = soup.find_all('blockquote')  # Adjust based on the HTML structure
+            quote_list = [{"user": "What does Iona say?", "assistant": quote.get_text(strip=True)} for quote in quotes]
+            return quote_list
+        else:
+            print(f"Failed to retrieve content from {url}")
+            return []
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return []
+
+# Scrape the quotes
+quotes_data = scrape_quotes(url)
+
+# Save to JSON file
+with open('iona_quotes.json', 'w', encoding='utf-8') as file:
+    json.dump(quotes_data, file, indent=4)
+
+print("Scraping completed and data saved to iona_quotes.json")

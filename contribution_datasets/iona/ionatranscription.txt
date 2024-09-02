@@ -1,0 +1,40 @@
+import os
+import spacy
+import youtube_dl
+import whisperx
+import json
+import subprocess
+
+# Step 1: Download the YouTube Video
+url = "https://www.youtube.com/watch?v=example_video_id"  # Replace with the actual video URL
+ydl_opts = {'outtmpl': 'iona_video.mp4'}
+with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    ydl.download([url])
+
+# Step 2: Convert Video to Audio (Optional)
+subprocess.run(['ffmpeg', '-i', 'iona_video.mp4', '-q:a', '0', '-map', 'a', 'iona_audio.mp3'])
+
+# Step 3: Transcribe the Audio using WhisperX
+model = whisperx.load_model("base.en")
+result = model.transcribe("iona_audio.mp3")
+with open('transcriptions/output.txt', 'w') as f:
+    f.write(result['text'])
+
+# Step 4: Clean the Transcribed Text using spaCy
+nlp = spacy.load("en_core_web_sm")
+with open('transcriptions/output.txt', 'r') as file:
+    text = file.read()
+doc = nlp(text)
+cleaned_text = ' '.join([token.text for token in doc if not token.is_stop and not token.is_punct])
+with open('cleaned_dialogues.txt', 'w') as file:
+    file.write(cleaned_text)
+
+# Step 5: Format the Dialogues into JSON for Conversational Use
+conversations = [
+    {"user": "What is your opinion on this?", "assistant": "Iona's response extracted from the video."},
+    # Add more dialogue pairs based on the cleaned_text
+]
+with open('iona_dialogues.json', 'w') as file:
+    json.dump(conversations, file, indent=4)
+
+# Step 6: (Manually upload the 'iona_dialogues.json' to the Virtual Protocol platform)

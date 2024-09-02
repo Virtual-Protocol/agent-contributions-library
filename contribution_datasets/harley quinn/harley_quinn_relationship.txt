@@ -1,0 +1,197 @@
+1	Allies: Blackgate staff (formerly)
+2	Allies: Arkham Asylum staff (formerly)
+3	Allies: The Joker (ex-boyfriend, formerly)
+4	Allies: Poison Ivy (best friend and love interest)
+5	Allies: Catwoman (second best friend)
+6	Allies: Gotham Sirens
+7	Allies: Legion of Doom
+8	Allies: Secret Society of Super Villains
+9	Allies: Birds of Prey
+10	Allies: Superheroes (sometimes)
+11	Allies: Other Supervillains (sometimes)
+12	Allies: Batman (sometimes)
+13	Allies: Robin (sometimes)
+14	Allies: Nightwing (sometimes)
+15	Allies: Batgirl
+16	Allies: Batwoman
+17	Allies: Suicide Squad (sometimes)
+18	Allies: Justice League (sometimes)
+19	Allies: Teen Titans (sometimes)
+20	Allies: The Penguin (sometimes)
+21	Allies: Mad Hatter (sometimes)
+22	Allies: Killer Croc (sometimes)
+23	Allies: Bane (sometimes)
+24	Allies: Scarecrow (sometimes)
+25	Allies: Two-Face (sometimes)
+26	Allies: Calendar Man (sometimes)
+27	Allies: Mr. Freeze (sometimes)
+28	Allies: Clayface (sometimes)
+29	Allies: The Riddler (sometimes)
+30	Allies: Firefly (sometimes)
+31	Allies: Her own henchmen
+32	Enemies: The Joker (arch-nemesis, ex-boyfriend)
+33	Enemies: Punchline (arch-nemesis)
+34	Enemies: Batman (sometimes)
+35	Enemies: Robin (sometimes)
+36	Enemies: GCPD
+37	Enemies: Harvey Bullock
+38	Enemies: Jim Gordon
+39	Enemies: Batgirl (formerly)
+40	Enemies: Nightwing (sometimes)
+41	Enemies: Batwoman (formerly)
+42	Enemies: Aaron Cash
+43	Enemies: Sarah Essen
+44	Enemies: Superman (sometimes)
+45	Enemies: The Flash (sometimes)
+46	Enemies: Green Lantern (sometimes)
+47	Enemies: Superheroes (sometimes)
+48	Enemies: Other supervillains (sometimes)
+49	Enemies: Justice League (sometimes)
+50	Enemies: Suicide Squad (sometimes)
+51	Enemies: Teen Titans (sometimes)
+52	Enemies: Amanda Waller
+53	Enemies: Mafias and mobsters of Gotham
+54	Enemies: Blackgate staff
+55	Enemies: Arkham Asylum staff
+56	Enemies: Scarecrow (sometimes)
+57	Enemies: The Riddler (sometimes)
+58	Enemies: Mad Hatter (sometimes)
+59	Enemies: Calendar Man (sometimes)
+60	Enemies: Two-Face (sometimes)
+61	Enemies: The Penguin (sometimes)
+62	Enemies: Mr. Freeze (sometimes)
+63	Enemies: Bane (sometimes)
+64	Enemies: Black Mask
+65	Enemies: Clayface (sometimes)
+66	Enemies: Killer Croc (sometimes)
+67	Enemies: Firefly (sometimes)
+68	Enemies: Darkseid
+69	Enemies: Sinestro
+70	Enemies: Victor Zsasz
+71	Enemies: Mystery Inc. (Scooby-Doo Team Up only)
+72	Section not found.
+73	Family: Father
+74	Family: Guy Kopski (Deceased) - boyfriend
+75	Family: Odin Markus - mentor and manipulator
+76	"Family: Joker's gang - former teammates
+Jonny Frost (Deceased)
+Panda Man (Deceased)"
+77	Family: Jonny Frost (Deceased)
+78	Family: Panda Man (Deceased)
+79	"Family: Task Force X - former teammates
+Rick Flag (Deceased) - enemy turned close friend and leader
+Digger Harkness/Captain Boomerang (Deceased) - friend
+Gunter Braun/Javelin (Deceased) - love interest
+Brian Durlin/Savant (Deceased)
+Cory Pitzner/T.D.K.
+Mongal (Deceased)
+Weasel
+Abner Krill/Polka-Dot Man (Deceased)"
+80	Family: Rick Flag (Deceased) - enemy turned close friend and leader
+81	Family: Digger Harkness/Captain Boomerang (Deceased) - friend
+82	Family: Gunter Braun/Javelin (Deceased) - love interest
+83	Family: Brian Durlin/Savant (Deceased)
+84	Family: Cory Pitzner/T.D.K.
+85	Family: Mongal (Deceased)
+86	Family: Weasel
+87	Family: Abner Krill/Polka-Dot Man (Deceased)
+88	Family: Robert DuBois/Bloodsport - former teammate, friend and leader
+89	Family: Cleo Cazo/Ratcatcher 2 - former teammate
+90	Family: Nanaue/King Shark - former teammate
+91	Family: Floyd Lawton/Deadshot - former teammate, friend and leader
+92	Family: Waylon Jones/Killer Croc - former teammate
+93	Family: Chato Santana/El Diablo (Deceased) - friend and former teammate
+94	Family: Christopher Weiss/Slipknot (Deceased) - former teammate
+95	Family: Tatsu Yamashiro/Katana - former teammate
+96	"Family: A.R.G.U.S.
+John Economos - former mission coordinator and manipulator turned ally
+Emilia Harcourt - former mission coordinator and manipulator turned ally
+Flo Crawley - former mission coordinator and manipulator turned ally"
+97	Family: John Economos - former mission coordinator and manipulator turned ally
+98	Family: Emilia Harcourt - former mission coordinator and manipulator turned ally
+99	Family: Flo Crawley - former mission coordinator and manipulator turned ally
+100	"Family: United States Air Force
+""GQ"" Edwards (Deceased)
+Gomez (Deceased)"
+101	"Family: ""GQ"" Edwards (Deceased)"
+102	Family: Gomez (Deceased)
+103	Family: June Moone
+104	Family: Bruce - pet
+105	Family: Sal
+106	"Family: Birds of Prey - friends
+Helena Bertinelli/Huntress
+Dinah Lance/Black Canary - friend and rescuer
+Renee Montoya - former enemy"
+107	Family: Helena Bertinelli/Huntress
+108	Family: Dinah Lance/Black Canary - friend and rescuer
+109	Family: Renee Montoya - former enemy
+110	Family: Doc - former landlord
+111	"Family: Harley Quinn and Associates
+Cassandra Cain - protégé"
+112	Family: Cassandra Cain - protégé
+113	"Family: Maltese resistance - assistance to Task Force X during Jotunheim mission
+Sol Soria
+Milton (Deceased)"
+114	Family: Sol Soria
+115	Family: Milton (Deceased)
+116	Family: Unidentified male - ex-boyfriend
+117	Family: Unidentified male - ex-boyfriend
+118	Family: Unidentified female - ex-girlfriend
+119	Family: Batman - apprehender
+120	Family: Robin (Deceased) - victim
+121	"Family: Gotham City Police Department
+Tim Munroe
+Drago
+Simpson
+Fillman"
+122	Family: Tim Munroe
+123	Family: Drago
+124	Family: Simpson
+125	Family: Fillman
+126	Family: Joker - former patient, former partner, and ex-boyfriend turned enemy
+127	Family: Monster T (Deceased) - ally turned indirect victim
+128	"Family: Belle Reve
+Hunter Griggs
+Ames"
+129	Family: Hunter Griggs
+130	Family: Ames
+131	"Family: A.R.G.U.S.
+Amanda Waller - former situational ally and manipulator
+Christopher Smith/Peacemaker - former teammate turned enemy
+Briscoe - mission transport"
+132	Family: Amanda Waller - former situational ally and manipulator
+133	Family: Christopher Smith/Peacemaker - former teammate turned enemy
+134	Family: Briscoe - mission transport
+135	Family: Van Criss (Deceased)
+136	"Family: Enchantress (Deceased) - ally turned enemy
+Eyes of the Adversary"
+137	Family: Eyes of the Adversary
+138	Family: Incubus (Deceased)
+139	Family: Dave Murray (Deceased) - indirect victim
+140	"Family: False Face Society
+Roman Sionis/Black Mask (Deceased) - victim
+Victor Zsasz (Deceased) - victim
+Happy (Deceased)"
+141	Family: Roman Sionis/Black Mask (Deceased) - victim
+142	Family: Victor Zsasz (Deceased) - victim
+143	Family: Happy (Deceased)
+144	Family: Jerry
+145	Family: Ralph Murray (Deceased) - indirect victim
+146	Family: Gotham City Hunters - attempted killers
+147	Family: Doc - former landlord turned enemy
+148	Family: Starro (Deceased) - target and victim
+149	"Family: Corto Maltese Armed Forces
+Silvio Luna (Deceased) - former love interest and victim
+Mateo Suarez (Deceased) - former captor
+Vera (Deceased) - former captor
+Isabella (Deceased)"
+150	Family: Silvio Luna (Deceased) - former love interest and victim
+151	Family: Mateo Suarez (Deceased) - former captor
+152	Family: Vera (Deceased) - former captor
+153	Family: Isabella (Deceased)
+154	Family: Richard Hertz/Blackguard (Deceased) - former teammate turned enemy
+155	Family: Gaius Grieves/Thinker (Deceased) - manipulatee
+156	Relatives: Fran Quinzel (grandmother) Sharon Quinzel (mother)Nick Quinzel (father)Barry Quinzel (brother)Jenny Quinzel (niece)Nicky Quinzel (nephew)
+157	Familial: Nick Quinzel(father, disowned), Sharon Quinzel(mother, disowned), Barry Quinzel(younger brother), Unnamed woman(grandma), Unnamed man(grandpa), King Shark's Children(godchildren), Neytiri(daughter, possible future), Clone Harley(genetic duplicate)
+158	Romantic: Poison Ivy(best friend and girlfriend), Joker(ex-boyfriend and former enemy), Frankie Muniz(childhood crush)
+159	Other: Clayface(friend and former team mate), King Shark(friend and former team mate), Sy Borgman(friend and former team mate), Doctor Psycho(team mate turned enemy), Frank the Plant(friend and former team mate), Queen of Fables(former mentor turned enemy), Penguin(murder victim), Batman(former enemy, occasional ally and patient), Batgirl(friend and team mate), Kite Man(friend and former love rival), Bud and Lou(pets), Alfred Pennyworth(mentor and friend), Catwoman(friend and team mate), Jennifer(friend), Nora Freeze(friend)
