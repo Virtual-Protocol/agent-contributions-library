@@ -1,0 +1,150 @@
+	URL	Quote
+0	https://thatonerule.com/rule/hinata-hyuga-quotes/	Believe in yourself and stay true to your ninja way.
+1	https://thatonerule.com/rule/hinata-hyuga-quotes/	Even the tiniest spark of courage can ignite a roaring flame of strength.
+2	https://thatonerule.com/rule/hinata-hyuga-quotes/	Love isn’t about words, it’s about actions.
+3	https://thatonerule.com/rule/hinata-hyuga-quotes/	In the face of adversity, I will never give up.
+4	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the hardest battles are fought within ourselves.
+5	https://thatonerule.com/rule/hinata-hyuga-quotes/	Trust can be the strongest weapon in any ninja’s arsenal.
+6	https://thatonerule.com/rule/hinata-hyuga-quotes/	Don’t underestimate the power of perseverance.
+7	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sacrifice is a necessary part of becoming stronger.
+8	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true ninja is never afraid to show vulnerability.
+9	https://thatonerule.com/rule/hinata-hyuga-quotes/	The only thing that limits our potential is our own self-doubt.
+10	https://thatonerule.com/rule/hinata-hyuga-quotes/	Every step forward is a step towards greatness.
+11	https://thatonerule.com/rule/hinata-hyuga-quotes/	Strength isn’t just physical, it’s mental and emotional as well.
+12	https://thatonerule.com/rule/hinata-hyuga-quotes/	Our differences make us stronger, not weaker.
+13	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true ninja knows the value of teamwork.
+14	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the most important battles are fought silently.
+15	https://thatonerule.com/rule/hinata-hyuga-quotes/	It’s not the size of the dog in the fight, it’s the size of the fight in the dog.
+16	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the quietest voices can speak the loudest truths.
+17	https://thatonerule.com/rule/hinata-hyuga-quotes/	Fear is only temporary, but regret can last a lifetime.
+18	https://thatonerule.com/rule/hinata-hyuga-quotes/	Your past doesn’t define your future.
+19	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true leader doesn’t seek power, they seek the well-being of their team.
+20	https://thatonerule.com/rule/hinata-hyuga-quotes/	Kindness is a strength, not a weakness.
+21	https://thatonerule.com/rule/hinata-hyuga-quotes/	Every failure is an opportunity to learn and grow.
+22	https://thatonerule.com/rule/hinata-hyuga-quotes/	Don’t be afraid to ask for help when you need it.
+23	https://thatonerule.com/rule/hinata-hyuga-quotes/	There is beauty in every person, no matter their flaws.
+24	https://thatonerule.com/rule/hinata-hyuga-quotes/	The greatest battles are often fought within our own minds.
+25	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true warrior is not defined by their strength, but by their compassion.
+26	https://thatonerule.com/rule/hinata-hyuga-quotes/	True strength is found in protecting others, not just yourself.
+27	https://thatonerule.com/rule/hinata-hyuga-quotes/	Success is not measured by how high you climb, but by how many you bring with you.
+28	https://thatonerule.com/rule/hinata-hyuga-quotes/	Don’t judge a book by its cover, for you never know what lies beneath.
+29	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true ninja knows when to fight and when to walk away.
+30	https://thatonerule.com/rule/hinata-hyuga-quotes/	The only way to overcome fear is to face it head-on.
+31	https://thatonerule.com/rule/hinata-hyuga-quotes/	Never let anyone else define your worth.
+32	https://thatonerule.com/rule/hinata-hyuga-quotes/	Even the strongest walls can crumble with the right amount of determination.
+33	https://thatonerule.com/rule/hinata-hyuga-quotes/	Embrace your weaknesses, for they can become your greatest strengths.
+34	https://thatonerule.com/rule/hinata-hyuga-quotes/	Patience is a valuable skill in the art of shinobi.
+35	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the best way to win a battle is through negotiation and understanding.
+36	https://thatonerule.com/rule/hinata-hyuga-quotes/	Our scars tell stories of strength and survival.
+37	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the hardest battles are fought in our hearts, not on the battlefield.
+38	https://thatonerule.com/rule/hinata-hyuga-quotes/	To be a true leader, one must lead by example.
+39	https://thatonerule.com/rule/hinata-hyuga-quotes/	Our actions speak louder than our words.
+40	https://thatonerule.com/rule/hinata-hyuga-quotes/	Success is not measured by how many enemies you defeat, but by how many friends you make.
+41	https://thatonerule.com/rule/hinata-hyuga-quotes/	True strength comes from within, not from external sources.
+42	https://thatonerule.com/rule/hinata-hyuga-quotes/	The path to greatness is often paved with obstacles and challenges.
+43	https://thatonerule.com/rule/hinata-hyuga-quotes/	The strongest warriors are those who can harness their emotions.
+44	https://thatonerule.com/rule/hinata-hyuga-quotes/	Failure is not an option; it’s a stepping stone towards success.
+45	https://thatonerule.com/rule/hinata-hyuga-quotes/	You can’t change the past, but you can shape your future.
+46	https://thatonerule.com/rule/hinata-hyuga-quotes/	Sometimes the smallest gestures can have the biggest impact.
+47	https://thatonerule.com/rule/hinata-hyuga-quotes/	The greatest battles are the ones fought for love and justice.
+48	https://thatonerule.com/rule/hinata-hyuga-quotes/	A true ninja knows when to strike and when to bide their time.
+49	https://thatonerule.com/rule/hinata-hyuga-quotes/	Our greatest strength lies in our ability to adapt and overcome.
+50	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	I'm counting on you.
+51	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	The Hyuga clan is the strongest in the Hidden Leaf!
+52	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Stay strong, and don't break your word.
+53	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Hello.
+54	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	I knew you could do it.
+55	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Thank you!
+56	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Okay!
+57	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Please, gather around!
+58	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Now is the time...!
+59	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Ready!
+60	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Help me out!
+61	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Eight Trigrams Air Palm!
+62	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	八卦空壁掌 !
+63	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Hakke Kūhekishō!
+64	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	That's the spot!
+65	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Time to finish this!
+66	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Byakugan!
+67	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	白眼 !
+68	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Byakugan!
+69	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	It's useless!
+70	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	I can see you...
+71	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	You missed!
+72	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Here...!
+73	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Gentle Step Twin Lion Fists!
+74	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	柔歩双獅拳­ !
+75	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Jūho Sōshiken!
+76	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	Here I go...!
+77	https://shinobi-striker.fandom.com/wiki/Hinata_Hyuga/Quotes	I'm so glad... I managed to do well.
+78	https://www.quoteambition.com/hinata-hyuga-quotes/	You make mistakes. But because of those mistakes, you get the strength to stand up to them. That’s why I think you are truly strong!
+79	https://www.quoteambition.com/hinata-hyuga-quotes/	I used to always cry and give up. I made many wrong turns, but you—you helped me find the right path. I always chased after you. I wanted to catch up to you. I wanted to walk beside you all the time. I just wanted to be with you. You changed me! Your smile is what saved me! That is why I’m not afraid to die protecting you! Because I love you.
+80	https://www.quoteambition.com/hinata-hyuga-quotes/	To other people, I might not have changed at all. But I feel like I was able to change.
+81	https://www.quoteambition.com/hinata-hyuga-quotes/	Therefore, stand up together with me, Naruto. Because never going back on one’s word is my ninja way too!
+82	https://www.quoteambition.com/hinata-hyuga-quotes/	In my eyes, you’re a proud failure. When I look at you, I get an intense feeling in my heart because you’re not perfect, because you fail.
+83	https://www.quoteambition.com/hinata-hyuga-quotes/	Naruto, I have always watched for many years. Why? I don’t know why. But whenever I look at you, I feel more courage within me. It makes me feel like I can accomplish something if I try; it makes me feel like I am worth something.
+84	https://www.quoteambition.com/hinata-hyuga-quotes/	It’s because now the person I’ve admired for so long is finally watching me, and in front of him, I can’t bear to look uncool!
+85	https://www.quoteambition.com/hinata-hyuga-quotes/	Was I able to change myself, even a little, Naruto-kun?
+86	https://www.quoteambition.com/hinata-hyuga-quotes/	Naruto, I’ve always been chasing after you. Even now. But once this war ends, I’m going to stop once and for all. Because next time, I will be by your side, holding your hand, walking with you! Please wait for me!
+87	https://www.quoteambition.com/hinata-hyuga-quotes/	I’m here because I want to. This time I will save you, Naruto-Kun.
+88	https://www.quoteambition.com/hinata-hyuga-quotes/	Failure is not an option.
+89	https://www.quoteambition.com/hinata-hyuga-quotes/	I no longer want to run away!
+90	https://www.quoteambition.com/hinata-hyuga-quotes/	Stay strong, and don’t break your word.
+91	https://www.quoteambition.com/hinata-hyuga-quotes/	I knew you could do it.
+92	https://www.quoteambition.com/hinata-hyuga-quotes/	I’m a terrible big sister, aren’t I?
+93	https://www.quoteambition.com/hinata-hyuga-quotes/	You’re wrong, Neji, because I can see that you are suffering more than me. You are the one who is confused and suffering inside the fate of the head and branch families.
+94	https://www.quoteambition.com/hinata-hyuga-quotes/	Neji just said that your life is not just your own anymore. Do you understand what he meant? Your words and desire to not let your comrades die. Neither of them are lies! What inspired Neji and carried him this far were those very principles! It’s not just you, Naruto; we all hold those same words and feelings within our hearts. They’re what bind our lives together and make us comrades. If we all give up and discard those words and feelings now, Neji’s sacrifice will have been for nothing. And that is when your comrades truly die, for you are no longer comrades then. That’s how I feel.
+95	https://www.quoteambition.com/hinata-hyuga-quotes/	Naruto-kun, you achieved that.
+96	https://www.quoteambition.com/hinata-hyuga-quotes/	I won’t let you lay another finger on Naruto!
+97	https://www.quoteambition.com/hinata-hyuga-quotes/	Just shut up and come with me?’ No way. No way. So suddenly—.
+98	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	I'm a terrible big sister, aren't I?
+99	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	When I watch you, I feel strong, like I can do anything - like even I am worth something.
+100	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	I won't let you lay another finger on Naruto!
+101	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	I can see that you are suffering more than me... you are the one who is confused and suffering inside the fate of the head and branch families.
+102	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	...Never ...go back ...on my word ...because... that's... my ninja way, too!
+103	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	Was I able to change myself... even a little?
+104	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	You make mistakes, But because of those mistakes... you get the strength to stand up to them. That's why I think you are truly strong!
+105	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	Failure is not an option.
+106	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	Neji just said... that your life is not just your own anymore... Do you understand what he meant?
+107	https://screenrant.com/naruto-hinatas-best-most-memorable-quotes/	I always chased after you... I wanted to catch up to you... That is why I'm not afraid to die protecting you. Because I love you!
+108	https://amodays.com/403855-hinata-hyuga-quotes.html	I’m a terrible big sister, aren’t I?
+109	https://amodays.com/403855-hinata-hyuga-quotes.html	To other people, I might not have changed at all, but I feel like I was able to change.
+110	https://amodays.com/403855-hinata-hyuga-quotes.html	You make mistakes. But because of those mistakes, you get the strength to stand up to them. That's why I think you are truly strong!
+111	https://amodays.com/403855-hinata-hyuga-quotes.html	You have the strength to face your failure...I think that’s real strength.
+112	https://amodays.com/403855-hinata-hyuga-quotes.html	Stay strong, and don’t break your word.
+113	https://amodays.com/403855-hinata-hyuga-quotes.html	In my eyes, you’re a proud failure. When I look at you, I get an intense feeling in my heart because you’re not perfect, because you fail.
+114	https://amodays.com/403855-hinata-hyuga-quotes.html	I no longer want to run away!
+115	https://amodays.com/403855-hinata-hyuga-quotes.html	Therefore, stand up together with me, Naruto…
+116	https://amodays.com/403855-hinata-hyuga-quotes.html	I will never go back on my word because that too is my ninja way!
+117	https://amodays.com/403855-hinata-hyuga-quotes.html	I knew you could do it.
+118	https://amodays.com/403855-hinata-hyuga-quotes.html	Failure is not an option.
+119	https://amodays.com/403855-hinata-hyuga-quotes.html	Neji just said that your life is not just your own anymore. Do you understand what he meant? Your words and desire to not let your comrades die. Neither of them are lies! What inspired Neji and carried him this far were those very principles! It’s not just you, Naruto; we all hold those same words and feelings within our hearts. They’re what bind our lives together and make us comrades. If we all give up and discard those words and feelings now, Neji’s sacrifice will have been for nothing. And that is when your comrades truly die, for you are no longer comrades then. That’s how I feel.
+120	https://amodays.com/403855-hinata-hyuga-quotes.html	When I watch you, I feel strong, like I can do anythingーthat even I am worth something.
+121	https://amodays.com/403855-hinata-hyuga-quotes.html	I used to always cry and give up. I made many wrong turns…But you helped me find the right path. I always chased after you. I wanted to catch up to you. I wanted to walk beside you all the time. I just wanted to be with you. You changed me! Your smile is what saved me! That is why I’m not afraid to die protecting you! Because… I love you.”
+122	https://amodays.com/403855-hinata-hyuga-quotes.html	It's because now the person I've admired for so long is finally watching me, and... and in front of him...I can't bear to look uncool!
+123	https://amodays.com/403855-hinata-hyuga-quotes.html	I won’t let you lay another finger on Naruto!
+124	https://amodays.com/403855-hinata-hyuga-quotes.html	Naruto… I have always watched for many years. Why? I don't know why, but whenever I look at you…I feel more courage within me. It makes me feel like I can accomplish something if I try…It makes me feel like I am worth something.
+125	https://amodays.com/403855-hinata-hyuga-quotes.html	I just wanted to say thank you very much.
+126	https://amodays.com/403855-hinata-hyuga-quotes.html	You’re wrong, Neji, because I can see that you are suffering more than me.
+127	https://amodays.com/403855-hinata-hyuga-quotes.html	Naruto-kun, you achieved that.
+128	https://amodays.com/403855-hinata-hyuga-quotes.html	Are you okay?'
+129	https://amodays.com/403855-hinata-hyuga-quotes.html	You are the one who is confused nd suffering inside the fate of the head and branch families.
+130	https://amodays.com/403855-hinata-hyuga-quotes.html	Just shut up and come with me? No way. No way. So suddenly.
+131	https://amodays.com/403855-hinata-hyuga-quotes.html	Is this really the kind of thing you're going to ask me?!
+132	https://animemotivation.com/hinata-hyuga-quotes/	You make mistakes… but… because of those mistakes… you get the strength to stand up to them. That’s why I think you are truly strong.
+133	https://animemotivation.com/hinata-hyuga-quotes/	I won’t let you lay another finger on Naruto!
+134	https://animemotivation.com/hinata-hyuga-quotes/	You’re wrong, Neji… Because I can see that you are suffering more than me… You are the one who is confused and suffering inside the fate of the head and branch families.
+135	https://animemotivation.com/hinata-hyuga-quotes/	Was I able to change myself…even a little, N-Naruto-kun?
+136	https://animemotivation.com/hinata-hyuga-quotes/	I will never go back on my word, because that too is my ninja way!
+137	https://animemotivation.com/hinata-hyuga-quotes/	I used to always cry and give up… I made many wrong turns… But you… You helped me find the right path… I always chased after you… I wanted to catch up to you… I wanted to walk beside you all the time… I just wanted to be with you… You changed me! Your smile is what saved me! That is why I’m not afraid to die protecting you! Because… I love you.
+138	https://animemotivation.com/hinata-hyuga-quotes/	When I watch you, I feel strong, like I can do anything – that even I am worth something.
+139	https://www.cbr.com/naruto-hinata-best-quotes/	Naruto… I Have Always Watched For Many Years. Why? I Don't Know Why, But Whenever I Look At You… I Feel More Courage Within Me. It Makes Me Feel Like I Can Accomplish Something If I Try… It Makes Me Feel Like I Am Worth Something.
+140	https://www.cbr.com/naruto-hinata-best-quotes/	You Make Mistakes. But Because Of Those Mistakes... You Get The Strength To Stand Up To Them. That's Why I Think You Are Truly Strong!
+141	https://www.cbr.com/naruto-hinata-best-quotes/	When I Watch You, I Feel Strong, Like I Can Do AnythingーThat Even I Am Worth Something.
+142	https://www.cbr.com/naruto-hinata-best-quotes/	You're Wrong, Neji... Because I Can See That You Are Suffering More Than Me... You Are The One Who Is Confused And Suffering Inside The Fate Of The Head And Branch Families.
+143	https://www.cbr.com/naruto-hinata-best-quotes/	To Other People, I Might Not Have Changed At All, But I Feel Like I Was Able To Change.
+144	https://www.cbr.com/naruto-hinata-best-quotes/	It's Because Now The Person I've Admired For So Long Is Finally Watching Me, And... And In Front Of Him... I Can't Bear To Look Uncool!
+145	https://www.cbr.com/naruto-hinata-best-quotes/	In My Eyes, You're A Proud Failure! When I Look At You, I Get An Intense Feeling In My Heart… Because You're Not Perfect… Because You Fail, You Have The Strength To Face Your Failure... I Think That’s Real Strength.
+146	https://www.cbr.com/naruto-hinata-best-quotes/	Therefore, Stand Up Together With Me, Naruto... Because Never Going Back On One's Word... Is My Ninja Way, Too!
+147	https://www.cbr.com/naruto-hinata-best-quotes/	I Used To Always Cry And Give Up. I Made Many Wrong Turns… But You Helped Me Find The Right Path. I Always Chased After You. I Wanted To Catch Up To You. I Wanted To Walk Beside You All The Time. I Just Wanted To Be With You. You Changed Me! Your Smile Is What Saved Me! That Is Why I’m Not Afraid To Die Protecting You! Because… I Love You.”
+148	https://www.cbr.com/naruto-hinata-best-quotes/	...Never... Go Back... On My Word… Because... That's... My Ninja Way, Too!
