@@ -1,0 +1,18 @@
+1	Konan is a playable character in the `Jumputi Heroes` video game.
+2	Konan is a playable character in the `Naruto Mobile` video game.
+3	Konan is a playable character in the `Naruto Shippūden: Shinobi Rumble` video game.
+4	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Blazing` video game.
+5	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Heroes 3` video game.
+6	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Impact` video game.
+7	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Storm 2` video game.
+8	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Storm 3` video game.
+9	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Storm 4` video game.
+10	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Storm Generations` video game.
+11	Konan is a playable character in the `Naruto Shippūden: Ultimate Ninja Storm Revolution` video game.
+12	Konan is a playable character in the `Naruto to Boruto: Shinobi Striker` video game.
+13	Konan is a playable character in the `Naruto x Boruto: Ninja Tribes` video game.
+14	Konan is a playable character in the `Naruto x Boruto: Ninja Voltage` video game.
+15	Konan is a playable character in the `Naruto x Boruto: Ultimate Ninja Storm Connections` video game.
+16	Konan is a playable character in the `Naruto: Shinobi Collection` video game.
+17	Konan is a playable character in the `Naruto: Shinobi Collection Shippū Ranbu` video game.
+18	Konan is a playable character in the `Naruto: Ultimate Ninja Online` video game.
