@@ -7,7 +7,8 @@ industry who are idolized by the community next is Satoshi Nakamoto
 vitalik buterin is one of the most influential blockchain creators who		blockchain
 succeeded in designing another layer of blockchain Technology through the help		blockchain
 of smart contracts but who is he and how did he come up with the idea of ethereum		ethereum
-vitalik was born in Russia in 1994 where he spent the first six years of his life		
+vitalik was born in Russia in 1994 where he spent the first six years of his life
+
 he eventually moved to Canada after his parents decided to emigrate in search of		
 better working conditions from a young age returned intelligence and academic		
 performance were recognized by everyone he excelled in math programming and even		
@@ -18,7 +19,8 @@ video games in fact games were a turning point for his beliefs regarding
 Authority and centralization because they made him realize how centralized		
 systems can affect his life buteran's autobiography revealed that he was		
 devastated when blizzard decided to change a spell and his favorite video		
-game World of Warcraft and excerpt reads I cried myself to sleep and on that day		
+game World of Warcraft and excerpt reads I cried myself to sleep and on that day	
+
 I realized what Horrors centralized Services could bring I soon decided to		
 quit around 2011 vitalik buteran finally came into contact with cryptocurrencies		
 by discovering Bitcoin he was initially skeptical since he believed that Bitcoin		bitcoin
@@ -32,7 +34,8 @@ major crypto news platform Bitcoin magazine writing about cryptocurrencies		bitc
 took so much out of his time that he decided to drop out of college in 2013		
 and pursue a career in the blockchain industry next few years were spent		blockchain
 traveling the world and attending various crypto conferences in hopes of		crypto
-meeting other individuals who were interested in replacing centralized		
+meeting other individuals who were interested in replacing centralized	
+
 systems if you're enjoying this video so far go ahead and give it a thumbs up and		
 hit that red subscribe button to become a part of our crypto Community after		crypto
 meeting with two teams who worked on Covert coins and mastercoin projects		
@@ -42,7 +45,8 @@ language the end of 2013 buteran sent out a copy of the first ethereum white		et
 paper to a number of friends he was initially criticized for being too		
 ambitious but that did not prevent him from passionately working on ethereum		ethereum
 and building a team ethereum officially launched as a project in January 2014		ethereum
-and was co-founded by vitalik buteran Joe Lubin mahai Ali Z Charles hoskinson		
+and was co-founded by vitalik buteran Joe Lubin mahai Ali Z Charles hoskinson	
+
 Anthony delaurio and Gavin wood to gather funds the team held an initial		
 coin offering which sold ether tokens in return for funds the ico-based		
 crowdfunding event amassed 16 million dollars worth of bitcoin which was		bitcoin
@@ -52,6 +56,7 @@ development numerous versions were tested changed and refined by July 2015
 a stable version of ethereum arrives to the public under the name of Frontier a		ethereum
 more user-friendly iteration launched in March 2016 which propelled the project		
 to new highs both in terms of value and adoption exchanges began listing ether		
+
 in mass and the number of nodes supporting the ethereum network nearly		ethereum
 surpassed those of Bitcoin and the rest is history ethereum went on to become		ethereum, bitcoin
 the second largest cryptocurrency in the entire blockchain industry and it hosted		blockchain, cryptocurrency
@@ -60,7 +65,8 @@ even today ethereum holds strongly onto its position and many believe that it is
 impossible for any other smart contract ecosystem to replace buteran's creation		
 but as with any other project ethereum also had its bad moments during the last		ethereum
 Bull Run and some were dangerous enough to shake the Project's foundations the		
-first dramatic event that occurred was the launch of the Dow a decentralized		decentralized
+first dramatic event that occurred was the launch of the Dow a decentralized	
+decentralized
 autonomous organization that brought a new e-governance system on the		
 blockchain during its Ico the Dow collected 150 million dollars for more		blockchain
 than 11 000 investors in a historical crowdfunding round but the trouble began		
@@ -80,6 +86,7 @@ buteran's death Anonymous individuals spread rumors of a car crash incident
 that resulted in ethereum losing 4 billion dollars of its market value		ethereum
 the fake news forced buteran to post a selfie to prove that he is alive and		
 soon after the market retraced to its former value		
+
 the bizarre chain of events was enough for investors to realize that buteran's		
 existence is crucial for the blockchain industry without him the dream of a		blockchain
 scalable cryptocurrency would be gone everyone has joined the cryptocurrency		cryptocurrency
@@ -89,7 +96,8 @@ resulting in a newly found interest for all things decentralized vitalik may not
 be Satoshi but he doesn't need to be with his expertise bright mind and		
 philosophical outlook on decentralized governance buteran had enough of an		decentralized
 impact on the blockchain industry to at least come near to nakamoto's own		blockchain
-Ingenuity the arrival of ethereum 2.0 buteran has the chance to shake the		ethereum
+Ingenuity the arrival of ethereum 2.0 buteran has the chance to shake the 
+ethereum
 industry One More Time by introducing a truly scalable blockchain protocol will		blockchain, protocol
 cryptocurrencies finally come close to visa-like Performance we'll have to wait		
 on vitalik to give us the answer thanks so much for watching today's video If		
