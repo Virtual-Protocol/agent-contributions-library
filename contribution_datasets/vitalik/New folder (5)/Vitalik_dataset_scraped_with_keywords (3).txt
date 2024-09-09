@@ -1,0 +1,179 @@
+Content		Keywords
+okay so back back when bitcoin was originally created in 2009 Satoshi zu was really testing two things at once so the first part is there's this idea of		Crypto Bitcoin
+Bitcoin the decentralized currency it's a form of money that exists purely online and you could transfer it from anyone to anyone in the around the world		Crypto Bitcoin Crypto Decentralized
+instantly with pretty much no fees you can transfer money from Kyrgyzstan to Guatemala just as easily just as quickly and just as cheaply as you can to your		
+own neighbor and there as we have seen there are a lot of people interested in that in that innovation Bitcoin form of money has attracted a pool of a ten		Crypto Bitcoin General Innovation
+billion dollars of wealth over the past five years it is being accepted by over 50 thousand merchants worldwide and there we have companies like Bitcoin		Crypto Bitcoin
+coinbase that are injured that are trying very hard and I would say succeeding at getting Bitcoin adopted by increasingly large segments of the		Crypto Bitcoin
+population and as a rymus said I think we're only getting started but at the same time there's also the other side of Bitcoin which is Bitcoin the blockchain		Crypto Bitcoin Crypto Blockchain
+so big Bitcoin the technology is this a global trust free peer decentralized database it's this database that anyone can add things to but no one could but		Crypto Bitcoin Crypto Decentralized General Technology
+you can't remove anything from and it just so own now it just so happens that currency is this is the first app now these two technologies by necessity have		
+to be married together because in order to have the decentralized database you need to have security in order to have security you need to have incentives and		Crypto Decentralized General Security
+you need to have a currency so so really Satoshi had to take these two concepts which are really quite different and test them both at the same time now this		
+the second side of Bitcoin the Bitcoin blockchain is something that I think has been seeing a bit less attention maybe in the first few years but interest is		Crypto Bitcoin Crypto Blockchain
+also picking up so here are some of the first applications of Bitcoin not as a form of money but Bitcoin as a form of distributed consensus so first one is		Crypto Bitcoin
+same coin name coin is essentially a distributed DNS system for those who do not know what a DNS system is when you go to google.com how how does your		
+computer know which server to talk to so the answer is is that there exists this the system which Maps Google the name google.com to the server's IP address so		
+your computer actually first queries this domain name system and it asks hey what server is google.com and the sir and the server answers and that's and		
+that's how your you're able to talk to talk to Google server without having to memorize everyone's IP address second second part escort transactions so we a		
+lot of people here I'm sure I've heard of the concept of multi set of multi-sig so the idea here is that you send money to say three three people at once in		
+such a way that you need two of those people to unlock the funds so what are some practical applications of that one practical application might be say		
+consumer protection so for example if you want if I'm a merchant and I'm selling some product to you the consumer the simplest way to do that for it would		
+be for you to just pay me and for me to send the product but what if you don't know me and I'm not necessarily trustworthy so then what you would do is		
+we would both agree on an arbitrator and we would and you would send the money to our two of three multi-sig between yourself myself and the arbitrator I		
+would send the product and then at some point normally you would confirm confirm that you receive the product and and the two of us together would release the		
+funds now if one of us disappears or one of us turns out to be dishonest then the arbitrator can step can step in and work with the other person to recover the		
+funds so this is essentially bitcoins also alternative to PayPal chargeback system now then we have this concept of colored coins colored coin the idea		
+behind colored coins I would say saw its first beginnings in 2012 so the idea there is okay you have a blockchain and you have a currency on it but what if		Crypto Blockchain
+you can put other currencies on the blockchain as well so the idea there is this is to say I let's suppose that I am a goal		Crypto Blockchain
+sure I might be countable ammaji metals or some some larger company and I and I wants to issue gold on the blockchain so what would I do I would take say ten		Crypto Blockchain
+bitcoins and I would and I would say each each one of these these bitcoins is also worth 10 ounces of gold and and I would say it's each one and that's each		
+one of these specific bitcoins and then you could actually track those specific bitcoins through the blockchain and you can treat them as sort of their own		Crypto Blockchain
+currency living and living inside the Bitcoin system and then if someone at some future point in time returns one of these colored gold coins to me then I		Crypto Bitcoin
+will return to them in ten ounces of gold now then so now you have the system where you have lots of different currencies on the		
+Bitcoin blockchain what's the next step well let's have a decentralized exchange between the currencies so as it turns out that this is this is actually		Crypto Bitcoin Crypto Blockchain Crypto Decentralized Crypto Exchange
+somewhat hard to implement so it has to so the research behind it has actually taken some time to develop and we are actually seeing a lot of interesting		
+protocols around that over the last six months now after that there's also some other interesting ideas there's this concept of smart property so the idea		
+there might be what it what if you had or say a museum pass and in the idea there is that you would issue a currency was just where that currency has one		
+unit and if you own that unit then you can use you can use your phone and you can and you can sign a message with the private with the private key that owns		
+that that would old currency token and then that sort of works that works as a museum pass you can use it to get into a museum if you want to if you want to		Crypto Token
+sell the museum pass then you just transfer the coin to someone else and now and now they can sign it with their phone they can get and they can gain		
+access another idea is smart contracts so the idea there is that instead of having contracts that are in four that are enforced by the legal system you		Ethereum Smart Contracts
+have contracts that in section we enforce themselves so one idea here might be a financial contract so suppose that I might want to put one a thousand		
+dollars worth of Bitcoin into this financial contract and then someone some other counterparty would put $1,000 into the financial		Crypto Bitcoin
+contract and then what one month later I would get $1,000 worth of Bitcoin back and the idea is what if you can have this contract in force itself so in that		Crypto Bitcoin
+in that way I can essentially have a thousand dollars worth of value without without volatility risk on the on the blockchain without having to rely on it		Crypto Blockchain
+on any kind of centralized issuer finally there's this idea of decentralized autonomous organizations so the idea of a Dao or as other terms		Crypto Decentralized
+you might have heard include decentralized autonomous corporations or decentralized autonomous companies decentralized autonomous communities		Crypto Decentralized
+India there is to have either a company an organization perhaps could be a company it could be something like WikiLeaks it could be something like		
+ICANN the Internet Corporation for Assigned Names and numbers that sort of which is the organization that actually manages the game IP address allocation		
+and DNS registration and so forth what if you could have these organizations live entirely on the cloud so these organizations would still control		
+resources but those resources would be controlled by us by a smart contract that never expires it just keeps on updating itself so unformed so these are		Crypto Smart Contract
+essentially some of the applications and there are thousands more than we haven't even thought of now here's just a some detail about how colored coins works so		
+you would have some issuers acquires that that's some subset of bitcoins have have a certain color and then if you send if you send a transaction where the		
+inputs have have a certain color then the outputs have the same color now if the inputs have mixed colors then you might have some special rules applying		
+and then you would just trace the transactions back through the Bitcoin blockchain to determine what color they are so you can see there a simple		Crypto Bitcoin Crypto Blockchain
+diagram is that you might have color you might have green coins blue coins and red coins perhaps representing US Dollars gold stocks in a company		
+whatever else and you could simply trace them through the transaction graph and figure and figure out exactly who owns the coins of each color at any given		
+time now another more advanced idea is this concept of a metal coin so the idea behind a metal coin is this is this idea		
+that we should treat metic owns as view which would treat Bitcoin as this low-level protocol like a sort of tcp/ip on the internet and then we should build		Crypto Bitcoin General Protocol
+other protocols on top so this other protocol would use Bitcoin just as a data layer it would put data into the Bitcoin ran into Bitcoin transactions		Crypto Bitcoin General Protocol
+and then you could see there would be a completely separate matter coin protocol that would scan through the transaction to determine what the balances are so		General Protocol
+what are the advantages pretty theoretically pretty much no limits you could have decentralized exchange you could have savings accounts you		Crypto Decentralized Crypto Exchange
+could have advanced smart contracts you could have peer to peer Satoshi dice theoretically there's pretty much no limits to what can be done with this		Ethereum Smart Contracts
+kind of paradigm however the problem problem is is that there have been there are a lot of we a lot of people think that you can that you can just implement		
+all this stuff on top of Bitcoin but in reality there are actually serious we serious scalability issues to doing so and as I'll explain these scalability		Crypto Bitcoin General Scalability
+issues are actually the reason why people have been so people have been so frustrated trying to implement this stuff a colored coins project has been		
+worked working hard for the pet for the last 18 months and they've been trying to come up with extremely clever color transfer rules and to try and make		
+things more efficient but so so the fundamental issue here is this concept of simplified payment verification so in Bitcoin as it turns out you do not need		Crypto Bitcoin
+to download the entire blockchain to have a secure of a coin client you can just look for specific transactions and now Bitcoin has this mechanism called a		Crypto Bitcoin Crypto Blockchain
+Merkel tree that you can use where you can prove that a certain transaction exists in the Bitcoin blockchain but only download a small part of the data		Crypto Bitcoin Crypto Blockchain
+you of the entire data set so the idea there is that you can't Act is that nobody can actually Forge any part of the Merkel tree because the different		
+the differences sort of keep on cascading upwards and eventually there's some kind of inconsistency problem is however if you do if you try		
+now with Bitcoin simplified payment verification is nice and easy lots of when clients use it it's great with		Crypto Bitcoin
+colored coins it's actually hard because you have to trace every single transact every single transaction back all the way back through the back through the		
+blockchain and I couldn't you have you might need to do hundreds or thousands of simple high payment verification requests with meta coins it's pretty		Crypto Blockchain
+much impossible every node has to process everything so here is where aetherium comes in so if your so what we've said with the theorem is that yes		
+this idea that we should have HTTP on top of tcp/ip is wonderful that's the way the internet protocol works that's the way every other protocol works		General Protocol
+that's that's the way cryptocurrency protocols should work but bitcoin fundamentally was never designed to be a TC a tcp/ip bitcoin was more more		Crypto Bitcoin Crypto Cryptocurrency
+designs to be an SMTP smtp being the protocol for email it's a protocol that is that is very good at one particular test		General Protocol
+Bitcoin is very good is very good for transferring money but it was not designed as a foundational layer for other for any kind of protocols to be		Crypto Bitcoin
+built on top so aetherium is there for its own blockchain so a theory borrows from ripple this concept that we should separate the state from the transaction		Crypto Blockchain
+list so you do not need to download every single every single transaction that ever happens in order to determine what the current state is and here is		
+the fundamental part it has its own built-in programming language so the idea there is that if you look at a lot of the recent innovation in some of		General Innovation
+these so-called next-generation coins what someone's I've been saying is okay we want people want people to be able to do the centralized exchange on the		Crypto Exchange
+blockchain here's a transaction stéphanie centralized exchange we want people to be able to do a peer-to-peer gambling there's a transaction type for		Crypto Blockchain Crypto Exchange
+that we want people to be able to have savings wallets or the transaction type for that we want people to be able to do escrow there's a transaction type for		
+that so that is that is fundamentally if the wrong way to go about doing things just imagine if your computer actually had 30 Hardware modules you would it		
+would have a hardware module for solitaire a hardware module for internet enter explore a hardware module for for chrome		
+hardware module for a for Photoshop that's what that's not the way we do things you know back in 1933 in the 1930s Alan - Alan Turing came up came up		
+with this this concept of Turing complete programming languages where instead of having instead of specializing for each individual		
+application you come up with a programming language and then that programming language is so powerful that you can build any application on top		
+that can conceivably be built this is the reason why computers are so powerful today this is the reason why web browsers are so powerful today once we		
+after we came out with JavaScript around around 2000 you know the internet just blew up the inventors of java scripts never intended for somebody to write		
+gmail on top of javascript or for somebody to write facebook on top of JavaScript or for somebody to write Bitcoin wallets on top of JavaScript but		Crypto Bitcoin
+javascript this programming language of the internet browser was a foundation for innovation and that's why 13 years later we are still innovating today and		General Innovation
+that's what I hope to bring to the world of cryptocurrency so what is a contract so aetherium instead of having lots of features tries to be simple it says if		Crypto Cryptocurrency
+you really we do not have features we have just the programming language so everything that you want to implement through aetherium you would have to		
+implement as a contract so a contract is like this automated agents that lives inside the blockchain and it has a certain amount of and it has some script		Crypto Blockchain
+scripting code built in and it can store it can store ether it can sting can store currents it can store currency units and you activate a contract by		
+sending a transaction to it so the idea is is that you can send money into contracts and you can send messages to messages to cut to contracts in order to		
+make to make them carry out certain computations order or perhaps to authorize withdrawals or it's in order to make votes in a decentralized		Crypto Decentralized
+organization or even to make sure answers in an internal currency so out of this one built out of this one building block this is this one single		
+leg of LEGO brick of cryptocurrency you can make pretty much anything soap etherium script is the language this is the current scripting language		Crypto Cryptocurrency
+that we that we have is a language it's somewhat similar to Bitcoin script but it's also more powerful so we have a stack we have some operations we have		Crypto Bitcoin
+but the differences with Bitcoin is that we have memory entries and also we have this concept of storage so BIC won't this is the other fundamental limitation		Crypto Bitcoin
+of Bitcoin scripting language the kwid scripting language is binary a transaction is either spent or it's not spent that is fundamentally extremely		Crypto Bitcoin
+limiting because you cannot have if you look at something like a decentralized organization or a financial contract of any kind of complexity you cannot reduce		Crypto Decentralized
+it to this concept of SS expires it's not expired so here we have contracts can have pretty much an unlimited number of number of states so you could have a		
+contract to be at stage 1 at stage 2 at stage 3 you could have a contract store an entire write an entire balance sheet so right so now how about we'll talk		
+about a few examples of what you can do with the theorem that perhaps might be difficult to do with Bitcoin first of all named coin so here is named		Crypto Bitcoin
+coin in five lines of code so what is a so this named coin this is a 60 million dollar million dollar cryptocurrency you can implement the most basic version of		Crypto Cryptocurrency
+name point in five lines of code so this is the contract so the idea here is that for is basically it's using contract storage so the contract look so a		
+transaction it needs to have two data inputs the first data input is what name you want to register and the sec and the second one is what you want to register		
+it with so that second one thing might be an address it might be some kind of might be a public key so then if some if it's already registered then you do		
+nothing although other otherwise you register it and that's all it is so here's here's another interest the other interesting thing about aetherium		
+is that we can work together with protocols that are not just financial so for example in there's the state there's this idea of bit message bit messages as		
+purely peer-to-peer over open source decentralized replacement for email but one of the huge problems with big messages is usability aspect because in		Crypto Decentralized
+email you could send to some to some nice and easy email like Vitalik and etherial at aetherium zorg now here in a bit message there's no there are no		
+email addresses there are these long 34 character bit message addresses nobody's going to remember a bit message address people don't even want to want to bid		
+message addresses what if you could register a bit message address inside of this namecoin contract with something nice and simple like if it's allocated		
+theorems org and then if somebody wants to send money to me there dear whoa it can just look up my they can enter vitalik at etherium org and their		
+clients can just look up my actual bit message address inside of this namecoin contract create your own currency now creating now a lot of people are saying		
+like we have way too many currencies now why do we have so why do we have so many currencies now I actually think this might this is extremely powerful in a		
+way that not many people realize here's here's the deal in the in the past ten thousand years one of one of the major political dynamics has been this concept		
+of centralization and decentralization we all understand the benefits of the central of decentralized system we all understand the idea the idea of		Crypto Decentralized General Decentralization
+localized markets of individuals acting independently but at the same but at the same time we understand that centralization has it has has its		
+benefits like there is and that one particular benefit there is this concept of public goods so there are a lot of things like science like scientific		
+research like prevent like protecting the environment like like fighting disease all these applications that are extremely valuable but they're but their		
+value is so is extremely widely distributed so that each individual would only benefit an insect an insignificant amount from each from each		
+particular action Mart pure markets have have no way of paying for this centralized and centralized institutions do simply because they are so large that		
+they can act that they can absorb enough of the benefit for it to be worth it for them for them to do these things so this is why we have large corporations this		
+is why we you this is why we often we have large governments and this is why we have large Don prophets now currencies are actually as		
+a a very interesting thing because creating your own current currency is actually Lee for the first time that we have something which is simultaneously		
+decentralized and it can find these public goods you can have a currency such that twenty per say twenty percent of the issuance goes to P goes to people		Crypto Decentralized
+who who do mathematical research and then if people want to support mathematical research they can accept the currency that's no caught that		
+doesn't actually cost to them it's not like they're donating they're not losing money but at the same time the more merch the more merchants X the more		
+people accept this currency the currency just naturally gained naturally gains value and people work people working on these on math problems just yet this		
+this extra phantom value out of nowhere you could have currency is funded if that finds medical research you could have you could have currencies that are		
+that try to find environmental applications so the idea here is that one let's not have one currency let's let's have thousands of currencies and		
+we can have this form of this sort of economic democracy through a currency system so aetherium is a platform that makes that makes it a thousand times		
+easier to bootstrap your own decentralized currency because you can just make it as a contract hedging contracts we talked about this a bit I		Crypto Decentralized
+put in one thousand dollars you put in one thousand dollars worth of worth of cryptocurrencies or worth of Bitcoin worth of ether and then a month later I		Crypto Bitcoin
+get a thousand dollars back and you get the rest so what's the value proposition for you you get this bet you get to speculate in favor of if they're added		
+to X leverage and the value proposition for me is I get secured I get security I don't have to deal with volatility risk so this so we've seen for a lot of		General Security
+applications that are trying to say oh let's help if people want to have US dollars on the blockchain what's having let's have an issuer and		Crypto Blockchain
+that issuer will issue their own currency in that currency can be redeemed for US dollars yes that is one way of doing it		
+but you have to trust an issuer so here's another way of doing it you would you would have a contract that listens to a bloomberg price feed of what the		
+you what the value of ether in u.s. dollars is and then it automatically gives gives me back a constant value you know a		
+constant value of ether aetherium is internal currency but but a constant constant value measured in US dollars so here this is not trust free but this is		
+massively reduced trust because instead of trusting an issuer all you have to trust as a price feed and you can trust like nine out of nine hundred eighteen		
+price feeds if you wants you can do for voting forwards you can do proof of proof of stake voting there are lots of ways that you can mitigate any kind of		
+problems here decentralized autonomous organizations so what if you could have a company who will whose organizational bylaws instead of being enforced in the		Crypto Decentralized
+legal system are enforced literally on the blockchain so the organization might have some capital it might have a millions all words were a million		Crypto Blockchain
+dollars worth of ether but then you would or might even have a million the organ is a this contract might even have a million a million dollars stuck in a		
+in a in a hedging contract so this is the other nice thing about aetherium contracts can use contracts so the idea here is that you will need two-thirds of		
+an organization's member members in order to agree to do anything and that's pretty much the only rule you could even have self-modifying code you could have		
+a rule that says you need you need the support of two-thirds of an organization's members in order to change the rules of the organization		
+sure and some right just know more and more here some other interesting applications savings wallets so we talked about multi signature escrow here		
+are some the etherium potentially offers them massively expanded versions of multisig a score could you withdraw limits crop insurance what is crop		
+insurance you could have a hedging khanjan you could have a financial contract off of the weather peer-to-peer gambling so you can do a peer-to-peer		
+Satoshi dice on the blockchain decentralized exchange data storage decentralized Dropbox you can you can have a		Crypto Blockchain Crypto Decentralized Crypto Exchange
+decentralized Dropbox implementation that lets anyone participate you will be able to earn money by renting out your hard drive mesh networking		Crypto Decentralized
+computation systems you can use big-big you can expand this idea of name point and turn it into an entire reputation system into a decentralized so into an		Crypto Decentralized
+entire decentralized social network and perhaps maybe even Skynet [] yes where will the okay so I'll repeat		Crypto Decentralized General Network
+it okay so I'll talk a bit about the about the funding model so we will have a fundraiser for two months starting		
+fabric starting February 1st it will be available at funds etherium org so will be so the idea is that part of the initial issuance will be one one		
+thousand for one Bitcoin or up to two thousand ether for one Bitcoin if you get in or way to compensate for the increased risk		Crypto Bitcoin
+so the issuance model is that we will fund rate suppose that we hand out X ether through the fundraiser then then there will be about zero point about 0.5		
+X will be pre mind and then 0.4 X after that will be minds per year forever so it's it's this hybrid of master core of the master granion triple model and the		
+pure bit the pure Bitcoin mining model and even to a slight extent the info the inflationary model so the answer is in terms of in terms of the portion of the		Crypto Bitcoin Crypto Mining
+pre mind that has already been allocated that is vested for one year so if if any of the if any of the founders though we've leave the project then within the		
+within one year then then or if and then the other founders have the right have the right during the first year to cancel the to cancel their allocation in		
+which case that will simply be this redistributed handed back through the etherium organization as a long-term reserve and then did you on the site one		
+of the second part right so right so the big so at the start the Bitcoin is going is going to be centrally managed we will have will have a transparent accounting		Crypto Bitcoin
+system so the big one will go towards development it will go toward heavy security research go toward developing applications toward		General Security
+working with broad projects like bit message and store developing things like things like incubators so we we will have models and we all release cell very		
+detailed documents on how we're going to do that over the next few days and eventually we hope to turn the etherium organization itself into a Dao okay okay		
+I um hold on yeah um I will I will be just uh standing over there outside so if anyone wants to ask questions feel free		
+] [		
