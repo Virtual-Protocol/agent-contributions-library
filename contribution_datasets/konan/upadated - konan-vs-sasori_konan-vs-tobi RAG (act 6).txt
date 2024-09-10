@@ -1,0 +1,52 @@
+1	 The ninja villages dotting the Land of Wind were destroyed in a single night or so the rumor has it
+2	 It was you who was behind that, wasn't it, Sasori of the Red Sand
+3	 I've come here to invite you into the Akatsuki
+4	 We need your power at our side to help us complete our pursuits
+5	 So come and lend us your strength
+6	 Just think of the Akatsuki as a place that will protect you, a rogue ninja
+7	 As long as you complete your work, anything else you care to do is your own business
+8	 I guess it can't be helped
+9	 I will... just have to take you by force
+10	 I will say it again
+11	 Come and lend the Akatsuki your power
+12	 You're much more understanding than I thought you'd be
+13	 Well, I wouldn't have such high hopes, young man
+14	 But if that is what makes you want to join us, that's fine
+15	 Are you trying to find something
+16	 I was sure that you would show up looking for it sooner or later
+17	 I've been waiting for you
+18	 Now that you're here, I will stop you
+19	 He is the light
+20	 That's why we all can carry flowers of hope
+21	 The red clouds on these cloaks symbolize the unending wars that rained blood down upon the Hidden Reign
+22	 Yahiko was the one who founded the Akatsuki, not you
+23	 These cloaks are our legacy, not yours
+24	 And the Rinnegan is something awakened by Nagato
+25	 Again, it doesn't belong to you
+26	 They are this village's treasure
+27	 I'll take you with me to the afterlife
+28	 Madara, I have a question
+29	 Do you want me to tell you why Nagato and I decided to betray you, and why instead we put our faith in Norito
+30	 But you, Konan
+31	 I realized something after meeting Naruto
+32	 You are darkness
+33	 And in a world without light, all that flowers do is wilt
+34	 You will not escape
+35	 You can't transport away to safety this time
+36	 When you transport yourself elsewhere, you must first materialize
+37	 I also know you can only slip through objects for no more than five minutes
+38	 I have amassed 600 billion paper bombs just to make sure that I kill you
+39	 And they'll continue to explode for 10 minutes
+40	 I won't let you interfere
+41	 I didn't anticipate needing this much chakra
+42	 But... at least
+43	 Madara... is dead
+44	 How... how are you... not dead
+45	 Just who are you
+46	 This... can't be
+47	 I, too, believe in Naruto
+48	 And it's his turn now
+49	 Naruto will be the bridge to peace
+50	 I am expendable
+51	 I am only a mere flower
+52	 But I'll take you with me
