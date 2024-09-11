@@ -1,0 +1,58 @@
+Row	Content	Keyword
+1	MARCH 30, 2022 | 4:54 AM HKT LAST UPDATED	He Yi
+2	2 YEARS AGO BY TIMMY SHEN	Industry Movers
+3	Binance wants to play ball with regulators Binance is racing to anchor its sprawling global operations as regulators in China, where it was founded in 2017, go after firms for lax know-your-customer practices.	Crypto Exchange Giants, Global Hotspots
+4	Image: Marco Verch/Flickr	He Yi
+5	Binance is doubling down on compliance and will establish a global head office to enable regulatory oversight, the cofounder of the world’s largest cryptocurrency exchange said in a rare interview.	Crypto Exchange Giants, Regulatory Trends
+6	“We’re willing to set up one or multiple headquarters around the world,” if it helps with compliance and less hassles for users, Binance’s cofounder and chief marketing officer Yi He told Forkast. She didn’t indicate a definitive timeline.	Industry Movers
+7	The development comes as governments around the world clamp down on lax know-your-customer practices at firms that enable cross-country transfers of capital.	He Yi
+8	Regulators are working to rein in the flight of capital and activities related to money laundering and terrorist financing. That scrutiny is particularly intense for firms that facilitate cryptocurrency exchange given the asset’s underlying emphasis on privacy.	Crypto Exchange Giants, Regulatory Trends
+9	Seeking the Sheriff	He Yi
+10	A physical headquarters for the exchange would provide “clear direction” for the cryptocurrency industry at a time when global compliance is maturing, according to He.	Crypto Exchange Giants
+11	The issue of establishing a physical base is important because it could help resolve concerns about compliance and set the company up for the next stage of growth among mainstream users “dipping their toes” into the crypto world, she said.	He Yi
+12	Despite its troubles, Binance is the world’s biggest cryptocurrency exchange. Trading volume through a 24-hour period recently reached about US$23.3 billion, far outpacing second-placed cryptocurrency operator OKX at around US$5.8 billion, according to data from CoinGecko.	Crypto Exchange Giants
+13	He, a Chinese national who worked as a food influencer before pivoting to the cryptocurrency space in 2014, said having a physical headquarters was “not fundamental to keeping the company up and running.”	Crypto Exchange Giants
+14	Binance CMO Yi He says the firm is pursuing 100% compliance with KYC regulations.	Crypto Exchange Giants, Industry Movers
+15	Yet, she acknowledged Binance has allocated significant resources in the past year to help meet international commitments to prevent illicit activities such as money laundering and fraud. Those efforts, she said, will be expanded this year.	He Yi
+16	It includes new hires in compliance as the company continues to scale up globally, adding to a worldwide headcount of more than 3,000. One of those new hires was Mark McGinness, former head of international relations of the financial watchdog in Dubai, a region where the exchange recently received a license to offer virtual asset services to qualified investors.	Crypto Exchange Giants, Industry Movers, Global Hotspots
+17	“The core strategy for 2022 remains the company’s global push for compliance, and we are making some good progress,” she said in an interview from Singapore. “We are greatly expanding our compliance team to recruit professional talent to pursue 100% compliance with KYC [regulations] on our platform.”	Global Hotspots
+18	Getting walled out	He Yi
+19	Binance has been trying to be in lockstep with evolving regulatory regimes in the markets that it operates in.	He Yi
+20	In August, Binance said new users would have to get their identity verified. Existing users failing to do so in time would have to contend with their account status being changed to “withdraw only” mode with services limited to withdrawal and redemption.	He Yi
+21	In doing so, Binance stuck to a playbook that it first adopted in China, where the firm was launched in July of 2017. The firm says it pared operations in the Middle Kingdom in late 2017 after Beijing banned token issuances and imposed other regulatory hurdles to crack down on cryptocurrencies.	Global Hotspots, Compliance Challenges
+22	After mainland authorities unequivocally stated in September that even offshore exchanges cannot offer trading in such assets to Chinese nationals, Binance said it will disallow the use of the renminbi on its peer-to-peer trading platform starting Dec. 31 and switch mainland Chinese users to the “withdraw only mode.” It also doesn’t allow mainland Chinese numbers to be used for two-factor authentication.	Tech & Security Innovations
+23	But shunning the lure of the world’s largest cryptocurrency market is easier said than done.	He Yi
+24	Despite Beijing’s ban on cryptocurrency transactions in September 2021, China still accounts for 10% of global Bitcoin transactions, the People’s Bank of China (PBoC) said.	Global Hotspots
+25	Authorities there have been increasingly exercising direct control, especially when it comes to cryptocurrencies, according to Rain Xie at Washington University School of Law.	He Yi
+26	Mainland Chinese nationals can still access Binance with a virtual private network (VPN) set to an overseas internet protocol (IP) address. Activating two-factor authentication with a non-Chinese number is easy with virtual numbers that can be bought and accessed online.	Tech & Security Innovations
+27	Binance wound down its China operations after its share of the company’s global customer base fell below 10%, He told Forkast. It continues to retain stakes in some mainland Chinese companies that are not related to its cryptocurrency operations, she added. “In fact, we only invested in these companies as pure investments and we do not have any offices in China,” she added.	Global Hotspots
+28	Whether those words assuage Chinese authorities is a matter of conjecture at the moment.	He Yi
+29	China’s ‘direct control’ has tightened in recent days, especially when it comes to tech giants involved in the movement of capital. The latter is an important pillar of central-banking policy given the PBoC’s desire to keep the renminbi stable.	Global Hotspots
+30	Chinese technology major Tencent Holdings Ltd. faces a potential ‘record fine’ for alleged violations of know-your-customer (KYC) regulations by its WeChat Pay mobile network, The Wall Street Journal reported citing people familiar with the matter.	He Yi
+31	When the music stops	He Yi
+32	Binance’s luck has been spotty outside of China.	Global Hotspots
+33	After mainland authorities threw a wrench in Binance’s works in 2017, a new base of operations was established in Tokyo, led by Binance founder Changpeng Zhao.	Industry Movers
+34	But that proved temporary after Japanese regulators warned the company was operating without being registered. Since then the company has held talks with regulators in a number of different jurisdictions.	Global Hotspots
+35	Binance operates a number of units in different geographical locations under an opaque company structure. Zhao has repeatedly declined to say in which jurisdiction its main exchange server is based.	Crypto Exchange Giants
+36	While reports surfaced last year that the exchange’s corporate headquarter is registered in the Cayman Islands, local authorities denied regulatory oversight over Binance.	Regulatory Trends, Global Hotspots
+37	Unrequited love	He Yi
+38	In the past year, Binance has been censured by regulators in several countries for failing to attain the proper licensing and registration needed to provide crypto exchange services to domestic consumers.	Compliance Challenges
+39	In June, the U.K.’s Financial Conduct Authority ordered Binance to halt its regulated operations in Britain, one of the most stringent rebukes by a global regulator made against the company.	He Yi
+40	Zhao said in December that Binance was working to rebuild its operations in the U.K.	He Yi
+41	Earlier this month, Binance announced its new payment arm Bifinity had entered into a partnership with Nasdaq-listed Eqonex, which holds a custody license through a subsidiary in the U.K. The partnership will allow Binance to appoint top executives of Eqonex from within Bifinity.	He Yi
+42	But Binance has also come under fire in the U.S.	He Yi
+43	In March last year, the Commodity Futures Trading Commission said it had opened an investigation to determine whether the company had allowed North Americans to trade derivatives linked to digital tokens.	Crypto Ecosystem
+44	Zhao laid out a positive view on the need for “good regulations” in a blog post that appeared in early January. He said it was necessary to be pragmatic about the need for onshore licensing if the crypto industry was to grow beyond what he called its small base of early adopters and reach the 95% of mass adopters.	Strategic Moves
+45	“For the crypto industry to grow, we need fiat on and off-ramps, “ Zhao said. “We need to build bridges between crypto and fiat. For this, we need to integrate with traditional financial systems, banks, payment services, etc. And for that, we need licenses.”	He Yi
+46	He also pledged to work closely with regulators to develop rules that would protect consumers but not stifle innovation.	He Yi
+47	Never the twain shall meet	He Yi
+48	Following a rule-based approach would put the industry at odds with the innovative spirit it has come to be known for, industry experts opine, as it would go against the spirit of decentralization.	He Yi
+49	“Compliance is a must for centralized exchanges in the long term,” Kunchou Tsai, managing partner of Taiwan-based Enlighten Law Group, said, adding that it’s about time for a centralized exchange to make up its mind on whether it should be fully compliant or just completely pivot to a decentralized finance exchange.	Crypto Ecosystem, Industry Movers, Global Hotspots
+50	Establishing a physical headquarters may be a pragmatic way to gain more influence, according to Kevin Cheng, a legal and compliance manager of BitoEX, a major crypto exchange in Taiwan. “Having a headquarters could probably make it easier for Binance to interact with governments and regulators,” he said.	Crypto Exchange Giants, Industry Movers, Global Hotspots
+51	Others opined that setting up a corporate headquarters in a geographical jurisdiction may open up a Pandora’s Box when it comes to legal risks. On the flip side, it would be difficult for clients to sue Binance for losses or damages related to its exchange if the company doesn’t have a local entity.	Compliance Challenges
+52	“It would be very costly to pursue an international lawsuit,” Charlotte Wu, managing partner of Zhong Yin Law Firm, told Forkast, adding that claimants might struggle to even identify which legal entity to sue.	Industry Movers
+53	The frequency of hacking attacks on crypto servers makes such legal risks real, according to Tsai of Enlighten Law.	Compliance Challenges
+54	“Binance, at some point, should know it has this issue, so when it was hacked, it immediately offered compensation, or it would risk losing these users,” Tsai said, referring to past hacking attacks including one in May 2019 that saw about US$40 million stolen from online wallets at Binance.	He Yi
+55	Binance co-founder He said the need to work with regulators globally was part of the responsibility that comes with success.	He Yi
+56	“From the perspective of an industry insider, you’ll see that if the industry is small, no one cares about you,” He said. “Only when the industry grows big enough with more people involved would regulators pay attention.”	He Yi
+57	Ningwei Qin and Tom Zuo contributed to this report.	Industry Movers
