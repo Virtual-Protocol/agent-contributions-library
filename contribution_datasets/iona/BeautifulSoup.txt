@@ -1,0 +1,24 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+
+url = 'url'
+
+response = requests.get(url)
+response.raise_for_status()
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+dialogues = soup.find_all('p')
+
+dialogue_list = [dialogue.get_text(strip=True) for dialogue in dialogues]
+
+with open('iona_dialogues.txt', 'w') as file:
+    for dialogue in dialogue_list:
+        file.write(f"{dialogue}\n")
+
+conversations = [{"user": "What's your thought, Iona?", "assistant": quote} for quote in dialogue_list]
+with open('iona_dialogues.json', 'w') as json_file:
+    json.dump(conversations, json_file, indent=4)
+
+print("Scraping complete. Dialogues saved in 'iona_dialogues.txt' and optionally in 'iona_dialogues.json'.")
