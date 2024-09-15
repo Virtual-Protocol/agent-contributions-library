@@ -1,0 +1,11 @@
+Content	Keywords
+Home - Zhiyuan “Paul” Zhou Skip to primary navigation Skip to content Skip to footer Zhiyuan "Paul" Zhou About Research Experience Portfolio Toggle menu Hi there! Welcome to my home page. I’m Zhiyuan; my friends call me Paul	paul, zhou
+I am currently a CS Ph.D. student at UC Berkeley , advised by professor Sergey Levine 	
+I am interested in reinforcement learning and building autonomous intelligent agents.
+I graduated magna cum laude from Brown University with an Sc.B. in Applied Math and Computer Science, where I was fortunate to be advised by professors George Konidaris and Michael Littman at Brown	autonomous, computer, science, intelligent, agents, learning, reinforcement
+Check out my research page for more information. Outside of this, I like to jam on my guitar, play badminton, and watch standups and movies	
+I love connecting with people. If you’d like to get in contact with me, please reach out at [zhiyuan_zhou at berkeley dot edu]	
+Recent News last updated: Aug 2024 I am thrilled to announce the first big project I led in my Ph.D! Check out SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models I am going to present my undergrad work Tiered Reward: Designing Rewards for Specification and Fast Learning of Desired Behavior at the RL Conference . Come chat with me! Check out my undergrad thesis Policy Transfer in Lifelong Reinforcement Learning through Learning Generalizing Features 	autonomous, learning, reinforcement
+I’ve compiled some resources that helped me during my CS Ph.D. application, along with some of my own thoughts	
+Hopefully this will be helpful to some others out there! I’m honored that our paper Designing Rewards for Fast Learning is selected for oral presentation at RLDM2022! Check out the recording at 1:20:22. Our work Characterizing the Action-Generalization Gap in Deep Q-Learning is accepted into RLDM2022! Follow: Twitter LinkedIn GitHub © 2024 Zhiyuan Zhou	zhou, learning
+Powered by Jekyll & Minimal Mistakes , and some code + inspiration from Nishanth Kumar's website .	

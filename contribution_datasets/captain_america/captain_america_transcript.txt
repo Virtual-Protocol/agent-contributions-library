@@ -1,0 +1,57 @@
+0	Captain America	I've been on my own since I was 18
+1	Captain America	I never really fit in anywhere, even in the army
+4	Captain America	My faith's in people, I guess
+5	Captain America	Is there anything you can do
+6	Captain America	I'm doing it
+7	Captain America	And I'm happy to say that for the most part, they haven't let me down
+9	Captain America	Which is why I can't let them down
+16	Captain America	I don't want to kill anyone
+18	Captain America	I don't like bullies
+19	Captain America	I don't care where they're from
+31	Captain America	It's on both of us
+32	Captain America	It's a job
+33	Captain America	Try to save as many people as we can
+34	Captain America	That doesn't mean anybody
+35	Captain America	You're my mission
+55	Captain America	I promise you
+56	Captain America	If you need us
+57	Captain America	You know it's a trap, right
+58	Captain America	Yeah, I don't much care
+59	Captain America	If you need me, I'll be there
+60	Captain America	Five years ago we lost
+61	Captain America	All of us
+62	Captain America	We lost friends
+63	Captain America	We lost family
+64	Captain America	We lost a part of ourselves
+65	Captain America	Today we have a chance to take it all back
+66	Captain America	You know your teams
+67	Captain America	You know your missions
+68	Captain America	Get the stones
+69	Captain America	Get them back
+70	Captain America	One round trip each
+71	Captain America	Most of us are going somewhere we know
+72	Captain America	That doesn't mean we should know what to expect
+73	Captain America	Look out for each other
+74	Captain America	This is the fight of our lives
+75	Captain America	And we're gonna win
+76	Captain America	Whatever it takes
+77	Captain America	You could not live with your own failure
+78	Captain America	What did that bring you
+81	Captain America	I went in the ice in 45 right after I met the love of my life
+82	Captain America	Woke up 70 years later
+83	Captain America	You know, I keep telling everybody they should move on and
+84	Captain America	You gotta move on
+85	Captain America	Gotta move on
+86	Captain America	But not us
+87	Captain America	When I came out of the ice, I thought everyone I had known was gone
+88	Captain America	When I found out she was alive, I was just lucky to have her
+91	Captain America	We lost the kid
+96	Captain America	I said we'd lose
+97	Captain America	We'd do that together too
+108	Captain America	Tony, I don't know
+109	Captain America	I made it for you
+110	Captain America	I could do this all day
+111	Captain America	I could do this all day
+113	Captain America	You trust me
+117	Captain America	Don't do anything stupid till I get back
+125	Captain America	Guy who wanted all that went in the ice 75 years ago
