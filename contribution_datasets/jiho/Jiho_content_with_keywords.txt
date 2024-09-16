@@ -1,0 +1,168 @@
+Content	Keywords
+Axie Infinity - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Appearance Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move to sidebar hide (Top) 1 Gameplay 2 Development and history 3 As an alternative source of income in low-income countries 4 Limitations and associated risks Toggle Limitations and associated risks subsection 4.1 High barrier to entry limiting availability 4.2 Sustainability of the project 4.3 Potential negative psychological effects 5 See also 6 References 7 Further reading Toggle the table of contents Axie Infinity 12 languages العربية Català Deutsch Español فارسی Français Italiano 日本語 Português Русский Türkçe Tiếng Việt Edit links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code Wikidata item Print/export Download as PDF Printable version In other projects Appearance move to sidebar hide From Wikipedia, the free encyclopedia 2018 non-fungible token online game 2018 video game Axie Infinity Developer(s) Sky Mavis Engine Unity Platform(s) Windows Android macOS iOS Release March 2018 Genre(s) NFT Online game Strategy game Mode(s) Single player , PvP Axie Infinity is a blockchain game developed by Vietnamese studio Sky Mavis, [ 1 ] known for its in-game economy [ 2 ] which uses Ethereum -based cryptocurrencies. [ 3 ] It has been called 'a pyramid scheme that relies on cheap labor from countries like the Philippines to fuel its growth.' [ 4 ] Players collect and mint non-fungible tokens (NFTs) which represent axolotl -inspired digital pets known as Axies	cryptocurrencies, players, token, nft, printable, economy
+[ 5 ] These creatures can be bred and battled with each other within the game. [ 6 ] Sky Mavis charges a 4.25% fee to players when they trade Axies on its marketplace	players
+[ 5 ] [ 7 ] Axie Infinity is built on the Ronin Network, an Ethereum-linked sidechain developed by Sky Mavis. The game's official cryptocurrency is "Axie Infinity Shards/Token" or AXS for short	token
+[ 8 ] The game's secondary token, SLP, crashed in February 2022 amid a wider NFT and cryptocurrency crash , losing over 99% of its peak value. [ 9 ] In March 2022, hackers compromised the Ronin Network, stealing approximately US$620 million worth of cryptocurrency from the project	token, nft
+[ 10 ] [ 11 ] [ 12 ] [ 13 ] The hackers were linked to Lazarus Group , funded by North Korea. [ 14 ] Gameplay [ edit ] According to the company's website, Axie Infinity is a competitive game with an " idle battle " system derived from games like Final Fantasy Tactics and Idle Heroes 	
+[ 15 ] The game's setting is filled with creatures called Axies that players can collect as pets. Players aim to battle, breed, collect, raise, and build kingdoms for their Axies	players
+The game has an in-game economy where players can buy, sell, and trade resources they earn in the game. [ 16 ] Sky Mavis marketed the game with a play-to-earn model (also called "pay-to-play-to-earn" model) where after participants pay the starting costs, they can earn an Ethereum -based in-game cryptocurrency by playing	players, economy
+Axie Infinity allows users to cash-out their tokens every fourteen days. [ citation needed ] This model has been described as a form of gambling , [ 17 ] [ 18 ] and one with an unstable market that is overly reliant on the inflow of new players	players
+[ 2 ] In February 2020, Sky Mavis estimated that a new player would need to spend around US$400 to meet this starting requirement. [ 1 ] By August 2020, the cheapest Axie cost approximately US$307, although reports as of March 2022 suggest the floor price of an Axie has dipped to around US$20	
+[ 19 ] As of June 2021, some people in the Philippines had begun to treat the game as their main source of income, [ 20 ] although earning rates from playing Axie Infinity fell below the national minimum wage by September 2021. The Philippine Department of Finance also clarified that income from playing Axie Infinity is taxable, and suggested that the SEC and BSP may classify its cryptocurrency as a currency or a security 	
+[ 21 ] Players of Axie Infinity can also purchase virtual land and other in-game assets as NFTs. The record sale of a plot of virtual land was priced at US$2.3 million, as of 25 November 2021	players
+[ 22 ] Gameplay related to purchased virtual land was intended to be introduced by 2020, but this has been pushed back twice as of April 2022. The delays have prompted complaints from users coinciding with a sharp decline in the profitability of the in-game economy	economy
+[ 23 ] [ 4 ] Development and history [ edit ] Development of Axie Infinity started in 2017, led by its co-founder and CEO , Nguyen Thanh Trung, alongside Tu Doan, Aleksander Larsen, Jeffrey Zirlin, and Andy Ho. [ 24 ] [ 25 ] Nguyen had previously spent money on the game CryptoKitties before he began work on his own blockchain-based game, combining elements of CryptoKitties with gameplay from the Pokémon series or Neopets 	
+[ 25 ] [ 26 ] In October 2018, the development team released Axie Infinity's first battle system. Development of the real-time card battle system and application commenced in March 2019, and an alpha was released in December 2019	
+[ 27 ] Sky Mavis launched Ronin wallet in February 2021, which in addition to speeding up transactions and eliminating expensive gas fees for gamers offers the opportunity to play Axie Infinity or any other dApp that run on the Ronin sidechain. [ 28 ] According to data published on Statista , in 2022 around 40% of Axie Infinity players were from the Philippines	players, wallet
+[ 29 ] [ better source needed ] While the project had generated US$ 21 million in the first two to three years since its inception, it raised $485 million between July and August 2021 alone. [ 30 ] The value of the game's associated token, Smooth Love Potion (SLP) (formerly known as Small Love Potion by the community), crashed in February 2022 amid a wider NFT and cryptocurrency crash , losing over 99% of its peak value	token, nft
+Sky Mavis attempted to stabilize the price by introducing new features to the game, but these attempts were ineffective. The low exchange value of SLP has caused a massive exodus of players, leaving guild leaders without their cheap third-world labor force to grind on their behalf	players
+[ 9 ] Sky Mavis removed references to "play-to-earn" on its websites and marketing as its tokens plummeted in value. [ 25 ] On 23 March 2022, hackers compromised the Ronin Network, stealing approximately US$620 million in Ether and USDC 	
+[ 10 ] [ 11 ] [ 12 ] A total of 173,600 Ether and 25.5 million USDC tokens were stolen in two transactions. [ 13 ] It took the company six days to notice the hack	
+[ 13 ] As of May 2023 [update] , the hack is the largest breach in the cryptocurrency sector by dollar value. [ 31 ] It further damaged the value of SLP	
+[ 9 ] On 8 April 2022, Sky Mavis said it expected it would be able to recover some of the funds, but it would take several years. [ 32 ] The company raised additional venture capital and reimbursed all users affected in the hack	
+[ 33 ] On 14 April 2022, the FBI issued a statement that the Lazarus Group and APT38, which are North Korean state-sponsored hacker groups, were responsible for the theft. [ 34 ] [ 35 ] Accordingly, the US Treasury has sanctioned the cryptocurrency address	
+Some of the cryptocurrency has been laundered through a cryptocurrency tumbler known as " Tornado Cash ". [ 35 ] [ 4 ] According to an April 2023 report from Reuters , the price of Axie Infinity's cryptocurrency token had fallen by 99% from its all-time-high in February 2022, coinciding with the 2021–2023 cryptocurrency crash 	token
+This crash led to decline of average daily players from a high of 2.7 million to approximately 250,000. [ 36 ] As an alternative source of income in low-income countries [ edit ] Play-to-earn games like Axie Infinity have at times been considered a viable source of income in low-income countries such as the Philippines	players
+[ 37 ] In some place, the income generated by the game has been higher than the average income of the country, with the volatility of the tokens earned being a fundamental problem in the appropriation of Axie Infinity as an alternative source of income. [ 38 ] The game's popularity in the Philippines stemmed from the economic hardship caused by the pandemic, during which many residents lost their original source of income	
+[ 39 ] The main motivation behind playing the game was primarily to receive approximately the same amount of income within a few hours a day as with full-time employment. [ 40 ] [ 6 ] In the Philippines, the prohibitive cost of entry led to both individuals and gaming guilds renting out assets to allow new players to meet the minimum requirements	players
+[ 19 ] These new players, known as "scholars", are often required to meet a quota of in-game earning to continue using the rented assets, and must pay the owners a commission. These commissions vary greatly but can be as high as 75%	players
+[ 41 ] [ 42 ] The resulting dependency of lower-income individuals has been described as potentially exploitative, lacking in safeguards, and has often been compared to gold farming . [ 6 ] The Philippine Department of Finance clarified that income from playing Axie Infinity is taxable, and suggested that the SEC and BSP may classify its cryptocurrency as a currency or a security 	
+[ 21 ] Limitations and associated risks [ edit ] Academics and journalists have pointed out risks associated with playing the game as well as limitations of it, focusing primarily on the game's high financial barrier to entry, questions about the project's long-term durability, including accusations of a ponzi or pyramid scheme , as well as possible negative effects of the game on the players' mental health. High barrier to entry limiting availability [ edit ] In order to play Axie Infinity one needs to purchase at least three Axies in the form of NFTs for the price of several hundred dollars at the peak of the project	players
+Access to the game may, depending on the market situation, be tied to a significantly higher price than traditional video games, the price of which is usually limited to less than US$ 100. [ 30 ] According to Delic and Delfabbro (2022) in the International Journal of Mental Health and Addiction , the monetization of such games prioritizes a player's financial capacities over their actual skill, thus increasingly excluding individuals of lesser means from playing the game: [ 6 ] (...) when players can pay money to improve their in-game performance, skilled play may no longer be the sole determinant of player success	players
+It also means that income and affordability could potentially advantage wealthier players and make the game less accessible to lower income groups. — Amelia Delic and Paul Delfabbro, Profiling the Potential Risks and Benefits of Emerging “Play to Earn” Games: a Qualitative Analysis of Players’ Experiences with Axie Infinity, [ 6 ] The earlier an individual invests in and starts to play the game to more of an advantage that person has over those who have started at a later date, since the chances of high winnings become smaller the later one enters the game	players
+[ 43 ] Sustainability of the project [ edit ] Researchers have questioned the game's longevity, [ 43 ] as there have been repeated accusations that Axie Infinity is a Ponzi or pyramid scheme . Per this accusation, Axie Infinity lacks long-term economic durability since it has to rely on players continuing to invest in the game	players
+The in-game economy depends on the existing number of actively involved players: [ 43 ] Like the majority of P2E models, [ Axie Infinity ] relies on players financial input/output to regulate the value of the in-game currency. In other words, the games  [ sic ] economy is influenced by the number of players investing into [ Axie Infinity ] (...) — Paul Delfabbro et al., Understanding the mechanics and consumer risks associated with play-to-earn (P2E) gaming, [ 43 ] Axie Infinity's basic economic design has been described as a speculative bubble since the game creates a gig economy where they have to invest more and more to make a profit	players, economy
+[ 44 ] Andreas Hackethal of the Goethe Business School has referred to the concept as pump and dump , maintaining that players are only willing to spend money and time playing the game because of their hope that the prices will increase and speaking of a pay-to-earn rather than play-to-earn game. [ 44 ] Bernd Richter of Fidelity National Information Services considers the game a pyramid scheme	players
+[ 44 ] Potential negative psychological effects [ edit ] Games like Axie Infinity are often associated with psychological problems on the part of their players. [ 6 ] In this context the main point of argument is the suspicion that players might play the game primarily for monetary reasons rather than for the purpose of entertainment: The extrinsic motivation to play outweighs the pure entertainment factor	players
+[ 45 ] According to critics, [ neutrality is disputed ] this leads to a sunk-cost-fallacy where players primarily play the game due to the fact that they have already invested a lot of money and time into it. [ 6 ] Furthermore, the combination of financial speculation and a video game is said to potentially worsen the condition of gambling addicts involved in the game	players
+[ 6 ] See also [ edit ] Blockchain Blockchain game Decentralized application Non-fungible token References [ edit ] ^ a b Huong Le (21 February 2020). "Meet the Vietnamese developer behind blockchain game Axie Infinity" 	decentralized, token
+Tech in Asia . Archived from the original on 10 November 2021 	
+Retrieved 11 August 2021 . ^ a b Kruppa, Miles; Bradshaw, Tim (26 November 2021)	
+"Crypto's hottest game is facing an economic maelstrom" . Financial Times 	crypto
+Archived from the original on 17 July 2022 . Retrieved 11 December 2021 	
+^ Gonzales, Gelo (23 August 2021). "What is 'Axie Infinity' and how is it different from traditional video games?" 	
+Rappler . Archived from the original on 28 June 2022 	
+Retrieved 11 December 2021 . ^ a b c Gach, Ethan (16 April 2022)	
+"Crypto Gaming 'Landlords' Upset They Can't Keep Exploiting All The Players Quitting" . Kotaku 	players, crypto
+Archived from the original on 13 July 2022 . Retrieved 17 April 2022 	
+^ a b "What does Axie Infinity's meteoric rise tell us about the play-to-earn game industry?" . KrASIA 	
+10 August 2021. Archived from the original on 3 February 2022 	
+Retrieved 30 March 2022 . ^ a b c d e f g h Delic, Amelia J.; Delfabbro, Paul H	
+(2022). "Profiling the Potential Risks and Benefits of Emerging "Play to Earn" Games: a Qualitative Analysis of Players' Experiences with Axie Infinity" 	players
+International Journal of Mental Health and Addiction . doi : 10.1007/s11469-022-00894-y 	
+S2CID 251323282 . ^ Takahashi, Dean (11 May 2021)	
+"Sky Mavis raises $7.5 million for NFT-based Axie Infinity game with backers like Mark Cuban" . VentureBeat 	nft
+Archived from the original on 7 April 2022 . Retrieved 30 March 2022 	
+^ "Axie Infinity Shards" . Axie Infinity 	
+Archived from the original on 23 September 2022 . Retrieved 25 August 2022 	
+^ a b c Ongweso Jr., Edward (4 April 2022). "The Metaverse Has Bosses Too	
+Meet the 'Managers' of Axie Infinity" . Vice Motherboard 	
+Archived from the original on 10 July 2022 . Retrieved 6 June 2022 	
+^ a b Sigalos, MacKenzie (29 March 2022). "Crypto hackers steal over $615 million from network that runs popular game Axie Infinity" 	crypto
+CNBC . Archived from the original on 28 June 2022 	
+Retrieved 30 March 2022 . ^ a b Takahashi, Dean (29 March 2022)	
+"Hackers steal $620M in Ethereum and dollars from Axie Infinity maker Sky Mavis' Ronin network" . VentureBeat 	
+Archived from the original on 16 June 2022 . Retrieved 30 March 2022 	
+^ a b Hollerith, David (30 March 2022). "Hackers steal $615 million in crypto from Axie Infinity's Ronin Network" 	crypto
+Yahoo Finance . Archived from the original on 7 July 2022 	
+Retrieved 30 March 2022 . ^ a b c Kharif, Olga (29 March 2022)	
+"Hackers Steal About $600 Million in One of the Biggest Crypto Heists" . Bloomberg News 	crypto
+Archived from the original on 24 September 2022 . Retrieved 23 September 2022 	
+^ Aaron Schaffer (14 April 2022). "North Korean hackers linked to $620 million Axie Infinity crypto heist" 	crypto
+The Washington Post . ISSN 0190-8286 	
+OCLC 1330888409 . Archived from the original on 22 October 2022 	
+Retrieved 20 December 2022 . ^ "Battling – Axie Infinity" 	
+Axie Infinity . Archived from the original on 14 March 2022 	
+Retrieved 14 March 2022 . ^ "Axie Infinity – Axie Infinity" 	
+Axie Infinity . Archived from the original on 19 July 2022 	
+Retrieved 14 March 2022 . ^ Laurent, Lionel (3 September 2021)	
+"Anxiety About Gaming Should Be Over Money, Not Morals" . Bloomberg.com 	
+Archived from the original on 30 October 2021 . Retrieved 1 October 2021 	
+^ Harris, Ainsley (24 September 2021). "The danger of the internet turning money into a game" 	
+Fast Company . Archived from the original on 9 April 2022 	
+Retrieved 2 October 2021 . ^ a b "Axie Infinity and Yield Guild Games took the Philippines by storm but users are starting to question long-term viability" 	
+KrASIA . 13 March 2022	
+Archived from the original on 23 September 2022 . Retrieved 14 March 2022 	
+^ Nunley, Christian (14 May 2021). "People in the Philippines are earning cryptocurrency during the pandemic by playing a video game" 	
+CNBC . Archived from the original on 7 July 2021 	
+Retrieved 8 October 2021 . ^ a b de Vera, Ben O	
+(23 August 2021). "DOF: Axie Infinity players must pay income tax from trading "pets" " 	players
+Philippine Daily Inquirer . Archived from the original on 8 October 2021 	
+Retrieved 14 October 2021 . ^ Shumba, Camomile (25 November 2021)	
+"A plot of digital land just sold for $2.3 million on Axie Infinity, as the real-estate race heats up across the metaverse" . Business Insider 	
+Archived from the original on 23 September 2022 . Retrieved 11 December 2021 	
+^ Sri, Deepti (12 April 2022). "Axie Infinity disappoints users with latest Land update" 	
+www.techinasia.com . Archived from the original on 23 September 2022 	
+Retrieved 17 April 2022 . ^ "Team – Axie Infinity" 	
+Axie Infinity . 9 December 2021	
+Archived from the original on 10 June 2022 . Retrieved 10 June 2022 	
+^ a b c Brustein, Joshua (10 June 2022). "A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster" 	crypto
+Bloomberg . Archived from the original on 10 June 2022 	
+Retrieved 10 June 2022 . ^ "This Vietnamese developer is behind one of the world's most popular blockchain games: Profiles in Tech" 	
+KrASIA . 20 February 2020	
+Archived from the original on 20 May 2022 . Retrieved 30 March 2022 	
+^ "Roadmap and completed milestones – Axie Infinity" . Axie Infinity 	
+Archived from the original on 16 March 2022 . Retrieved 14 March 2022 	
+^ "Ronin Wallet Your Digital Passport – What is it and How Does it Work" . cryptogames3d 	wallet
+13 September 2021. Archived from the original on 4 June 2022 	
+Retrieved 20 June 2022 . ^ Nguyen, Minh-Ngoc (14 June 2022)	
+"Share of Axie Infinity players, by major country of origin in 2022" . Statista 	players
+Archived from the original on 3 November 2023 . Retrieved 2 November 2023 	
+^ a b Servando, Kristine; Saysonk, Ian (25 August 2021). "The jobless turn to crypto video game for financial relief" 	crypto
+Fortune . Retrieved 4 April 2023 	
+^ Tsihitas, Theo (28 June 2019). "Worldwide cryptocurrency heists tracker (updated daily)" 	
+Comparitech.com . Comparitech Limited 	
+Retrieved 10 May 2023 . ^ Servando, Kristine (8 April 2022)	
+"Axie Owner Says Recovering Stolen Crypto Could Take Two Years" . Bloomberg.com 	crypto
+Archived from the original on 13 May 2022 . Retrieved 17 April 2022 	
+^ Kharif, Olga (23 June 2022). "Axie-Infinity Developer to Reimburse Hack Victims, Restart Ronin" 	
+Bloomberg News . Archived from the original on 6 December 2022 	
+Retrieved 24 September 2022 . ^ "North Korean hackers target gamers in $615m crypto heist – US" 	crypto
+BBC News . 15 April 2022	
+Archived from the original on 17 July 2022 . Retrieved 15 April 2022 	
+^ a b Novak, Matt (15 April 2022). "FBI Says North Korea Behind Biggest Crypto Theft in History Against Axie Infinity" 	crypto
+Gizmodo . Archived from the original on 11 July 2022 	
+Retrieved 17 April 2022 . ^ Ramos, Mariejo (26 April 2023)	
+"FEATURE-Stung by losses, Filipino players ditch Axie Infinity crypto game" . Reuters 	players, crypto
+Retrieved 17 May 2023 . ^ Nunley, Christian (27 June 2021)	
+"People in the Philippines are earning cryptocurrency during the pandemic by playing a video game" . CNBC 	
+Archived from the original on 7 July 2021 . Retrieved 3 April 2023 	
+^ Kshetri, Nir (2022). "Policy, Ethical, Social, and Environmental Considerations of Web3 and the Metaverse" 	
+IT Professional . 24 (3): 6	
+doi : 10.1109/MITP.2022.3178509 . ^ Francisco, Ryan D.; Rodelas, Nelson C.; Ubaldo, John Edison T	
+(2022). "The Perception of Filipinos on the Advent of Cryptocurrency and Non-Fungible Token (NFT) Games" 	token, nft
+International Journal of Computing Sciences Research . 6 : 1007	
+arXiv : 2202.07467 . doi : 10.25147/ijcsr.2017.001.1.89 	
+^ Francisco, Ryan D.; Rodelas, Nelson C.; Ubaldo, John Edison T. (2022)	
+"The Perception of Filipinos on the Advent of Cryptocurrency and Non-Fungible Token (NFT) Games" . International Journal of Computing Sciences Research 	token, nft
+6 : 1014. arXiv : 2202.07467 	
+doi : 10.25147/ijcsr.2017.001.1.89 . ^ "Axie Infinity's financial mess started long before its $600 million hack" 	
+TheVerge.com . 8 April 2022	
+Archived from the original on 22 September 2022 . Retrieved 22 September 2022 	
+^ "The Metaverse Has Bosses Too. Meet the 'Managers' of Axie Infinity" 	
+Vice.com . 4 April 2022	
+Archived from the original on 10 July 2022 . Retrieved 6 June 2022 	
+^ a b c d Delfabbro, Paul; Delic, Amelia; King, Daniel L. (26 September 2022)	
+"Understanding the mechanics and consumer risks associated with play-to-earn (P2E) gaming" . Journal of Behavioral Addictions 	
+11 (3). Akadémiai Kiadó : 722 f	
+doi : 10.1556/2006.2022.00066 . PMC 9872537 	
+^ a b c Mannweiler, Antonia (28 January 2022). "NFT-Game Axie Infinity: Spiel des Lebens" 	nft
+Frankfurter Allgemeine Zeitung (in German). Archived from the original on 27 February 2023 	
+Retrieved 27 February 2023 . ^ Delfabbro, Paul; Delic, Amelia; King, Daniel L	
+(26 September 2022). "Understanding the mechanics and consumer risks associated with play-to-earn (P2E) gaming" 	
+Journal of Behavioral Addictions . 11 (3): 722 f	
+doi : 10.1556/2006.2022.00066 . PMC 9872537 	
+PMID 36083777 . A potential psychological risk associated with highly monetized games is that the motivation for gaming may switch from intrinsic enjoyment or challenge, to a predominant focus on the monetary outcome of the activity (...) The effects of high extrinsic motivation within a video-gaming context are well documented, and associated with greater problem gaming (...) poorer self-control and maladaptive gaming behaviors (...)	
+Emerging research indicates these effects may be intensified within a P2E setting (...) Grinding may therefore increase the frequency and duration of play and create greater risk of harm associated with excessive gaming. Cf	
+Delic, Amelia J.; Delfabbro, Paul H. (2022)	
+"Profiling the Potential Risks and Benefits of Emerging "Play to Earn" Games: a Qualitative Analysis of Players' Experiences with Axie Infinity" . International Journal of Mental Health and Addiction 	players
+doi : 10.1007/s11469-022-00894-y . S2CID 251323282 	
+Money and the financial component of AI was a frequent topic of discussion. The first subtheme "Incentive" indicated gaming behaviour was highly reward-driven and extrinsically motivated	
+Therefore, whilst players did find some enjoyment from AI, this was secondary to the financial incentive. (...) Despite the current popularity of AI (...) players frequently reported a dislike for gameplay and that they were largely playing for extrinsic rewards	players
+Further reading [ edit ] D'Anastasio, Cecilia; Volpicelli, Gian M. (30 November 2021)	
+"The Escapist Fantasy of NFT Games Is Capitalism" . Wired 	nft
+Retrieved 2 December 2021 . v t e Cryptocurrencies Technology Blockchain Cryptocurrency tumbler Cryptocurrency wallet Cryptographic hash function Decentralized exchange Decentralized finance Distributed ledger Fork Lightning Network MetaMask Non-fungible token Smart contract Web3 Consensus mechanisms Proof of authority Proof of space Proof of stake Proof of work Proof of work currencies SHA-256 -based Bitcoin Bitcoin Cash Counterparty LBRY MazaCoin Namecoin Peercoin Titcoin Ethash -based Ethereum (1.0) Ethereum Classic Scrypt -based Auroracoin Bitconnect Coinye Dogecoin Litecoin Equihash -based Bitcoin Gold Zcash RandomX-based Monero X11 -based Dash Petro Other AmbaCoin Firo IOTA Nervos Network Primecoin Verge Vertcoin Proof of stake currencies Algorand Avalanche Cardano EOS.IO Ethereum (2.0) Gridcoin Kin Nxt Peercoin Polkadot Solana Steem Tezos TON TRON ERC-20 tokens Augur Aventus Basic Attention Token Chainlink Kin KodakCoin Minds Polygon Shiba Inu The DAO TRON Stablecoins Dai Diem First Digital USD Pax Terra Tether USD Coin Other currencies Chia Filecoin HBAR (Hashgraph) Helium Luna MobileCoin Nano NEO Ripple SafeMoon Stellar WhopperCoin Inactive currencies BitConnect Coinye KodakCoin OneCoin Petro Cryptocurrency exchanges Abra Binance Bitfinex bitFlyer Bitkub Bitpanda Bithumb BitMEX Bitso Bitstamp BTCC BUX Circle Coinbase Coincheck Crypto.com EDX Markets eToro Gemini Genesis Huobi ItBit (Paxos) Kraken Kucoin Kuna LocalBitcoins OKX ShapeShift Uniswap Upbit Defunct BTC-e FTX bankruptcy Mt	cryptocurrencies, decentralized, ledger, token, crypto, dao, wallet
+Gox QuadrigaCX Thodex Crypto service companies Hyperledger IQ.Wiki Initiative Q Related topics Airdrop BitLicense Blockchain game Complementary currency Crypto-anarchism Cryptocurrency bubble Cryptocurrency in Nigeria Cryptocurrency scams Digital currency Decentralized autonomous organization Decentralized application Distributed ledger technology law Double-spending Environmental impact Initial coin offering Initial exchange offering List of cryptocurrencies Token money Virtual currency Category Commons List Retrieved from " https://en.wikipedia.org/w/index.php?title=Axie_Infinity&oldid=1242770390 " Categories : Blockchain games Ethereum Video games developed in Vietnam Virtual pet video games Cryptocurrency theft Monster-taming games Hidden categories: CS1 German-language sources (de) Articles with short description Short description matches Wikidata Use dmy dates from November 2023 Short description is different from Wikidata Articles using Infobox video game using locally defined parameters Articles using Wikidata infoboxes with locally defined images All articles with unsourced statements Articles with unsourced statements from November 2023 All articles lacking reliable references Articles lacking reliable references from November 2023 Articles containing potentially dated statements from May 2023 All articles containing potentially dated statements All articles with minor POV problems Articles with minor POV problems from November 2023 This page was last edited on 28 August 2024, at 16:56 (UTC) . Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ;
+additional terms may apply	cryptocurrencies, decentralized, ledger, token, crypto
+By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc	
+, a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view	

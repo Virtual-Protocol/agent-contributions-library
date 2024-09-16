@@ -1,0 +1,51 @@
+Content		Keywords
+	
+thanks to the power of modern communication we have the ability to		
+create technologies that are decentralized		decentralized
+removing middlemen and allowing users to interact with each other directly		
+through a global network decentralized applications have been becoming more and		decentralized
+more important in the past 10 years and have		
+the benefits of massively reducing costs and barriers to entry		
+removing single points of failure preventing censorship		
+and ensuring transparency and trust between all the parties involved in an		
+interaction bittorrent a file sharing network that		
+developed in the early 2000s is arguably the first decentralized		decentralized
+application to have been created bitsword allows anyone to share any kind		
+of file with anyone else in the world allowing people to distribute content		
+quickly and easily even if they do not have the resources		
+to pay for their own website or server five years later satoshi nakamoto came		
+up with the idea of a blockchain a sort of distributed database and used		blockchain
+it to build bitcoin the world's first decentralized currency		bitcoin, decentralized
+decentralized currencies like bitcoin allow		bitcoin, decentralized
+people to send money instantly anywhere around the world with no regard for		
+national borders with negligible fees bitcoin is increasingly being used for		bitcoin
+international remittances micro payments and commerce online		
+decentralized applications for finance cloud computing messaging and		decentralized
+distributed governance are soon to come ethereum is a platform that is		ethereum
+specifically designed for people to build these kinds of decentralized		decentralized
+applications or dapps for short the ethereum client		ethereum
+which we are calling the ether browser will include ability in peer-to-peer		
+network for sending messages and a generalized blockchain with a		blockchain
+built-in programming language allowing people to use the blockchain		blockchain
+for any kind of decentralized application		decentralized
+that they want to create ethereum can be used to build financial applications		ethereum
+that are fully trustworthy and transparent because they run on the		
+blockchain online cryptographically secure systems		blockchain
+for managing your property and contracts social networking and messaging systems		
+that allow users to maintain control of their own data		
+systems for trading underutilized computational resources like cpu time		
+and hard drive space and eventually tools for		
+online voting and distributed governance and the most exciting applications of		
+ethereum are probably the ones that we have not		ethereum
+even thought of as with all new platforms for innovation		
+like the protocols that underlie the internet itself it is not always easy to		
+predict what they're going to be used for		
+gmail facebook twitter instagram and the modern internet as a whole		
+are all a result of early developments in the world wide web and		
+javascript the programming language of the world wide web from the 1990s		
+similarly by providing a universal programmable blockchain		blockchain
+and packaging it up into a client that anyone can use		
+the ethereum project hopes to do the same for finance		ethereum
+peer-to-peer commerce distributed governance and		
+human collaboration as a whole now the question is		
+what will you build on top of ethereum		ethereum
