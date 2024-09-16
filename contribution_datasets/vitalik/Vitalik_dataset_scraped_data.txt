@@ -1,0 +1,134 @@
+Content		Keywords
+just give a kind of big rapid fire introduction into some of the basics of how ethereum Works some of the basics of what ethereum tries to accomplish and		
+I'm gonna just try to get it done within um I guess right now it's uh 1.8 kiloseconds or 150 slots um so what is ethereum right ethereum is		
+a general purpose blockchain so people have seen a general purpose assess the platforms before and people have seen blockchains before and I think at this		Crypto Blockchain
+point we can all kind of intuitively understand what the value of both of those categories is right so blockchains can facilitate a large-scale consensus		
+they can protect against censorship they can enable censorship resistance applications blockchains are always available if you build on a blockchain		Crypto Blockchain
+and then the thing that you build on that blockchain is going to be available it's not going to just get pulled under you because you know some particular		Crypto Blockchain
+company decides it would be 12 more profitable if they just change the API on you without notice it is uh you know independent of any one particular nation		
+state it's not dependent on any particular centralized Corporation avoid dependence on centralized parties um it's the you know one neutral ground at		
+a time when almost every other grounds that we see is uh you know picking picking sides of some kind or other and you know often for very good reasons but		
+no blockchains are this a kind of base layer between parties that do not trust each other that you know still allows them to have positive sum interactions		
+blockchains can allow applications that are open that are transparent where people who participate on them or can be sure that the application is		
+going to follow the rules that they sign up for right so blockchains are great for you know things that really need stability		
+um so there is a good reason why money is the first app um but there's other apps as well and I'm sure a lot of people behind those		
+apps are going to be talking a lot about them at this conference general purpose platforms are powerful too right general purpose platforms are interesting		
+because they open the door to Independence Innovation so if you have a general purpose platform then it just makes it much easier to build something		General Innovation
+on top of it because if he wants to build some specific thing instead of having to like rebuild all the infrastructure yourself you know you		
+just add a tiny little piece right they can create powerful Network effects between different types of applications so you know you got your uniswap and		General Network
+then you got your like Dow that plugs into the unit Swap and then that you and then that unit swap itself gets used to trade between you know usdc tokens and		General Trade
+maker tokens and you can create these kind of complicated chains of seven different applications that all talk to each other and sometimes they talk to		
+each other in insanely crazy ways within one single transaction that uh you know really fun people from Paradigm go and write amazing blog posts about		
+um but so uh general purpose platforms lower the barriers to entry they make it simpler to build they enable a lot of innovation and often general purpose		General Innovation
+platforms end up being far more useful that even the creators originally imagined so ethereum is a general purpose blockchain right and so ethereum		Crypto Blockchain
+tries to be both so this is like one of the sort of three-minute pitches of you know what ethereum could could allow you to do so		
+what what is ethereum and how does this work so these three pictures are from a slide that I use to describe ethereum at some of the previous ethereum in uh 30		
+minute sessions right so you know you have like single application blockchains which are like pocket calculators then you have like multi-application		
+blockchains that explicitly support a small number of applications I call them Swiss army knife blockchains and then you have you know the smartphone		
+blockchain oh it's a you know it's general purpose and if you want to do something you just like download the app right so		Crypto Blockchain
+these days you know unfortunately even over in you know 2022 and uh you know talking about a general blockchain being general purpose as though that's		Crypto Blockchain
+something cool is um you know kind of like a someone selling a house describing their house by saying you know we're we're		
+really modern we have a refrigerator who here has a refrigerator well lots of people have not raised their hands I'm impressed		
+um I I guess that do people like order out do people eat raw food like what's the idea here I don't know I mean people		
+have done refrigerator Free Living successfully for like you know 1900 years in the ad era alone but uh that's uh you know it's still impressive		
+um anyway so like what does the blockchain look like right so one of the uh exciting things about doing this presentation this year is		Crypto Blockchain
+that like I actually had to change it a lot right like between a lot of the previous sub ones it's like okay you know it's ethereum here's how it works		
+okay it's ethereum it's how it works okay it's ethereum it's how it works but in between the last Defcon and this one the way that the ethereum blockchain		Crypto Blockchain
+works just like changed very fundamentally right and the the rate of change and our ability to actually execute on and implements		
+changes to the ethereum protocol significant changes that we have wanted to do I'm almost since the protocols are launched and that we've been talking		General Protocol
+about for almost a decade but you know finally managed to done has really been accelerating right so we had eip1559 in you know 2020 and then the beacon chain		
+launched and now the beacon chain took over and you and uh you know ethereum is only a proof of stake system so you know lots of very big changes and you know		
+lots of different things that we have to talk about right so like remember back in when during the proof of work era we had to talk about how like blocks		
+include Uncle blocks right do people remember this so people remember how like sometimes people would even you know try to be		
+gender neutral call them armor blocks instead of Uncle blocks as well and like you know I get this I you know I get the sentiment very honorable sentiment but		
+like come on like armor just sounds like an insult for people who meditate but okay so these days you know we're proof of		
+stake right and um the blockchain looks kind of different from what it did before right so what so let's like talk about what the		Crypto Blockchain
+blockchain looks like without reference to you know the dark old proof of work era that our grandchildren will eventually remember in the same light as		Crypto Blockchain
+how they yeah remember how houses used to not have refrigerators so you have blocks right and blocks contain transactions what is a transaction a		
+transaction is an object sent by a user that contains information about something that they want to do right so if I want if I have like some if there's		
+the yeah cryptocurrency inside of ethereum and I want to send you one is then that request would be packaged up inside of a transaction if let's say I		Crypto Cryptocurrency
+have an nft and I want to send you the nft that um request is packaged up inside of a transaction if I want to publish an entirely new application then		Crypto NFT
+and create the smart contract for the application and that's something I'll cover later that is also packaged up inside of a transaction so a transaction		Crypto Smart Contract
+is like a package of data data that contains information about stuff that somebody wants to do these transactions get included in		
+blocks every block emails are created by by a validator and a block so blocks already just these packages of transactions and one new block comes		
+every slot one slot is 12 seconds then we have attestations attestations confirm blocks right so attestations are like these messages signed by other		
+validators that basically solidify the position of a block inside of the API blockchain right so when you a block gets published and then that block		Crypto Blockchain
+within a few seconds it almost immediately gets thousands of attestations supporting it and that and it solidifies that walk's position in		
+the chain such that other blocks that compete with that block that like also try to claim that their you know that are not kind of children		
+of that block but that are you know siblings and they try to claim that they're the real history those blocks are not not going to be able to get		
+through right so in as Danny mentioned you know in the entire almost month that post merge ethereum has been running we've only had like 20 26 reorgs and		
+that's maybe an over count and even those cases are cases where a block is published too late and it probably did not get many other stations right so		
+lots of attestations in parallel solidify the position of a block in the chain block gets published block gets attested black is published block has a		
+tested block is published block gets attested right people understand um raise your hand a few I understand		
+okay wow it's like more people understand this than have a refrigerator this is like a basic okay so		
+let's talk about what happens inside of a blockchain right so uh you know there's the blockchain keeps track of um information that we call State and the		Crypto Blockchain
+the state that the blockchain keeps track of is made up of accounts right and there's two types of accounts basically you can think of them for now		Crypto Blockchain
+as like accounts controlled by people and accounts controlled by robots where the robots also are also only exist inside of the chain right so an		
+externally owned account is this is an account that represents a user right so like for example if you hold East today that ease is stored inside of your		
+externally owned account right so there exists a record which is like an eoa that is in the blockchain that the blockchain keeps track of and that		Crypto Blockchain
+object contains the record saying you know hey this address contains this amount of eth the other kind of account is what we call a contract a contract is		Ethereum ETH
+like a computer program that lives on chain the code of that computer program is on chain so the chain stores the code of the		
+contract the chain stores internal storage of the contract internal storage just like memory that that contract has the ability to update and		
+contracts are basically how all applications that that are in ethereum work right so an application is generally has an on-chain component that		
+kind of controls the business logic of that application that generally is one or a set of contracts so what do contracts look like um so this		
+is an example of a source code of a simple smart contract and this is by the way in a language called a Viper it's a a less well-known language it's the kind		Crypto Smart Contract
+of largest alternative to solidity and so if people aesthetically prefer coding in Python syntax I mean like I personally think python is like way		Ethereum Solidity
+request to change the basically calls on your set address right so we're going to call it with a particular domain we're going to call it with a particular new		
+address and you're going to make a transaction where the two of the transaction right the two address is the account that you're calling right so		
+it's going to be 0x 849 c41 down there the data is going to be the stuff that you call it with and then the signature is like cryptographic data that proves		Crypto Cryptographic
+		
+the execution of a transaction if you send a transaction which gets included in a block you have to pay a fee that's proportional to how much gas		
+the transaction consumed right so whatever amount of Reason total resources and transactions consumed you have to pay an amount proportional to		
+that right so the fee is basically the What's called the base fee plus priority fee multiplied by the gas you use so the base fee is like a fee that's adjusted		
+by the protocol it adjusts up or down to try to keep the usage at about the same level and then the priority fee is like an extra amount that you pay the block		General Protocol
+proposer to sort of encourage them to add your transaction and in this partic generally people just set a priority of one but you know if there's a particular		
+time where lots and lots of people are sending huge numbers of transactions and the blocks are congested you can set a higher priority for you to get in first		
+		
+ability to send a transaction on one chain instead of sending it on all the other chains you know it's not that hard right		
+um nuts this is like an anti-replay value right so every time you send a transaction that gets included the non's also like has to go up by one each time		
+right so this prevents a transaction that you send for being included more than once pretty simple Max priority fee and the priority fee that you're paying		
+Max fee which is like the maximum base fee that you're willing to pay gas limit the maximum gas the transaction is allowed to consume		
+um destination which Azure is the transaction goes to the amount how much how much each that you're sending data is uh if you're calling a contracts then		
+the then what is the data that gets passed in the call access to list is like this fancy way to access some accounts and some storage slots kind of		
+earlier and access them a little more cheaply and then the signature is like a cryptographic thing that verifies you know who sent the transaction okay so		Crypto Cryptographic
+high level languages right so uh you know we mentioned that there's Viper um there's also solidity there's also um you know lll there's like a long list		Ethereum Solidity
+of kind of various high-level languages that you can write contracts in so when you write a a smart contract you're generally		Crypto Smart Contract
+writing in this high level code there's a compiler the compiler converts the high level code to bytecode and it also outputs an API ABI stands for		
+application binary interface it's basically the way to encode particular like requests like things that users want to do like users attempts to call		
+particular functions in the contract into a set of bytes right so in this case like if you call you know set owner with a particular		
+um you know this particular address actually this should be this should be set IPA but an IPM that's a bit of a mistake right then you could use the API		
+and you can convert that into some call data right and the call data is what actually gets into the transaction right so there's this kind of logic that		
+happens that basically converts this sort of high level human readable stuff that people want to do you know both the human readable code of the contract and		
+kind of human readable instructions like you know I wants to send Bob 25 East because I really like him you wouldn't put the I really like him part into the		
+contract you would like sensible love mode off chain or something but you know convert that into a kind of byte request that the evm understands		
+um so proof of State consensus right so the thing that actually kind of keeps the whole thing safe so we talked about blocks we talked about other stations		
+who gets to produce these blocks to data stations anyone can if they deposit 32 East and become a validator right and if you have		
+less than 32 East then you can join the system through stake pools right so there are stake pools you know there's rocket pool there's Lido there's a bunch		
+of other pools and you and if you have less than 32 East you could kind of become part of a validator using a stake pool as well so		
+deposit 32 East becomes a validator and in each slot 12 seconds 1 over 32 of all validators attest to the block that was created during that slot the validators		
+get Revenue right so why would you stake well you get rewards you get two kinds of rewards you get in protocol rewards so you get automatic rewards for		General Protocol
+creating blocks creating attestations you know doing all of the good things and you also get priority fees and Mev from transactions right so you know you		
+get Revenue in two ways and validators can you know withdraw at any time well this will be enabled in the next hard Fork right but validators will be able		
+to withdraw at any time with a delay um and usually that delay will be pretty short but in extreme cases like if everyone's trying not throughout the		
+same time then there is going to be a queue and you might have to wait for some amount of time so that's proof of State consensus right basically yeah you		
+know if you have 32 East you can deposit become a validator and all of these validators are the ones that participate in this big system of blocks and		
+attestations that keeps the chain progressing and keeps the blocks that are being added safe um Fox choice right so the reason why we		
+need to have like weird fancy stuff to inconsensus is because what if you have this situation where people publish two blocks and those		
+blocks disagree with each other right so in this case you have two blocks and these blocks are um you know they're sister blocks right they have the same		
+parent and so clearly you can't get like put both of these blocks in at the same time they might have conflicting transactions they		
+have some of the same transactions they even might have some of the same transactions in different order right but blocks or you know what happens if		
+you have like two blocks that create two conflicting histories you have to choose one of you have to choose one of these histories somehow right and the		
+mechanism that does this choosing is called the fork choice right because the blockchain forked and we have to choose one one part of the fork		Crypto Blockchain
+so the mechanism that does this right now it's called lmd ghost and it's very simple it's just as a station counting		
+technology ethereum actually you know uses it everywhere um last fun thing Layer Two protocols right so most people or increasingly		General Technology
+more and more people don't use ethereum directly they usually what are called Layer Two protocols that inherit security from ethereum and add higher		General Security
+scalability on top right so Roll-Ups I wrote an article on them they're really fun there's a bunch of them from a user's point of view living on a modern		General Scalability
+Layer Two feels like living on ethereum you know applications work the same way but because these applications don't stick everything on ethereum directly		
+fees are many times lower so layer twos are great layer twos are how ethereum is scaling and you know we encourage everyone to pay attention and learn a		
+lot about layer twos this year so finally you know future directions the merge done yay um		
+okay next stop the search increasing scalability going finally going sustainably below five cents a transaction going getting us to		General Scalability
+thousands of transactions a second next up The Verge replacing Merkle trees with more efficient structures don't let		
+ethereum knows be much lighter ethereum notes don't have to have huge amounts of data becomes much easier for anyone to run them yay		
+The Purge clearing out all data clearing out technical debt making ethereum nodes easier to run and making an easier end protocol simpler		General Protocol
+and the Splurge grab bag of various useful stuff account abstraction evm improvements for potion Builder separation		
+		
