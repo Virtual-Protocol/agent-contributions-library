@@ -1,0 +1,195 @@
+Content	 Topic
+Vitalik Buterin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Appearance Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2.1 Bitcoin Magazine 2.2 Ethereum 2.3 Open-source software 2.4 Ethereum Russia 2.5 Work with Glen Weyl 3 Awards and recognition 4 Philanthropy Toggle Philanthropy subsection 4.1 Philanthropic efforts against the 2022 Russian invasion of Ukraine 5 Books 6 See also 7 References Toggle References subsection 7.1 Citations 7.2 Works cited 8 External links Toggle the table of contents Vitalik Buterin 30 languages Afrikaans العربية Azərbaycanca বাংলা Беларуская Български Català Deutsch Español فارسی Français 한국어 Bahasa Indonesia Italiano עברית Magyar मराठी Bahasa Melayu ꯃꯤꯇꯩ ꯂꯣꯟ Nederlands 日本語 Norsk bokmål Português Русский Suomi Тоҷикӣ Türkçe Українська Tiếng Việt 中文 Edit links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code Wikidata item Print/export Download as PDF Printable version In other projects Wikimedia Commons Appearance move to sidebar hide From Wikipedia, the free encyclopedia Canadian programmer (born 1994) In this name that follows Eastern Slavic naming customs , the patronymic is Dmitrievich and the family name is Buterin . Vitalik Buterin Виталик Бутерин Buterin in 2015 Born Vitaly Dmitrievich Buterin ( 1994-01-31 ) 31 January 1994 (age 30) Kolomna , Russia Education University of Waterloo Known for Ethereum , Bitcoin Magazine Awards Thiel Fellowship Scientific career Fields Digital contracts , digital currencies , game theory Website Personal website Vitaly Dmitrievich Buterin ( Russian : Вита́лий Дми́триевич Буте́рин ), better known as Vitalik Buterin (Russian: Вита́лик Буте́рин ; born 31 January [ 1 ] 1994), is a Canadian computer programmer and co-founder of Ethereum 	ethereum, bitcoin
+Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011 [ 2 ] [ 3 ] and Dark Wallet in 2013 together with Amir Taaki and Cody Wilson [ 4 ] In 2015, Buterin deployed the Ethereum blockchain with Gavin Wood , Charles Hoskinson , Anthony Di Iorio , and Joseph Lubin . [ 5 ] [ 6 ] [ 7 ] Early life and education [ edit ] Buterin was born in Kolomna , Russia, to a Russian family	blockchain, ethereum, bitcoin, cryptocurrency, wallet
+[ 8 ] [ 9 ] His father, Dmitry, was a computer scientist . [ 8 ] He and his parents lived in the area until the age of six, when his parents emigrated to Canada in search of better employment opportunities	
+[ 10 ] While in grade three of elementary school in Canada, Buterin was placed into a class for gifted children and was drawn to mathematics, programming, and economics. [ 11 ] Buterin then attended The Abelard School , a private high school in Toronto	
+[ 12 ] Buterin learned about Bitcoin from his father at the age of 17. [ 10 ] After high school, Buterin attended the University of Waterloo 	bitcoin
+There, he took advanced courses and was a research assistant for cryptographer Ian Goldberg , who co-created Off-the-Record Messaging and was the former board of directors' chairman of the Tor Project . [ 13 ] [ 14 ] In 2012, Buterin won a bronze medal in the International Olympiad in Informatics in Italy 	
+[ 15 ] In 2013, he visited developers in other countries who shared his enthusiasm for code. He returned to Toronto later that year and published a white paper proposing Ethereum	ethereum
+[ 16 ] [ 17 ] He dropped out of university in 2014 when he was awarded with a grant of US$100,000 (equivalent to $128,704 in 2023) [ 18 ] from the Thiel Fellowship , a scholarship created by venture capitalist Peter Thiel and went to work on Ethereum full-time. [ 19 ] On 30 November 2018, Buterin received an honorary doctorate from the Faculty of Business and Economics of the University of Basel 	ethereum
+[ 20 ] Career [ edit ] Bitcoin Magazine [ edit ] Main article: Bitcoin Magazine In 2011, Buterin began writing for a publication called Bitcoin Weekly after meeting a person on a bitcoin forum with the aim of earning bitcoin. [ 21 ] The owner offered five bitcoin (about $3.50 at the time) to anyone who would write an article for him	bitcoin
+[ 22 ] Buterin wrote for the site until it shut down soon thereafter due to insufficient revenue. [ 23 ] In September 2011, Mihai Alisie reached out to Buterin about starting a new print publication called Bitcoin Magazine , a position which Buterin would accept as the first co-founder and contribute to as a leading writer	bitcoin
+[ 21 ] Bitcoin Magazine in 2012 later began publishing a print edition and has been referred to as the first serious publication dedicated to cryptocurrencies . [ 24 ] While working for Bitcoin Magazine , Buterin reached out to Jed McCaleb for a job at Ripple who accepted	bitcoin
+[ 25 ] However, their proposed employment fell apart after Ripple was unable to support a U.S. visa for Buterin	
+[ 25 ] In addition, he held a position on the editorial board of Ledger in 2016, a peer-reviewed scholarly journal that publishes full-length original research articles on the subjects of cryptocurrency and blockchain technology. [ 26 ] [ needs update ] Ethereum [ edit ] Main article: Ethereum Buterin is the inventor of Ethereum , described as a "decentralised mining network and software development platform rolled into one" [ 27 ] that facilitates the creation of new cryptocurrencies and programs that share a single blockchain (a cryptographic transaction ledger)	blockchain, ethereum, cryptocurrency, ledger, mining, cryptographic
+[ 28 ] [ 29 ] [ 30 ] Buterin first described Ethereum in a white paper [ 31 ] in November 2013. [ 32 ] Buterin had argued that bitcoin needed a scripting language for application development	ethereum, bitcoin
+But when he failed to gain agreement, he proposed development of a new platform with a more general scripting language. [ 33 ] : 88 The Ethereum white paper was circulated, and interest grew in the new protocol in late 2013 and early 2014	ethereum, protocol
+Buterin announced Ethereum more publicly at the North American Bitcoin Conference in Miami on 26 January. Buterin delivered a 25-minute speech, describing the general-purpose global computer operating on a decentralized permissionless network, ending with potential uses for Ethereum that ranged from crop insurance to decentralized exchanges to DAOs 	ethereum, bitcoin, decentralized
+[ 34 ] [ 35 ] : 92, 110–130 [ 36 ] About the Ethereum Project, Buterin said in 2020: "I am truly grateful to have the opportunity to work in such an interesting and interdisciplinary area of industry, where I have the chance to interact with cryptographers, mathematicians and economists prominent in their fields, to help build software and tools that already affect tens of thousands of people around the world, and to work on advanced problems in computer science, economics and philosophy every week." [ 37 ] However, in a 2018 New Yorker article, his father suggests that Buterin is trying to avoid the focus on him as the philosopher king of the blockchain world, stating "He is trying to focus his time on research. He's not too excited that the community assigns so much importance to him	blockchain, ethereum
+He wants the community to be more resilient." [ 7 ] Buterin has stated that he was driven to create decentralized money because his World of Warcraft character was nerfed , specifically by patch 3.1.0. He went on to say in his about.me bio: I happily played World of Warcraft during 2007–2010, but one day Blizzard removed the damage component from my beloved warlock's Siphon Life spell	decentralized
+I cried myself to sleep, and on that day I realized what horrors centralized services can bring. I soon decided to quit	
+[ 38 ] [ 39 ] Open-source software [ edit ] Buterin has contributed as a developer to other open-source software projects. [ 2 ] He also contributed to DarkWallet [ 40 ] by Cody Wilson , Bitcoin Python libraries, [ 41 ] and the cryptocurrency marketplace site Egora	bitcoin, cryptocurrency
+[ 3 ] Ethereum Russia [ edit ] As Buterin was recognizing the economic and political relevance of the Ethereum enterprise for his native Russia, he met with President Vladimir Putin on 2 June 2017, at the St. Petersburg International Economic Forum (SPIEF)	ethereum
+Putin stated that he "supported the idea of establishing ties with possible Russian partners". [ 42 ] Work with Glen Weyl [ edit ] Buterin came into contact with economist Glen Weyl after tweeting about Weyl's proposal for a new wealth tax 	
+[ 43 ] The two then wrote a manifesto Liberation Through Radical Decentralization , where they highlighted the common ground between Buterin's work on cryptocurrencies and Weyl's work on market-based solutions to social problems. [ 44 ] Collaborating with Zoe Hitzig, a PhD student at Harvard , they published a paper in 2019 entitled A Flexible Design for Funding Public Goods 	
+The paper sets out a method for optimal provision of public goods, using a version of quadratic voting . [ 45 ] As of August 2022, quadratic funding had been used to allocate over $20 million to open-source software projects, primarily through Gitcoin Grants	
+[ 46 ] Awards and recognition [ edit ] Thiel Fellowship , 2014 [ 11 ] World Technology Award in the IT Software category, 2014 [ 47 ] Fortune 40 under 40 list, 2016 [ 48 ] Forbes 30 under 30 list, 2018 [ 49 ] [ 50 ] Fortune the ledger 40 under 40 list, 2018 [ 51 ] University of Basel Honorary doctorate, 2018 [ 52 ] Time 100 , 2021 [ 53 ] Philanthropy [ edit ] Donation of $763,970 of Ether to the Machine Intelligence Research Institute in 2017. [ 54 ] [ 55 ] Donation of $2.4 million of Ether to the SENS Research Foundation in 2018, for the research on rejuvenation biotechnologies and human life extension	ledger
+[ 56 ] [ 57 ] [ 58 ] [ 59 ] Donation of $50,000 to the SENS Research Foundation in 2020. Together with Sam Bankman-Fried and Haseeb Qureshi, a total of $150,000 was donated the SENS Research Foundation to combat aging and aging-related diseases at the choice of users of Twitter through open voting	
+[ 60 ] [ 55 ] Buterin donated $1.14 billion USD worth of SHIBA coins , which had previously been gifted to him, to India's Crypto Covid relief fund in 2021. [ 61 ] [ 62 ] [ 63 ] This donation was 5% of the coin in circulation and caused a 50% crash in the price at the time	crypto
+[ 64 ] [ 65 ] Donation of $336 million worth of Dogelon Mars ($ELON), which had previously been gifted to him, to the Methuselah Foundation , which focuses on extending human lifespan, on 12 May 2021. [ 66 ] Buterin's donation of the memecoin caused a 70% drop in its value	
+[ 61 ] Philanthropic efforts against the 2022 Russian invasion of Ukraine [ edit ] Buterin spoke out in support of Ukraine amid its invasion by Russia in 2022 . On the first day of the invasion, Buterin tweeted that "Ethereum is neutral, but I am not", [ 67 ] [ 68 ] and that the attack was a crime against both the Ukrainian and the Russian peoples	ethereum
+[ 69 ] [ 70 ] A few days later, he responded to a tweet by RT 's editor-in-chief Margarita Simonyan with " иди на хуй " ' go fuck yourself ' . She had claimed that people who said they were ashamed to be Russians because of Moscow's actions against Ukraine were, in fact, not Russians at all (" Если вам сейчас стыдно, что вы русские, не волнуйтесь, вы - не русские	
+"). [ 71 ] Buterin has donated crypto to projects supporting the country and endorsed projects helping Ukraine through "cryptophilanthropy"	crypto
+These include Ukraine DAO , [ 72 ] [ 73 ] in which his father Dmitry is one of the key-holders on its multi-signature crypto safe. [ 74 ] Books [ edit ] Vitalik Buterin	crypto, dao
+Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains . — Seven Stories Press , 2022	ethereum
+— С. 384	
+— ISBN 978-1644212486. See also [ edit ] List of University of Waterloo people List of people in blockchain technology List of transhumanists List of philanthropists References [ edit ] Citations [ edit ] ^ Dmitry Buterin [@BlockGeekDima] (31 January 2022)	blockchain
+"28 years ago, at 21, i became a father. What a beautiful messy complicated journey is being a parent! So much love, fear, conflict, joy, suffering, growth in that amazing human experience!! Happy birthday to a wonderful sensitive funny smart human @VitalikButerin 🥳🕺❤️🐥🔆" ( Tweet ) 	
+Retrieved 3 April 2023 – via Twitter . ^ a b Finley, Klint (27 January 2014)	
+"Out in the open: Teenage hacker transforms web into one giant Bitcoin network" . Wired 	bitcoin
+Archived from the original on 12 February 2014 . Retrieved 7 February 2014 	
+^ a b Melendez, Steven (10 February 2014). "Could this 20-Year-Old kid make Bitcoin obsolete?" 	bitcoin
+Fast Company . Archived from the original on 1 March 2014 	
+Retrieved 22 February 2014 . ^ del Castillo, Michael (24 September 2014)	
+"Dark wallet: A radical way to Bitcoin" . The New Yorker 	bitcoin, wallet
+Archived from the original on 25 September 2013 . Retrieved 24 January 2014 	
+^ "Ethereum Regains Title as Second Most Valuable Cryptocurrency Behind Bitcoin" . Fortune 	ethereum, bitcoin, cryptocurrency
+Archived from the original on 8 January 2018 . Retrieved 31 December 2020 	
+^ "Ethereum Becoming More Than Crypto Coder Darling, Grayscale Says" . Bloomberg.com 	ethereum, crypto
+4 December 2020. Archived from the original on 4 December 2020 	
+Retrieved 31 December 2020 . ^ a b Paumgarten, Nick (15 October 2018)	
+"The Prophets of Cryptocurrency Survey the Boom and Bust" . The New Yorker 	cryptocurrency
+Archived from the original on 9 January 2020. ^ a b Brownell, Claire (27 June 2017)	
+"Vitalik Buterin: The cryptocurrency prophet" . Financial Post 	cryptocurrency
+Archived from the original on 8 March 2018 . Retrieved 8 March 2018 	
+^ Chow, Andrew R. (18 March 2022)	
+"The Man Behind Ethereum Is Worried About Crypto's Future" . Time 	ethereum, crypto
+Retrieved 14 September 2022 . ^ a b Peck, Morgen (13 June 2016)	
+"The Uncanny Mind That Built Ethereum" . Backchannel 	ethereum
+WIRED. Archived from the original on 13 July 2017 	
+Retrieved 15 June 2016 . ^ a b Snyder, Benjamin (23 June 2017)	
+"Meet Vitalik Buterin, the 23-year-old founder of bitcoin rival ethereum" . CNBC 	ethereum, bitcoin
+Archived from the original on 29 January 2018 . Retrieved 8 March 2018 	
+^ Leising 2020 , pp. 35–40. ^ Russo 2020 , p. 29	
+^ "The Uncanny Mind That Built Ethereum | WIRED" . Wired 	ethereum
+13 July 2017. Archived from the original on 13 July 2017	
+^ "Results | IOI 2012" . www.ioi2012.org 	
+Archived from the original on 4 March 2016 . Retrieved 21 July 2016 	
+^ Ethereum co-founder Vitalik Buterin on good and bad ways to deal with crypto, and Spore's approach on YouTube ^ Braga, Matthew (13 October 2016). "Change Agents 2016: Vitalik Buterin, Ethereum" 	ethereum, crypto
+Canadian Business . Archived from the original on 7 June 2017 	
+Retrieved 6 June 2017 . ^ 1634–1699: McCusker, J	
+J. (1997)	
+How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda (PDF) . American Antiquarian Society 	
+1700–1799: McCusker, J. J	
+(1992). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States (PDF) 	
+American Antiquarian Society . 1800–present: Federal Reserve Bank of Minneapolis	
+"Consumer Price Index (estimate) 1800–" . Retrieved 29 February 2024 	
+^ Elliot, Josh (2 July 2014). "Why a 20-year-old Toronto drop-out accepted $100,000 to stay out of school" 	
+CTV . Archived from the original on 1 June 2016 	
+Retrieved 25 April 2016 . ^ "Vitalik Buterin receives Honorary Doctorate" 	
+cif.unibas.ch . Archived from the original on 3 July 2019 	
+Retrieved 3 July 2019 . ^ a b Russo 2020 , p. 25	
+^ Russo 2020 , p. 55. ^ "Interview with Vitalik Buterin" 	
+Bitcorati, Inc. 10 January 2014	
+Archived from the original on 17 February 2015 . Retrieved 3 June 2017 	
+^ Vigna, Paul; Casey, Michael J. (2015)	
+"Community" . The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging .	blockchain, bitcoin, cryptocurrency
+. Macmillan Publishers 	
+p. 88. ISBN 978-1-250-06563-6 	
+Archived from the original on 5 August 2021 . Retrieved 18 November 2020 	
+^ a b Russo 2020 , p. 35. ^ "Ledger" 	ledger
+Archived from the original on 20 February 2016 . Retrieved 4 February 2016 	
+^ Benstead, Sam (19 May 2021). "What is ethereum and how does it differ from Bitcoin?" 	ethereum, bitcoin
+The Telegraph . Archived from the original on 6 November 2020 	
+Retrieved 19 October 2020 . ^ Aron, Jacob (6 February 2014)	
+"Bitcoin: How its core technology will change the world" . New Scientist 	bitcoin
+No. 2955. Archived from the original on 22 February 2014 	
+Retrieved 22 February 2014 . ^ "Vitalik Buterin on Ethereum and The Decentralized Future" 	ethereum, decentralized
+Future Thinkers Podcast . 21 April 2015	
+Archived from the original on 18 May 2016 . Retrieved 13 May 2016 	
+^ Jain, Aman (17 August 2021). "Founders' Fork: The Ethereum Architects Now Locked in Battle" 	ethereum
+Entrepreneur . Archived from the original on 18 August 2021 	
+Retrieved 19 August 2021 . ^ "White Paper· ethereum/wiki Wiki · GitHub" 	ethereum
+GitHub . Archived from the original on 28 March 2015	
+^ Leising 2020 , pp. 110. ^ Tapscott, Don; Tapscott, Alex (7 May 2016)	
+The Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World . Portfolio	blockchain, bitcoin
+ISBN 978-0-670-06997-2 . ^ Leising 2020 , p. 129	
+^ Leising 2020 , p. 313. ^ Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014 on YouTube ^ "Alumni" 	ethereum, bitcoin
+Abelard School . Archived from the original on 28 September 2020 	
+Retrieved 7 February 2021 . ^ Peck, Morgen	
+"The Uncanny Mind That Built Ethereum" . WIRED 	ethereum
+^ Good, Owen (4 October 2021). "NFT mastermind says he created Ethereum because Warcraft nerfed his character" 	ethereum, nft
+Polygon . Retrieved 6 October 2021 	
+^ Kelly, Brian (2015). "Smart Money, set it and forget it" 	
+The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World . Wiley Publishing 	bitcoin
+p. 156. ISBN 978-1-118-96366-1 	
+Archived from the original on 5 August 2021 . Retrieved 18 November 2020 	
+^ Antonopoulos, Andreas M. (20 December 2014)	
+"#4. Keys, Addresses, and Wallets" 	
+Mastering Bitcoin: Unlocking Digital Cryptocurrencies . O'Reilly Media 	bitcoin
+p. 82. ISBN 978-1-4493-7404-4 	
+Archived from the original on 5 August 2021 . Retrieved 18 November 2020 	
+^ Sebastian, Clare (Nov 2017) "Russia eyes cryptocurrency dominance" Archived 20 July 2018 at the Wayback Machine CNN Tech . Retrieved 20 July 2018	cryptocurrency
+^ Gian Volpicelli (14 June 2018). "This economist wants to abolish private property using blockchain" 	blockchain
+Wired . Archived from the original on 27 January 2021 	
+Retrieved 4 January 2021 . ^ Vitalik Buterin and Glen Weyl (21 May 2018)	
+"Liberation Through Radical Decentralization" . Archived from the original on 26 February 2021 	
+Retrieved 4 January 2021 . ^ Vitalik Buterin; Zoe Hitzig; Glen Weyl (2 July 2019)	
+"A Flexible Design for Funding Public Goods" . Management Science 	
+65 (11): 5171–5187. arXiv : 1809.06421 	
+doi : 10.1287/mnsc.2019.3337 . S2CID 198858039 	
+Archived from the original on 5 August 2021 . Retrieved 4 January 2021 	
+^ "Gitcoin Grants – Quadratic Funding for the World | Gitcoin Blog" . ^ Self Published (2014)	
+"2014 World Technology Awards * USAID Philanthropy Awareness Activity Winners" . www.wtn.net 	
+The World Technology Network. Archived from the original on 9 August 2018 	
+Retrieved 11 April 2018 . ^ 40 under 40: Vitalik Buterin, 22 Archived 25 September 2016 at the Wayback Machine , Fortune , September 2016	
+^ Forbes 30 under 30 Archived 1 December 2017 at the Wayback Machine , Forbes , November 2017. ^ Stankovic, Stefan (29 January 2018)	
+"Who is Vitalik Buterin, The Mastermind Behind Ethereum?" . Unblock 	ethereum
+Archived from the original on 11 April 2018 . Retrieved 11 April 2018 	
+^ "Fortune The Ledger 40 under 40: Vitalik Buterin" . 29 July 2018	ledger
+Archived from the original on 29 July 2018 . Retrieved 29 July 2018 	
+^ "Dies Academicus of the University of Basel: Honorary doctorates for Hansjörg Schneider and Vitalik Buterin" . 30 November 2018	
+Archived from the original on 5 December 2018 . Retrieved 4 December 2018 	
+^ Robertson, Harry (16 September 2021). "Ethereum cofounder Vitalik Buterin joins Joe Biden and Billie Eilish on Time's 100 most influential people list" 	ethereum
+Business Insider . Retrieved 15 November 2021 	
+^ "Fundraising success!" . Machine Intelligence Research Institute (Press release)	
+10 January 2018. Archived from the original on 7 July 2018 	
+Retrieved 27 July 2018 . ^ a b Tsakanikas, Nick (21 March 2019)	
+"Vitalik Buterin Cashed Out Large Sums of ETH During 2017 Crypto Frenzy" . CCN 	crypto
+Archived from the original on 24 June 2019 . Retrieved 3 May 2024 	
+^ "SENS Research Foundation Receives $2.4 Million Ethereum Donation From Vitalik Buterin" (Press release). SENS Research Foundation	ethereum
+2 February 2018. Archived from the original on 21 April 2021 	
+Retrieved 27 March 2021 . ^ Elena, Milova (20 March 2018)	
+"Vitalik Buterin: The Best Thing to Donate Money to is The Fight Against Aging" . LIFE EXTENSION ADVOCACY FOUNDATION	
+Archived from the original on 22 March 2018 . Retrieved 21 March 2018 	
+^ Анна ДОБРЮХА (20 March 2018). " "Король Эфириума" Виталик Бутерин: лучшее, на что стоит жертвовать деньги — это борьба со старением" [«King of Ethereum» Vitalik Buterin: the best thing to donate money for is the fight against aging] (in Russian)	ethereum
+Komsomolskaya Pravda . Archived from the original on 11 April 2021 	
+Retrieved 27 March 2021 . ^ "SENS Research Foundation 2018 Annual Report" (PDF) 	
+Archived (PDF) from the original on 21 April 2021 . Retrieved 27 March 2021 	
+^ "Effective Altruism: Giving in Crypto" (Press release). 17 December 2020	crypto
+Archived from the original on 18 December 2020 . Retrieved 23 December 2020 	
+^ a b "Ethereum Creator, Vitalik Buterin, Donates Over $1B to India COVID Relief" . TheStreet	ethereum
+12 May 2021. Archived from the original on 2 June 2021 	
+Retrieved 29 May 2021 . ^ Vigna, Caitlin Ostroff and Paul (13 May 2021)	
+"Ethereum Luminary Makes $1 Billion Covid-19 Gift—in Shiba Inu Coin" . Wall Street Journal 	ethereum
+ISSN 0099-9660 . Archived from the original on 13 May 2021 	
+Retrieved 13 May 2021 . ^ Schleifer, Theodore (12 May 2021)	
+"The world of crypto philanthropy is about to get weird" . Vox 	crypto
+Archived from the original on 12 May 2021 . Retrieved 13 May 2021 	
+^ Mazumdar, Ronojoy; Ghosh, Suvashree (27 July 2021). "Here's What's Become of the $1 Billion India Covid Aid Crypto Donation" 	crypto
+Bloomberg. ^ "Ethereum creator donates $1 billion worth of meme coins to India" 	ethereum
+12 May 2021. Archived from the original on 14 May 2021 	
+Retrieved 14 May 2021 . ^ "Vitalik Buterin Donates More than $2 Million to the Methuselah Foundation" (Press release)	
+Fight Aging!. 17 May 2021	
+Archived from the original on 19 May 2021 . Retrieved 28 May 2021 	
+^ Buterin, Vitalik [@VitalikButerin] (24 February 2022). "Reminder: Ethereum is neutral, but I am not" ( Tweet ) – via Twitter 	ethereum
+^ Laurent, Lionel (3 March 2022). "When War Hits, Even Crypto Can't Stay Neutral" 	crypto
+Bloomberg. ^ Buterin, Vitalik [@VitalikButerin] (24 February 2022)	
+"Очень расстроен решением Путина отказаться от возможности мирного решения спора с Украиной и вместо этого начать войну. Это преступление против украинского и русского народа" [Very upset by Putin's decision to abandon the possibility of a peaceful resolution to the dispute with Ukraine and instead go to war	
+This is a crime against the Ukrainian and Russian people.] ( Tweet ) – via Twitter . ^ "Ukraine raises over $15 mn in crypto post Russian invasion" 	crypto
+Business Standard. 27 February 2022	
+^ Buterin, Vitalik [@VitalikButerin] (27 February 2022). "иди на хуй" ( Tweet ) – via Twitter 	
+^ Buterin, Vitalik [@VitalikButerin] (26 February 2022). "An opportunity to support Ukrainians here! Proceeds go to civilian efforts helping Ukrainians suffering from the war" ( Tweet ) – via Twitter 	
+^ Urian, B. (27 February 2022)	
+"Binance Announces $10 Million Donation to Ukraine: Ethereum Creator Vitalik Announces UkraineDAO" . Tech Times 	ethereum
+^ Locke, Taylor (31 March 2022). "Ethereum's Russian-born cofounder has been quietly supporting a DAO that raised $8 million in crypto for Ukraine	ethereum, crypto, dao
+His dad is even more involved" . Fortune 	
+Archived from the original on 28 November 2022 . Retrieved 28 November 2022 	
+Works cited [ edit ] Leising, Matthew (2020). Out of the Ether: the amazing story of Ethereum and the $55 million heist that almost destroyed it all 	ethereum
+Wiley . ISBN 978-1-119-60293-4 	
+Russo, Camila (14 July 2020). The infinite machine: how an army of crypto-hackers is building the next internet with Ethereum (First ed.)	ethereum, crypto
+New York, NY. ISBN 978-0-06-288614-9 	
+{{ cite book }} :  CS1 maint: location missing publisher ( link ) External links [ edit ] Official website Portals : Russia United States Internet Business Authority control databases International ISNI VIAF National Norway France BnF data Germany Israel United States Latvia Poland Academics Association for Computing Machinery DBLP Other IdRef Retrieved from " https://en.wikipedia.org/w/index.php?title=Vitalik_Buterin&oldid=1242709591 " Categories : 1994 births Canadian computer programmers Canadian magazine writers Canadian transhumanists Life extensionists Living people People associated with cryptocurrency People associated with Ethereum People from Kolomna Russian emigrants to Canada Thiel fellows University of Waterloo alumni Naturalized citizens of Montenegro Naturalized citizens of Canada Russian businesspeople in Canada Hidden categories: Webarchive template wayback links CS1 Russian-language sources (ru) Articles with short description Short description is different from Wikidata Use dmy dates from August 2022 Use Canadian English from July 2022 All Wikipedia articles written in Canadian English Articles with hCards Articles containing Russian-language text Wikipedia articles in need of updating from August 2021 All Wikipedia articles in need of updating CS1 maint: location missing publisher This page was last edited on 28 August 2024, at 09:00 (UTC) . Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ;
+additional terms may apply	ethereum, cryptocurrency
+By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc	
+, a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view	
