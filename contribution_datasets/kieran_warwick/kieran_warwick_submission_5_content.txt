@@ -1,0 +1,164 @@
+1. Hey guys, this is Sasha introducing Arca's NFT Creator Series
+2. Today we have Kiran from Alluvium joining us for the first episode
+3. Really excited to have Kiran on
+4. He's been a friend of mine for, we'll call it a year now
+5. So how are you doing today, first of all
+6. Doing really well
+7. I'm super excited to be the first guest on your show
+8. And yeah, it's a nice sunny day in Sydney today, so super happy
+9. There you go
+10. So real quick, I just wanted to ask, you know, people know you obviously as the co-founder of Alluvium, but how did you actually get started in NFTs
+11. What brought you to the space and what kept you here
+12. So I started trading crypto back
+13. in 2015 when a lot of people started putting their eye on the space
+14. And it didn't go so well for me in the early stages
+15. I ended up losing a little bit of money
+16. And so I ended up segwaying away for a few years and it wasn't until Kane, my brother and founder of Synthetix, his protocol started taking off and
+17. He really implored me to start investing in the space again and just familiarizing myself with the different protocols, mainly around DeFi
+18. And I did that for probably six months, went right down the rabbit hole, you know
+19. the whole no sleep and just 24-7 market analysis
+20. And I came across Axie Infinity, which was a huge game that had started a couple of years back, but it just started getting traction
+21. And that's when I really got interested in NFTs
+22. and their use cases
+23. And I started delving into it a little bit further and I started seeing, you know, the different collections and stuff out there
+24. And so, yeah
+25. so I guess midway through 2019 is when I started getting really interested in the space and NFTs in particular
+26. And outside of gaming, what would you say is the most personally intriguing on your side
+27. So finance, startups, I'm obsessed with, I love giving someone the opportunity to start something from nothing
+28. And my ideal is in 15, 20 years when I'm officially retired, I will be a VC on the side
+29. I personally love seeing entrepreneurs out there
+30. with an idea and watching it come to fruition, there's nothing that excites me more than that
+31. So I guess that's mainly what I'm interested in
+32. And that's a pretty good dovetail
+33. How do you think that NFTs have changed the
+34. the landscape for not only creators, but also, you know, in your case gamers, but we can call them collectors or users
+35. How do you think that the ownership of these assets has changed with the onset of non-fungible tokens being used as a wrapper
+36. Yeah, so I guess the creator economy was enhanced massively by Web2, right
+37. when the internet started expanding and people were able to expose whether it be artwork, games, collections, anything that you can think of that people might wanna digitally collect, there was this, all of a sudden this huge platform and then you started seeing different social media websites open up and people like showing off
+38. what they've collected, what they're invested in, what they're interested in
+39. And we've seen that with CryptoPunks and stuff like that, but actually allowing verifiable
+40. digital ownership on the blockchain that you know is yours and can be secured, it completely changes the game
+41. For things like plagiarism and stuff like that, all of a sudden creators can make an artwork and create, let's call it 10 copies or 100 copies or, you know, in some cases, one of ones
+42. And the person who is
+43. purchasing this knows it's verifiable, it's 100% on chain, and you know that you are actually getting the official artwork that that person has created
+44. How that can get even more advantageous
+45. using NFTs for the actual creator is you can have things like an ongoing revenue stream where you put an affiliate fee that sits inside the actual NFT and any time that it's sold on the open market, a referral fee goes back to that creator and so you're not necessarily getting the
+46. the upside of the sale every single time, but you're getting a small fraction that comes back to you
+47. And I think that's a really cool way to, to again, empower the creator, which is something that we should be trying to do across the board, right
+48. Like if, if we're
+49. subduing these people and we're making it very hard for them to make a living out of it, then they're probably going to choose a different avenue to go about, you know, making money in their life, which I think is, you know, that's not advantageous for anyone
+50. We need these creators out there building the things that are fun and things that we like to show off
+51. And, you know, in that respect, there has been, you know, a lot of pushback
+52. outside of our community, you know, skepticism around this just being a fad or, you know, the right-click save, or, you know, even going down the line of what, you know, what's the point of owning a picture I can just go see, or what's the point of this, or it's pricing me out, this, this, and that
+53. What would you say to those skeptics across the board
+54. I mean, if you look at the art industry, when you get up to the level of art collectors that have hundreds of millions of dollars of art in their collection
+55. There's something to be said about knowing that it's 100% verified from that artist, right
+56. Like if you have a Picasso and it's verified and you know that
+57. and it's from the signature or any of the different grading procedures that they use to actually confirm that an artwork is real compared to a print that you've just put up in your house
+58. It's twofold, right
+59. The first, I guess, advantage that you have is that you can actually verify and say that I did spend that $10 million, which meant a lot to you
+60. But also you have the bragging rights to say, yeah
+61. I actually do own a Picasso or whatever it is, in our case, a CryptoPunk
+62. there's only a finite amount of those in existence, right
+63. And so that's why you see the pricing of a CryptoPunk or a CryptoKitty or any of these OG collections that have appeared keep on going up and up and up because as more people enter the ecosystem of actually wanting whatever it is that they're after in these collections
+64. there is only a certain amount
+65. And so the same thing would be said about these, is it a fad
+66. It's only a fad while there isn't the demand there
+67. And as we're seeing the demand go up and up and up of people who say
+68. I do want verifiable ownership through the use of NFTs, as that demand grows, we're going to
+69. see that, you know, over time, the whole right click, save, I can just get the same CryptoPunk as you
+70. It's that that argument just won't hold up
+71. I don't think
+72. And I think that, you know, it's pretty rudimentary now, but as as this bottom up IP starts to build out, the financial benefits of owning the actual asset will start, you know, it'll become much more clear along the lines, you know, if Bordet Biat Club has a
+73. you know, an associated like TV series or has, you know, partnership products, these products are not going to go to the copy paste, you know, pictures are going to go directly to the owner of the actual asset
+74. And that's going to be a revenue stream, or there's gonna be an agreement
+75. And absolutely, I'll start to further solidify the value of owning the actual because, because right now, you know, owning
+76. For me, owning the Mona Lisa or owning a copy of the Mona Lisa, the level of difference in that is not equal to the value difference of the print versus the actual
+77. But in this case, you'll start to see a much more clarified value differential between owning the print versus owning the actual asset
+78. I mean, they proved that by bringing out the mutant ape collection, where if you owned one of the OG apes, then that would airdrop you a mutant ape
+79. And I think now those mutant apes are going for a ridiculous sum of money as well
+80. And so then all of a sudden
+81. you bring in utility of these NFTs
+82. It's like, if I own this, then I'm going to get potentially another NFT or a fraction of another NFT that is, you know, anything is possible when you can go back and verify that that person actually has ownership over that digital asset
+83. And with NFT NYC, we kind of saw that a lot of these NFTs were being used as like a VIP passes, right
+84. You couldn't get into the party without the access to the NFT or you
+85. you know, you couldn't go to the meet and greet
+86. You know, like there was like secluded events that were piled into these, what I would call, you know, VIP passes
+87. You know, you get an entrance into this private club
+88. You know, there's been private clubs and societies for forever
+89. For years, yeah
+90. Signifying that you are a part of that club
+91. So I think it's very interesting
+92. And all of it, you know, is kind of in incubation right now
+93. But where do you see this going in the next five to 10 years
+94. I see it exploding in growth, like very, very similar to what DeFi did
+95. And I think, you know, similarly DeFi is in its infancy as well, but potentially even more so NFTs are in that there are so many different use cases that the industry hasn't even touched yet
+96. It's also just really, really easy to understand
+97. Whereas crypto typically is super complex
+98. A lot of people find
+99. looking into, you know, derivatives protocols and AMMs and even, you know, centralized exchanges and all these different financial instruments
+100. And they think this is just too opaque
+101. It's too complex
+102. I don't get it
+103. And so I think the adoption of crypto is going to be a constant battle, you know, an uphill battle
+104. One that I think will reach mainstream adoption, probably not in the next five to 10 years, where I think NFTs have the advantage is particularly in gaming
+105. there's 3 billion gamers that are out there
+106. And what we're starting to see with play to earn is that 3 billion mark is going up rapidly because we're seeing normal day-to-day people start playing these new style of games because they're earning more in gaming than their regular day-to-day nine to five jobs
+107. And so in five to 10 years, I expect
+108. somewhere around 100 million people to enter the crypto space purely from NFTs and what they do, and particularly around gaming
+109. You know, there's
+110. There's so much opportunity
+111. There's been for so long now, literally decades, there have been games out there where the players have been demanding ownership, real world ownership of their assets
+112. And I talk about like World of Warcraft and their economy and their gold system where people are like meeting up on the street and, you know, giving out bundles of cash for this digital currency
+113. you know, when there's a very high chance of you being scammed, of you being shot or killed, because it's real, real world money to these people
+114. But there just never was a platform
+115. I think with us creating this metaverse, which allows the onboarding of non crypto native people, and it to be so easy, I think it's pretty
+116. It's inevitable that in the next five to 10 years, we're going to see some serious amounts of adoption coming from NFTs and gaming
+117. Yeah, I think the closest interaction you could probably get in the gaming sector was probably Steam Marketplace with like CSGO and where you can see it's directly for PayPal cash, but there's an upper limit of, I think it was like 50 bucks
+118. But yeah, definitely remember doing some like runescape drops for PayPal and or like I was on blizzards like forum
+119. I think it was
+120. for Diablo 2, I was on Blizzard's forum post
+121. Most of us remember how painful it used to be
+122. I think everyone's right now looking at the asset creation standpoint where I'd say 90% plus of what's in this space right now are new assets that didn't exist before the NFTs enabled them to exist
+123. My big plan the next five to 10 years would be something, you know, more of a migration pattern of traditional assets that are non fungible coming over into the space and that severely
+124. changes the the opportunity spectrum in this space where you know more people get comfortable with the with the NFT structure in of itself and and that kind of the net benefit for anything that's built under that structure
+125. So in that sense you know obviously we're all very excited for for what's to come
+126. Where like where can people find out more about you and and Alluvium
+127. So your best place to start is in the Alluvium Discord
+128. I know you frequent in there pretty often, but
+129. that's where our information hub is
+130. If you want to follow me, I'm a little bit crazy, but you can follow me on Twitter
+131. I usually have some
+132. pretty fun stuff to say about the sector and the competition and all that kind of stuff
+133. But yeah, I think for alluvium purposes, definitely get added into the Discord
+134. It's a really good place to start
+135. And we have some super fun stuff coming out in the next couple of months in our land sale and then our avatar sale, which is called Alluvatars
+136. So all of that information you can find in our Discord
+137. And one last question because everybody has to know
+138. What's the meaning of the hat
+139. What's the symbol on the hat
+140. What does it mean
+141. That's a good point
+142. I don't actually know
+143. I just saw it in a shop and I'm not very
+144. I'm not very big on, I guess, brands and stuff like that
+145. My favorite shirt is this, like, hand-painted Pokemon shirt
+146. So, yeah, if I see something I like, I buy it
+147. I'll try and work out the brand
+148. What do we got here
+149. We'll call it the Circle of Warwick
+150. It's called Well Done
+151. It doesn't actually represent Warwick, but yeah
+152. Well Done is the brand
+153. I'm rocking a little anti-anti-anti-club gun
+154. I saw that
+155. I was like, damn it, where'd you buy that
+156. I want to buy that shirt
+157. It's on Looks Rare
+158. So shout out to Looks Rare, wherever they are
+159. Get the clothing
+160. I'm checking it out now
+161. That I paid for 100%
+162. Thank you so much, Kieran
+163. I appreciate the time
+164. Thanks for having me
