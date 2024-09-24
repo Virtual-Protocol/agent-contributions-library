@@ -1,0 +1,64 @@
+Content	Keywords
+CL207 uses VQ for his virtual cat appearnce. It's just a normal camera, but you install this app.	CL207
+It's just like, observe your face muscles and stuff, and just telegraph that onto whatever model you have. Like, they have to input, like, okay, what part of this face is, like, this cat's muscle is going to move if the human starts moving, or stuff like that.	CL207
+So the question was basically, if I remember correctly, was something akin to one guy buys like $50 worth of Bitcoin and the other one buys like $100 worth of Bitcoin.	Crypto
+And it was just basically using the leverage as in like the one guy that bought 100 did it without leverage and the one that bought like 50 did it with like 2x leverage.	Crypto
+They were like, okay, well like 4x leverage, the second guy.	Crypto
+They weren't really understanding how leverage works, which is like, you don't necessarily like when you're saying like, I bought this with 4X leverage, that doesn't have to mean that you just bought your entire balance and then 4X it whatever.	Crypto
+Most people just don't read this stuff, like the documentation on the exchanges.	CL207
+You actually do go to that exchange, check out the trading history.	General
+like basically find out like what caused it because like like just general understanding of what's happening is pretty important I think if you're only trading right like because like then you know.	General
+Good thing I did early on was like every any time I saw like something some sort of like data happened, which I was not sure like why was happening.	Crypto
+And yeah, like I was checking the open interest there and it was just like 50, 60 or like 70 mill worth of shorts, like just pushing the market down.	General
+And yeah, actually later on, I think that short got liquidated on the way up at 8,600 and that pushed like.	General
+So you could have bought into his shorts and sold it back to him, basically opposite end of the premiums.	Crypto
+Say right now, I market long a Bitcoin, and then I'm buying it from probably the market maker, right.	Crypto, General
+So the market maker is now short a Bitcoin, because he just allowed me to buy the other side of the contract.	Crypto, General
+The market maker now, he's short one Bitcoin.	Crypto, General
+some sort of trading desk and be like, yo, can we have like one Bitcoin to borrow.	Crypto, General
+And for like, say, very low APR, probably like 1% or something pretty low, right.	Crypto
+Because like, yeah, like Bitcoin doesn't get much yield because the short demand is not like, extreme, right.	Crypto, DeFi
+Like, so they borrow a Bitcoin, they sell it on spot, their position is like totally dealt in neutral, they're chilling, they have a ton of collateral, the market maker is happy.	Crypto, DeFi, General
+And you're on leverage.	Crypto
+And you have a liquidation price.	General
+It's not the market maker.	General
+So like, yeah, if price start moving down, I'll be the one selling and because I don't want to be liquidated, right.	General
+So then I would sell my Bitcoin and that causes the price to drop more.	Crypto
+So essentially like, yeah, technically it's one to one, but the amount of risk these participants are taking are definitely not one to one.	DeFi
+You have to think which side of the market are the riskier bets being made, because usually it goes against them.	General
+a few of them are pressured to close.	CL207
+That just makes the price drop more, which causes the medium risk of people to close, which in turn then, say, causes the price to drop even more.	CL207
+And then I have people like CL and people like other people that look at the same data basically, and they keep spamming about it.	CL207
+No, but like it doesn't affect like funding affects my trading.	General
+And then I go to my trusty friends that know more about the leverage aspect of it and who's short and who's long and how the market's looking and ask them.	Crypto, General
+you have you've had like three four months of just like all these lungs trying to buy more and they and I like I knew was unhealthy but like it was hard to tell when it will fully get white right because they it's.	Health
+And you're like, okay, so the average lending rate is still positive 20% for the next few months.	DeFi
+So why should you assume the market has no loans left.	DeFi, General
+The PIRP can get into negative funding just based on lack of liquidity for a lot of loans to exit in a short period.	DeFi
+especially the ones on like FTX, Huobi and like I think Binance is also getting more liquid.	Crypto
+but yeah these are like the most liquid interest rate markets in crypto and like and that's like way more determinative of like the sentiment, at least I think so.	General
+and you're just waiting for something and you get negative funding for a day or two then you're probably gonna or like even you've had negative funding for the down move i mean it just makes sense to bounce in my in my eyes it's less sophisticated.	Crypto
+So it's like, yeah, that just means the market is not bullish at all.	General
+So there is net, no leverage, which is why the interest rate stays at zero.	Crypto
+So usually, that's been, or at least in 2018, when the futures started getting more popular on BitMEX, it was still, I don't know if every backwardation market, a local bottom at least.	General
+Yeah, so backwardation is just the future.	General
+data contracts for Bitcoin is trading below the current spot price.	Crypto, General
+Essentially, that's a contract where you can buy on leverage.	Crypto
+Content goes the opposite, where people are paying an interest to use leverage, which is how it should be.	Crypto
+But yeah, I do remember clearly, just on the May 19 drop recently, at first, Ether went to 2,300, 2,400, and that already pushed June futures to negative.	Crypto, CL207
+And I was like, holy shit, people are really getting absolutely destroyed.	Crypto
+I guess it's hard to pinpoint, OK, this is where the liquidation cascade stops.	General
+So if the market has been long, net long, for a long period of time.	General
+you can expect a while for all these long contracts to capitulate out of the market.	General
+So yeah, usually the longer it stays leveraged for, the more severe that kind of drop happens.	Crypto
+that last for like a couple minutes or something, so.	Crypto
+It's pretty hard sometimes in the futures markets, right.	General
+Liquidity wise, because I mean, I remember, it's gotten better, but I remember back in the day, I don't even know on which kind of like move it was, but I was trading on the futures and then I was trying to exit my position and I just couldn't.	General
+It just closes and it goes quickly below and then other people that are.	CL207
+With these kind of sharp moves, like the small ones, can often be just one person or a couple people not having enough liquidity, basically.	DeFi
+And then the bigger ones are just really good buy opportunities because it's going to go to.	DeFi, General
+market price eventually, right.	General
+So you're just getting paid to buy something, which we're all bullish on anyway.	Crypto
+Usually historically at least like 20% been pretty good easy sells but like that was in the fair market like like okay.	General
+and then it pumps 20% and then like you see futures like 25% and that's like like annualized that's like okay people just start selling but this bull run has like slightly exceeded some of my expectations I think like we were at like 50% plus and like that's very like and these are like multi-months like very liquid interest rate markets so it's like.	General
+Yeah, that's like billions of dollars on futures making locked in yields of like 50% annualized or more.	DeFi
