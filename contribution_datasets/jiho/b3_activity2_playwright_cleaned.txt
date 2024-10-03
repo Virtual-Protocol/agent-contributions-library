@@ -1,0 +1,247 @@
+The Lunacian
+Subscribe
+Sign in
+Discover more from The Lunacian
+Axie Infinity news + announcements
+Over 354,000 subscribers
+Subscribe
+Continue reading
+Sign in
+COMMUNITY
+Axie Infinity September Town Hall Recap
+Updates, leeks, and more ⚔️
+SEP 20, 2024
+2
+
+Key Points:
+
+Earlier this month, we gathered in our Discord for our September Town Hall where Axie co-founders Jihoz and Trung shared some exciting updates and leeks! Thank you to Ryan for hosting this event. This article summarizes the highlights of that Town Hall.
+
+Building Approach: We discussed our return to our roots of public, iterative building, and community involvement in the dev process.
+
+Classic: We've entered the 5th Competitive Season since the Classic comeback. We reviewed new features such as the Mini Tournaments and Artifacts.
+
+Homeland: We talked about the recent improvements in Homeland including Avatar Mode, AXP integration, and the minting of Luna's Landing plots.
+
+Origins: We reviewed Roguelike mode and the Meta Morph feature. We also shared insights behind their development.
+
+Axie Core and Community: We talked about the Bounty Board reaching over 100,000 weekly participants. We also shared plans for Discord improvements and rewards.
+
+Future Plans: We leaked info about Axie Delegation, an improved Fortune Slip system, a Fall event, a new MMORPG-style Axie game in early development, and a casual, Tamagotchi-like Axie experience.
+
+Earlier this month, Lunacians gathered for our September Town Hall in the Axie Discord — hosted by Ryan. Our co-founders Jihoz and Trung shared updates on recent victories and future plans for the Axie ecosystem. Let's dive into the details!
+
+Building and Delivery Approach
+
+Big Idea: We've returned to our roots in how we build, deliver, and ship products.
+
+Our Insights:
+
+We now leak features before release to get feedback from our community. This keeps us in tune with our community, leads to better products, and results in smoother releases.
+
+We've successfully applied this method to multiple recent updates. Involving our community early in development creates experiences that resonate with the Axie player base.
+
+Axie Classic
+
+Big Idea: Classic has entered its 5th competitive season, and we’ve shipped a few new features that have been driving engagement.
+
+Our Insights:
+
+Daily tournaments enabled more flexible options for players with different schedules.
+
+Artifacts provided a new strategic element to Classic. It deepens the tactical choices available in the game.
+
+Classic remains an iconic blockchain game, especially in the Philippines. We're committed to its continued growth.
+
+Homeland
+
+Big Idea: Homeland has come a long way this year.
+
+Our Insights:
+
+We've added Avatar Mode to enhance social features and player interactions within Homeland. We've also revamped the Moonfall system to improve gameplay dynamics, and the AXP + NFT Axies integrations were successful.
+
+Homeland is now part of the Premier Bounty Board. It offers more rewards and engagement opportunities.
+
+We've fulfilled our long-standing promise by minting Luna's Landing plots. This demonstrates our commitment to our roadmap.
+
+Origins
+Roguelike Mode
+
+Big Idea: We introduced a new PvE Roguelike game mode to Origins.
+
+Our Insights:
+
+Roguelike mode is a PvE experience inspired by Slay the Spire. Over 30,000 players tried it and gave positive feedback so far! This new PVE mode is a different challenge. Only 215 players beat all three levels in the initial run.
+
+We implemented this mode without tokenized rewards. The purpose was to gauge genuine player interest and enjoyment of the game.
+
+We will distribute rewards for the Roguelike event and race winners this week.
+
+We're still processing feedback from the community to refine and improve the mode.
+
+Meta Morph
+
+Big Idea: We introduced Meta Morph to Origins. This features allows collectible axies to change parts, which also changes their cards in the arena.
+
+Meta Morph aimed to make collectible axies — especially Mystics — more useful and flexible. The feature allows players to morph collectible axie parts. The number of parts that can be morphed depend on the axie's tier. This account-bound feature is exclusive to Origins and resets if the axie is transferred.
+
+Upcoming Class Morph features aims to make Mystic and Agamogenesis axies the most versatile axie in Origins by giving them ability to change their class.
+
+Demand for Mystic axies has been rising consistently since the introduction of Meta Morph.
+
+Meta Morph improves gameplay and boosts players' bonds with their Axies.
+
+Trung also shared insights on the origins of Meta Morph:
+
+The idea dates back to the original Axie vision, which promised high-tier utility for Mystic Axies across experiences.
+
+Two approaches were considered: increasing power (more suitable for PvE) and increasing flexibility (works well in both PvE and PvP).
+
+The team focused on flexibility. This would make Meta Morph future-proof and suitable for different game modes.
+
+The feature was first implemented in Origins due to its complex Axie part composition. There is a potential for future integration in other Axie games.
+
+Axie Bounty Board
+
+Big Idea: Our Bounty Board has seen significant growth and engagement across the Axie ecosystem.
+
+Our Insights:
+
+We've reached over 100,000 weekly participants, a major milestone for community engagement.
+
+The Bounty Board has increased Axie Infinity-related transactions and daily active addresses.
+
+The feature serves as a unifying feature across different Axie experiences. It encourages players to explore various aspects of the ecosystem.
+
+Upcoming Features and Leaks
+Axie Delegation
+
+Big Idea: We will launch the Axie Delegation system in two phases. This feature aims to improve axie utility and enhance player choices.
+
+Our Insights:
+
+Phase 1 (ETA: October) will introduce the Delegation Center for managing delegated Axies. Players will be able to delegate multiple axies to one address in a streamlined process. This will launch with Homeland's Passive Adventure feature for NFT Axies and will create synergy between the two systems.
+
+Phase 2 (ETA: end of the year) will bring a rental marketplace and offers system.
+
+There will be multiple delegation models. They will include reward sharing and AXP farming, catering to different player preferences.
+
+Note: During the Town Hall, we talked about launching delegation in September. However, we’ve now updated that launch timeline to October.
+
+Fortune Slip Improvements
+
+Big Idea: We're enhancing the fortune slip system to provide more benefits for collectible axie owners.
+
+Our Insights:
+
+Axies with multiple collectible parts will receive more fortune slips, rewarding rarer Axies.
+
+We're adding a bonus slip multiplier for each evolved collectible part to encourage Axie evolution. The update aims to increase demand for Radiant Shells and improve the economics of the Garuda shop.
+
+We expect to roll out these changes within two weeks!
+
+Fall Event
+
+Big Idea: We're planning a new type of Axie event for the Fall of 2024!
+
+Our Insights:
+
+Unlike past events, this one won't involve breeding. We're going to experiment on dynamic NFTs.
+
+We will keep the RNG element that made breeding events exciting.
+
+The event will feature unique aesthetics and new collectible axie collection!
+
+This event marks a new direction in how we approach seasonal Axie activities and rewards.
+
+Discord Improvements
+
+Big Idea: We're revamping the Axie Discord to improve community engagement and communication.
+
+Our Insights:
+
+We're implementing community suggestions to streamline and simplify the Discord structure.
+
+We will launch a new reward system for the top 100 members based on engagement. Rewards will be distributed in AXS to align community participation with ecosystem benefits.
+
+These changes aim to make the Discord more accessible and rewarding for active community members.
+
+New MMORPG-style Axie Game
+
+Big Idea: We've begun development on a new Axie game with MMORPG elements to expand our game offerings.
+
+Our Insights:
+
+The game is still in early stages, with about a month of development so far.
+
+We aim to incorporate learnings from Homeland and other Axie games to create a robust experience.
+
+The team plans to build more publicly. We will engage with the community for feedback throughout development.
+
+This new game shows our commitment to diverse gameplay in the Axie universe.
+
+Casual Axie Experience
+
+Big Idea: We're developing a new, casual Axie experience inspired by Tamagotchi.
+
+Our Insights:
+
+We expect to make an announcement and share a playable prototype next week in Singapore.
+
+This experience is a very casual game and will attract new players. It shows our effort to diversify Axie. We want to cater to different player preferences and playstyles.
+
+The prototype will help us gauge interest in more casual, pet-care style gameplay within the Axie ecosystem.
+
+Final Thoughts
+
+This Town Hall showcased the exciting future ahead for Lunacia. Our community’s passion, feedback, and unwavering support are the fuel propelling Axie Infinity to new heights. Want to hear more from our in-depth discussion and Q&A? Check out the full Town Hall video on YouTube. See you at the next one!
+
+🌟 Join Axie Discord
+
+🐦 Follow Axie on Twitter
+
+🌊 Support
+
+🗞️ Axie Media Kit
+
+Subscribe to The Lunacian
+
+Launched 6 years ago
+
+Axie Infinity news + announcements
+
+Subscribe
+2 Likes
+2
+Share
+Discussion about this post
+Comments
+Restacks
+Top
+Latest
+Discussions
+⚔️ Axie Arena Season 19!
+Key Points
+NOV 10, 2021 • AXIE INFINITY
+17
+3
+⚔️ Axie Arena Season 18!
+AXS Rewards + Economic Adjustments
+AUG 9, 2021 • AXIE INFINITY
+268
+2,975
+[Axie] Season 21 Is Live!
+Season 21, the final season for Axie Infinity: Classic, is here!
+APR 25, 2022 • AXIE INFINITY
+17
+See all
+
+Ready for more?
+
+Subscribe
+© 2024 Substack Inc
+Privacy ∙ Terms ∙ Collection notice
+Start Writing
+Get the app
+Substack is the home for great culture
