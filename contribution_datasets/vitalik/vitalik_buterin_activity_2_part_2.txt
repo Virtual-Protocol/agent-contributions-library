@@ -1,0 +1,46 @@
+content	keywords
+"There is a diverse group of researchers and developers who are “all building toward their own visions of what Ethereum can be,” Buterin wrote in his blog on Saturday. He noted:
+
+“The primary challenge is making sure that all these projects are, collectively, building something that feels like one Ethereum ecosystem, and not 138 incompatible fiefdoms.”
+
+The concept of “Ethereum Alignment” has been proposed as a solution"	Ethereum
+"However, the concept has been “poorly defined” so far. To solve the issue, Buterin proposes that “the concept of alignment should be made more legible, decomposed into specific properties, which can be represented by specific metrics.”
+
+Metrics of Ethereum Alignment
+
+Buterin believes every project will have its own list of properties and metrics that will “inevitably change over time.” However, he laid down some basic criteria to track whether applications are aligned with Ethereum’s long-term vision and goals.
+
+1"	Ethereum, Crypto
+"Open source:
+
+Buterin says that using open-source software for Ethereum applications has two primary benefits. First, keeping codes open and inspectable ensures safety"	Ethereum
+"Second, it reduces the risk of proprietary lock-in and enables permissionless third-party improvements.
+
+Buterin is practical and understands that the entire application does not need to be open source. However, he believes “core infrastructure components that the ecosystem depends on absolutely should be.” He called the definitions of FSF-free software and OSI open source the “gold standard.”
+
+2"	Ethereum, Crypto
+"Open standards: 
+
+According to Buterin, applications must strive for interoperability with the Ethereum ecosystem and build on open standards, both those that exist and those that are yet to be implemented. Common Ethereum standards include ERC-20 and ERC-1271"	Ethereum
+"Buterin suggests writing a new ERC when introducing a feature that existing standards cannot handle.
+
+3. Decentralization and security:
+
+The goal is to avoid points of trust and minimize censorship loopholes and dependence on centralized infrastructure"	General
+"Buterin suggests the metrics of the walkaway test and the insider attack test.
+
+In the walkaway test, applications must determine whether they will be able to keep functioning if the team and servers disappear tomorrow. In the insider attack test, the project needs to assess the damage that could be caused if the team itself attacks the system.
+
+4"	Ethereum
+"Positive-sum
+
+According to Buterin, projects need to positively contribute to and benefit the entire Ethereum community, including ETH holders and users, as well as the broader world. For the first part, projects can use ETH as the token and contribute to its network effect, open source technology or donate a percentage of their tokens or revenue to public goods in the Ethereum ecosystem.
+
+Buterin advises projects to ask themselves the following:
+
+“Ethereum is here to make the world a more free and open place, enable new forms of ownership and collaboration, and contribute positively to important challenges facing humanity"	Ethereum, Crypto, General
+"Does your project do this?”
+
+Buterin says his “ideal goal” is to see more entities like L2beat, a layer2 analytics platform, emerge to track how closely Ethereum projects are following the criteria of Ethereum Alignment. He warns, however, that the Ethereum Foundation (EF) needs to distance itself from the process to maintain decentralization.
+
+According to Buterin, having specific criteria can help the EF and others understand which projects they want to support and use"	Ethereum, General

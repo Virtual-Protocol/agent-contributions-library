@@ -1,0 +1,131 @@
+content	keywords
+"This would reduce the maximum block size from 2.7 megabytes to approximately 1MB and make room for potentially increasing the block gas limit or the number of blobs. 
+
+Buterin expressed concern that some L2s are hesitant to move to blobs due to potential market congestion. He warned, “We cannot afford to let momentum slip on moving more layer 2s over to using blobs,” adding:
+
+“EIP-7623 is crucial for this because it ensures that the worst-case size of a block massively decreases.” 
+
+Buterin views layer-2 networks as essential components for Ethereum scaling but he also emphasized that they must be decentralized"	Ethereum, Crypto, General
+"Recently he stated that he only plans to acknowledge scaling solutions at “stage 1” of his decentralization scale.
+
+Related: Ethereum developers consider splitting Pectra upgrade, eye February target 
+
+In a Sept. 26 X post, Coinbase L2 Base creator Jesse Pollak said he strongly supports Buterin’s proposal to increase blob count"	Ethereum, General
+"Pollak said it “reduces worst-case block size and adds needed capacity for fast-growing L2s,” and “the growth is exponential.” 
+
+The highly anticipated Prague upgrade will focus on changes to the network’s execution layer, with the Electra upgrade impacting the consensus layer, hence the name Pectra (Prague Electra). It includes a number of EIPs that will improve scalability, introduce account abstraction and increase validator staking limits. 
+
+Ethereum developers proposed splitting the Pectra upgrade into two segments, PectraA and PectraB, to accelerate its deployment. 
+
+Magazine: Proposed change could save Ethereum from L2 ‘roadmap to hell’
+
+Explore more articles like this
+Subscribe to the Finance Redefined newsletter
+A weekly toolkit that breaks down the latest DeFi developments, offers sharp analysis, and uncovers new financial opportunities to help you make smart decisions with confidence"	Ethereum, Crypto, General
+"Delivered every Friday
+Subscribe
+By subscribing, you agree to our Terms of Services and Privacy Policy
+#Ethereum
+#Vitalik Buterin
+#Scalability
+#Layer2
+4
+4
+3
+2
+2
+2
+2
+2
+2
+READ MORE
+Emerging trend could see Solana ‘seriously challenge’ Ethereum: Sygnum
+Ad
+DePIN is the new ‘obsession’ in the investment market — Here’s why
+Grayscale launches Aave investment fund
+Ad
+EDITOR’S CHOICE
+‘Uptober’ mentions on social media plummet amid crypto rout
+Bitcoin price dip below $60K sparks most exchange buying since 2022
+Anti-aging tycoon Bryan Johnson almost devoted his life to crypto
+Hackers have started using AI to churn out malware
+Emerging trend could see Solana ‘seriously challenge’ Ethereum: Sygnum
+COINTELEGRAPH YOUTUBE
+Subscribe
+Ad
+Ad
+Ad
+Advertise with us
+Ad
+TAKE BACK YOUR SAFETY IN WEB3
+NEWS
+Bitcoin
+Blockchain
+Ethereum
+Altcoins
+Business
+Policy & Regulations
+AI
+NFTs
+DeFi
+Adoption
+FEATURES
+Top 100 2023
+Top 100 2022
+Top 100 2021
+Top 100 2020
+Magazine
+Analysis
+Opinion
+Hodler’s Digest
+Expert Take
+Top 10 Cryptocurrencies
+Market Analysis
+Interview
+Historical
+MARKET TOOLS
+Market News
+Bitcoin Price Index
+Ethereum Price Index
+Bitcoin Cash Price Index
+Litecoin Price Index
+Ripple Price Index
+Monero Price Index
+Memecoins
+Heatmap
+PARTNER
+Calculator
+LEARN
+Learn
+History of Crypto
+INDUSTRY
+Research
+Podcasts
+Press Releases
+Events
+Cointelegraph Accelerator
+Changelly
+PARTNER
+Switchere
+PARTNER
+ABOUT US
+Franchise
+Advertise
+About
+Widgets
+Newsletters
+Contacts
+Are you a journalist or an editor?
+Join us
+MOBILE APPS
+COINTELEGRAPH NEWSLETTER
+Email Address
+Subscribe
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+FOLLOW US
+Terms of services and Privacy policy
+© Cointelegraph 2013 - 2024
+
+Cointelegraph.com uses Cookies to ensure the best experience for you.
+
+ACCEPT"	Ethereum, Crypto, General

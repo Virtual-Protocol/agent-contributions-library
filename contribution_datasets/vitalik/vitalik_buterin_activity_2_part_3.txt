@@ -1,0 +1,43 @@
+content	keywords
+"
+
+In his latest blog post on Sept.  28, Buterin said achieving “Ethereum alignment” is one of the most important social challenges in the Ethereum ecosystem"	Ethereum
+"
+
+Still, he acknowledged that it’s a tough task, given the vast array of client teams, application developers, researchers and local communities — each trying to contribute to Ethereum in a unique way. 
+
+“The primary challenge is making sure that all these projects are, collectively, building something that feels like one Ethereum ecosystem, and not 138 incompatible fiefdoms"	Ethereum
+"”
+
+Buterin said there are already several “starting points,” such as how open source a project is. 
+
+He said that while “open source” means code can be inspected for security purposes, it also reduces the risk of proprietary lock-in and allows third parties to make improvements"	General
+"
+
+There’s also how interoperable a project is, with Buterin suggesting that applications and wallets could be rated by which ERCs they are compatible with. 
+
+Meanwhile, decentralization and security could also be measured by the “walkaway” and “insider attack” tests"	Crypto, General
+" 
+
+“If your team and servers disappear tomorrow, will your application still be usable?” 
+
+“If your team itself tries to attack the system, how much will break, and how much harm could you do,” he said.  
+
+A project could also be judged on how positive it is for the Ethereum community or for humanity — for example, improving financial inclusion and enabling new public funding mechanisms, he said"	Ethereum
+"
+
+Source: Suhail Kakar
+
+Buterin stressed how important it is for Ethereum to remain credibly neutral. 
+
+“If alignment means having the right friends, then ‘alignment’ as a concept has failed"	Ethereum
+"”
+
+In July, Ethereum community member Ryan Berckmans stressed to Cointelegraph how important it is for Ethereum builders to limit marketing — as it could create an environment where winners and losers emerge. 
+
+“While it's literally good for growth, it ends up turning your chain and community into a politically charged partnership swamp, and that will prevent the serious growth down the line where corporations and governments start relying on onchain for very important and large activities"	Ethereum, General
+"”
+
+Related: Ethereum blob count is ‘uncomfortably close to a ceiling’ — Vitalik Buterin
+
+Buterin is a highly influential voice in the Ethereum ecosystem.  In a recent interview with Cointelegraph, Charles Hoskinson, founder of Cardano, said that Ethereum may be relying too heavily on Buterin for direction"	Ethereum
