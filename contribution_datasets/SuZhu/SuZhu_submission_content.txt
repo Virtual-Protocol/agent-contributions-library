@@ -1,0 +1,318 @@
+content	keywords
+"(The first of those companies, OPNX, shut down in early February; more on that later.) Instead of getting on a plane, Zhu was cuffed, charged with contempt of court, and marched next door to the local prison to serve a four-month sentence for failing to cooperate with the liquidators overseeing 3AC’s bankruptcy.
+
+“Su’s prison time certainly caught him by surprise — no one wants to go to jail,” Kyle Davies, Zhu’s business partner and co-founder at 3AC, told me. Davies was also sentenced to four months in prison on the same charges but has so far skirted prison time, largely by refusing to be found"	Su Zhu
+Teneo, the firm still attempting to liquidate 3AC’s remaining assets and pay back at least some of its debts, is still trying to locate Davies. (Unlike Zhu, Davies has not been seen in Singapore since 3AC blew up in June 2022.) In February, Davies told me he was in Portugal. In the year and a half prior, he had bounced around between Bali, Spain, and other parts of Europe	Su Zhu
+"But when I pressed him on specific regions — Lisbon? Surf villages? Wine country? — he declined to respond. The liquidators wrote in their most recent report to creditors that “whilst they have a good understanding of where he is currently located, it is noted that he has yet to provide meaningful cooperation.”
+
+For many crypto observers, prison seemed the inevitable destination for the duo behind Three Arrows Capital"	Crypto
+As I detailed in a 2022 cover story, they met at an elite Massachusetts prep school, both went to Columbia University and did a stint on Wall Street, and rose to global crypto rock-star status together before blowing up their fund and hiding out in Asia and the Middle East as creditors accused them of fraud and of misrepresenting their finances. At 3AC’s peak, the founders have said, the fund held between $5 billion and $10 billion in crypto assets	Ethereum, Crypto, General
+Zhu and Davies bought a superyacht and named it Much Wow (after the dogecoin meme) but disappeared before making the final payment. At one point, Teneo was forced to serve Zhu and Davies subpoenas via Twitter — unprecedented at the time — after exhausting all other avenues to reach them in the real world	Su Zhu
+"While Zhu was in prison, many of his fellow fallen crypto kingpins were meeting similar fates: Sam Bankman-Fried was convicted of fraud after his company FTX collapsed months after 3AC did; Do Kwon, the entrepreneur behind the cryptocurrency luna, whose failure contributed to the demise of 3AC and others, was ordered to be extradited to face charges in the U.S. and South Korea; and Changpeng Zhao, the former CEO of Binance, the world’s largest crypto exchange, pleaded guilty to anti-money-laundering violations in the U.S.
+
+But Zhu’s contempt-of-court conviction was extremely minor by comparison with what those others faced, and he did not remain behind bars for long"	Crypto
+In late November, after just two months of incarceration, he was allowed to serve the rest of his sentence under house arrest wearing an ankle bracelet. From the comfort of his own home, he picked up again as a crypto influencer, posting aphorisms, images of bulls (connoting his perennially bullish “supercycle” crypto thesis), and memes on his widely followed X account	Crypto
+"Just three weeks later, right before Christmas, Zhu was released early for good behavior.
+
+An aggressive prosecution of Zhu and Davies in the U.S. or elsewhere is still entirely possible"	Su Zhu
+"But the pair’s continued jet-setting, social-media influencing, and launching of questionable new crypto ventures have at least created the impression that they are the biggest players in the crypto collapse of 2022 — during which investors lost collectively hundreds of billions of dollars, often in legally suspect projects — to avoid major legal consequences. Far from expressing remorse, the two men seem to be embracing that status as the centerpiece of a new brand.
+
+Zhu emerged from his weeks in prison changed in a couple of important ways"	Crypto
+For one, many of his tweets and online appearances were suddenly in Chinese, though in the past he had generally used English. Among them was a poll asking his followers whether they believed he was already out of prison (nearly half of respondents said “no”)	Ethereum
+"“After I experienced liquidation, Chinese friends encouraged me to find ways to rise again, while westerners continued to criticize,” Zhu, who was born in Beijing and moved to the U.S. after kindergarten, said in a Mandarin ask-me-anything livestream on X early this year.
+
+Secondly, Zhu framed his incarceration as an almost Nelson Mandela–like experience of transformation and enlightenment, speaking of how it sharpened his senses and boosted his brainpower"	Su Zhu
+“I think that it’s actually a really enjoyable experience overall — like, I would say not to the point of, like, highly recommending it per se, but I would say that it’s something that if everyone got to experience once, I think it’s definitely good for you,” Zhu said of prison in his first English-language podcast since his release. “After, I felt like my mind was so clean	Ethereum, Crypto
+I got much better at basketball as well. Like, you just — the way you can see the ball	Su Zhu
+The way you, like, see things — completely different. Like, my eyesight got better as well	Su Zhu
+It’s honestly insane.” He said he read the Bible (both Testaments) and the Quran in Indonesian “front to back.” There were three meals a day plus “lots of fruits”; a freedom to “do all the push-ups you want”; a mat for sleeping on the floor, instead of a bed, which was “really good” for his back; and a 5:30 a.m. wake-up call	Su Zhu
+“Actually, like, I had the best sleep of my life in prison,” he said. “And it’s a really magical feeling	Su Zhu
+"Because you feel, like, a kinship with your ancestors.” Zhu and Davies said they were recording the new podcast on MLK Day — “No better way to remember the king,” Zhu posted — though they never released a full epsiode, just short clips.
+
+Denying all wrongdoing and acknowledging no fault, Zhu spins his time behind bars as less a punishment than a résumé credential. “I mean, that’s why, like, if you look at rap songs, so much of it is rapping about prison,” he said in one of the podcast clips"	Su Zhu
+"“It’s because they’re trying to prove their indifference between inside, outside. They’re trying to say, like, ‘I’m harder than you because I’m much more indifferent to it than you are,’ right? ‘Whereas you’re soft because you need the outside comfort.’”
+
+What Zhu did not seem eager to discuss was that, as he walked out of prison, he was served papers notifying him that the liquidators had filed a nearly $1.1 billion claim against him and Davies for trading after 3AC was insolvent"	Su Zhu
+A court had also ordered that all their assets, worldwide, be frozen along with those of Davies’s wife, Kelly Chen, in whose name he’d put much of his wealth. In early December, Zhu was called before a Singapore court to answer questions from Teneo, which had been unable to obtain the information it needed without his cooperation	Su Zhu
+"Zhu and Davies had already been effectively exiled from Dubai, where they’d spent some time following 3AC’s collapse, after the government there levied fines against them. Now, with Singapore appearing willing to enforce the liquidators’ claims against them, that country, too — where both Zhu and Davies are citizens — was looking a lot less hospitable.
+
+Among the most incriminating evidence brought forward against Zhu and Davies is a document they sent to at least one creditor as crypto markets were collapsing in May 2022, claiming 3AC had nearly $2.4 billion under management"	Crypto, General
+Both lenders and people close to the liquidators now believe this number was false, grossly overstating the fund’s assets. “We firmly believe they committed fraud	Su Zhu
+"There’s no other way to state it: That’s fraud — they lied,” Lane Kasselman, chief business officer of blockchain.com, told me after Three Arrows Capital filed for bankruptcy.
+
+Zhu and Davies have presented the lack of serious consequences for their actions as evidence that they did nothing wrong. “We never misrepresented, nor did we borrow from individuals past any point of insolvency"	Crypto
+If we did, there would be major repercussions by the way,” Davies said during a panel discussion on X in July when a questioner confronted him with receipts that 3AC was still trying to borrow bitcoin to trade up until the end. “There are not	Crypto, General
+"Why are there not? There are not for a reason: Because we did not.”
+
+Teneo has not ruled out the possibility of further charges, criminal or otherwise, as its investigation continues, though people close to the process note that it’s not the liquidators’ job to file the charges. Rather, that responsibility falls to regulators and prosecutors in the U.S"	Su Zhu
+"and other jurisdictions. Bloomberg reported in 2022 that the Securities and Exchange Commission and the Commodity Futures Trading Commission were probing possible rule violations by Three Arrows Capital.
+
+Zhu and Davies have both pushed that perception of vindication in interviews (including with the New York Times), tweets, and appearances on friendly podcasts"	Crypto
+In their telling, they were forced into liquidation against their wishes by a creditor (never mind that they filed for it themselves), and it was impossible to do anything but ghost their lenders, who were furiously recalling loans. “But for us, at that time — I don’t know, maybe I’m just too immature — I was not able to have those conversations,” Davies said during the X discussion	Su Zhu
+While Teneo has estimated that Zhu and Davies’s lack of cooperation has resulted in tens of millions of dollars in additional fees and legal expenses for the 3AC estate as it has tried to locate assets and investigate where the money went, Davies has insisted there was nothing more he could have done besides go “sit on a beach” in Bali while the professionals cleaned up the mess. “You are not in control	Su Zhu
+You can go on vacation if you want,” he said during the X conversation. “So if you ask me what I could have done in the following three, four months or whatever, there was nothing I could have done	Su Zhu
+Zero. Absolutely zero	Su Zhu
+"The only thing that I should have done is spend time with family, because ultimately that’s what actually matters.”
+
+Even when sympathetic interviewers have pushed them for signs of remorse, or a hint of how they felt after the damage they caused, Zhu and Davies have steadfastly resisted. “It was difficult"	Su Zhu
+First of all, we lost an enormous amount of our net worth. Vast majority,” Davies offered on the X panel	Su Zhu
+“And you’re sorry about it? I just want to make sure that I —” asked an unconvinced host of the Analyse Asia podcast when Davies appeared on it last year. “Yeah, I wish things could have happened in a different way,” Davies responded	Su Zhu
+"In the year after 3AC’s collapse, they’ve said they spent time surfing and taking psychedelics and, in Davies’s case, toying with opening a food cart.
+
+Meanwhile, the pair have otherwise mostly avoided answering questions from journalists, including me. When I had asked Zhu for a phone or video call, he said he was too busy, citing the upcoming Chinese New Year. After initially suggesting we just text, he then invited me to Hong Kong for an in-person interview"	Su Zhu
+When neither was feasible, he signaled he might be open to a video call — but not until several weeks after my deadline. Davies texted me several comments even after I told him I was only interested in a live interview, during which I could verify that he was really on the other end of the phone	Su Zhu
+He then sent me a Google Meet link and, when I joined the session, turned on his camera for exactly 15 seconds: “Hello, Jen! It’s Kyle Davies, formerly of Three Arrows Capital. I’m here to verify myself, um, but I have to continue on the Telegram group, so let’s continue on the chat	Su Zhu
+"Okay?” he said and hopped off before I could say anything.
+
+There is no better place to reinvent yourself than the world of crypto, where trillions of dollars of wealth have been created and destroyed out of thin air, often based solely on belief. “I believe, in reality, a significant portion of the cryptocurrency space operates on meme culture,” Zhu said during the AMA"	Crypto
+"“We all tend to invest in bitcoin because it represents something everyone believes in, transforming it from a meme into a tangible reality.” If they could create a new story about themselves, perhaps it could become real?
+
+In early 2023, channeling that idea, Zhu and Davies tried to create a new business out of the flaming wreckage of their old one. At the time, they were in Dubai and connected with Mark Lamb, the CEO of CoinFLEX, a crypto exchange that had gone bankrupt in the summer of 2022"	Ethereum, Crypto
+The trio came up with a plan: They could essentially repurpose CoinFLEX as an exchange that, instead of trading crypto, would trade bankruptcy claims held by creditors of the many crypto companies that had recently collapsed (including 3AC and Bankman-Fried’s FTX). This could allow creditors to recoup a portion of what they were owed before the larger cases were resolved — a process that often takes years	Crypto, General
+"For all three failed crypto entrepreneurs, it would be lemonade from lemons. They called it OPNX.
+
+With their Wall Street backgrounds, Zhu and Davies speak smoothly and professionally, and they convinced at least some creditors that they were capable entrepreneurs who deserved a second chance"	Crypto
+“I got completely scammed by them. I bought into it,” said a person close to CoinFLEX who went along with the deal	Su Zhu
+"“I was thinking, If you have a mad dog and you put a muzzle on him, you can have some control. But we didn’t even get a chance to put a muzzle on them.”
+
+Others were more wary"	Su Zhu
+"“Su Zhu is a world class Machiavellian fuckstick,” Travis Kling, a former portfolio manager at Steve Cohen’s Point72 who now runs a crypto hedge fund, posted on X last summer in an attempt to warn his fellow FTX creditors to stay far away from OPNX. Kling has recently been vocal in criticizing the crypto industry’s unwillingness to excise and shun bad actors:
+
+One of the first moves Zhu, Davies, and Lamb made was staging a photo shoot of the three of them on the Dubai waterfront, for which the CoinFLEX estate was billed $31,500, according to receipts the CoinFLEX board discovered when it began investigating how its creditor assets had been swept into OPNX last fall"	Ethereum, Crypto
+Zhu and Davies had also been paying themselves a salary of $25,000 a month each from the estate — which, again, represented assets owed to people who lost money when the exchange went bust. The paychecks were in spite of the fact that Zhu and Davies had no official roles at OPNX; they called themselves advisers	Crypto
+Plus the company had covered more than $200,000 in fines that Zhu, Davies, Lamb and Lamb’s wife (OPNX’s CEO) owed in Dubai. (OPNX itself was fined an additional $2.7 million.) “I come to find out these guys are pure sociopaths; they are very comfortable with lying	Su Zhu
+I’ve never met people so comfortable doing it,” said the person close to CoinFLEX. Their professed motivation to help creditors recover funds may also have been a façade	Su Zhu
+"“‘Don’t be a debt slave to your creditors,’” Zhu repeated to the team, according to the person, adding that Zhu expressed this sentiment often. “Su’s exact words to me were ‘Nobody gives a fuck about the creditors.’”
+
+Still, all of Zhu’s and Davies’s efforts did not yield a thriving business"	Su Zhu
+"At the beginning of February, OPNX abruptly announced it was shutting down, urging customers to withdraw their money immediately. FTX had just announced that its creditors would be made whole (thanks in part to rising bitcoin prices) and that the business opportunity in selling claims on the market had evaporated.
+
+But Zhu and Davies had already moved on to a new idea"	Crypto, General
+This was also an exchange — one they were calling OX.Fun. But this time they would not trade creditor claims but rather crypto tokens	Crypto, General
+So far, the tokens they’ve announced are of the exchange’s own making with names like OX and Milk and Autism. “$OX is an ecosystem, economy, community,” Davies wrote on X after OPNX announced it would shut down	Crypto
+"Zhu later elaborated: “Ox.fun is a revolutionary new design for gamified perps trading, collat and profit/loss are entirely in OX, you earn high yields for completing missions, and you earn MILK when you realise losses.” (If this reads like nonsense to you, you are not alone.)
+
+Here is the nub of the idea behind OX.Fun: In crypto, the ultimate power is to invent new assets (or to at least try to), and that’s what OX.Fun has done. Despite being its most public spokesmen, Zhu and Davies both claimed to me to be just “advisers” to a mysterious “team.” But when I asked, multiple times, who the CEO was and who was on the team, Zhu did not respond. Meanwhile, Zhu is at least talking like a leader of the firm"	Crypto
+"“This New Year, my primary focus has been on reflecting on the development of our new OX,” Zhu said in the AMA on the first business day of January. “Since the end of home detention, I finally had the time to focus on OX matters, and that’s what keeps me occupied.”
+
+Some in the crypto industry seem to have forgiven Zhu and Davies for what happened at Three Arrows — and have even begun backing them again"	Crypto
+One prominent example is David Bailey, the CEO of Bitcoin Magazine, which also hosts major industry conferences and runs a crypto investment portfolio. When 3AC blew up, Bailey was one of Zhu and Davies’s most outspoken critics, pointing out that their claims that Three Arrows had no outside investors were a lie because Bailey himself was one of them	Crypto, General
+“The more I learn about the 3AC situation the more I believe FRAUD was occurring. A lot of deceit,” he wrote on X	Su Zhu
+“I keep seeing it repeated they had no outside funds … not true. We had money parked with them, not very much but they still took it	Su Zhu
+"I wonder how many other people did the same?” He later predicted Zhu and Bankman-Fried would end up roommates in jail.
+
+In January, though, Zhu announced that Bailey — again, a 3AC creditor — was “one of our significant investors in OX.” Neither Bailey nor his business partner responded to multiple requests for comment. But during the panel with Davies on X in July, Bailey was supportive"	Su Zhu
+“What I think matters is what you do after you get blown up — like, once you have knowledge of what’s happened or what’s gone wrong. What do you do, and how do you act?” he said	Su Zhu
+"“I just want to say to people who are criticizing Kyle and Su for doing something — I think that that’s exactly what they should be doing: They should be doing something.” Of course, that was before OPNX shut down, too.
+
+Even the yacht has become a battleground for 3AC’s founders in their quest to reclaim parts of their past. As the fund went into liquidation, their stake in the yacht was sold for nearly $30 million"	Ethereum
+"Now, though, Zhu is claiming he is entitled to nearly half of that sum — a claim the yacht’s liquidators rejected outright in the fall. Zhu is appealing the decision.
+
+He’s also keeping the big picture in mind"	Su Zhu
+"On Presidents’ Day, he reposted the following message on X: “The @zhusu redemption arc is going to be epic and the man has earned every bit of it.”
+
+ONE GREAT STORY: A NIGHTLY NEWSLETTER FOR THE BEST OF NEW YORK
+The one story you shouldn’t miss today, selected by New York’s editors.
+Email
+ 
+TAGS: THE MONEY GAME THREE ARROWS CAPITAL SU ZHU KYLE DAVIES MORE
+SHOW 10 COMMENTS
+MOST VIEWED STORIES
+Jack Smith’s October Surprise
+The Flying Car Is Finally Here. It’s Slightly Illegal.
+Harris vs"	Ethereum
+"Trump Polls: A Rock Fight, But Kamala Has a Slight Advantage
+The Return of the TV Channel
+The Return of Ta-Nehisi Coates 
+EDITOR’S PICKS
+OSCAR FUTURES
+Bring on the Oscars Chaos
+HOW I GOT THIS BABY
+The Mom Who Had a Home Birth After a C-Section
+THE LAW
+Jack Smith’s October Surprise
+MOST VIEWED STORIES
+Jack Smith’s October Surprise
+The Flying Car Is Finally Here. It’s Slightly Illegal.
+Harris vs"	Su Zhu
+"Trump Polls: A Rock Fight, But Kamala Has a Slight Advantage
+The Return of the TV Channel
+The Return of Ta-Nehisi Coates 
+EDITOR’S PICKS
+OSCAR FUTURES
+Bring on the Oscars Chaos
+HOW I GOT THIS BABY
+The Mom Who Had a Home Birth After a C-Section
+THE LAW
+Jack Smith’s October Surprise
+23 MINS AGO
+THE NATIONAL INTEREST
+Why A Second Trump Term Might Go Full Social Darwinist
+By JONATHAN CHAIT
+Tax the poor, slash the welfare state, tax cuts for the rich…
+6:30 A.M.
+SCREEN TIME
+How Spooked Should We Be by AI Ghost Stories?
+By JOHN HERRMAN
+The viral folklore about self-aware chatbots and AI-generated podcast hosts who fear death is not what it appears to be.
+5:00 A.M.
+FOREIGN AFFAIRS
+The Price of Power
+By JONATHAN GUYER
+America’s chief humanitarian official rose to fame by speaking out against atrocities. Now she’s trapped by one.
+MOST POPULAR
+Jack Smith’s October Surprise
+By ELIE HONIG
+The Flying Car Is Finally Here"	Su Zhu
+"It’s Slightly Illegal.
+By JEFF WISE
+Harris vs. Trump Polls: A Rock Fight, But Kamala Has a Slight Advantage
+By ED KILGORE
+The Return of the TV Channel
+By JOHN HERRMAN
+The Return of Ta-Nehisi Coates 
+By RYU SPAETH
+10/3/2024
+POLITICS
+NY Congressman in Tight Race Wore Blackface in College
+By NIA PRATER
+Mike Lawler confirmed to the New York ‘Times’ that he wore bronzer while dressed as Michael Jackson.
+10/3/2024
+WHAT WE KNOW
+The Key People Caught Up in the Eric Adams Investigations
+By NIA PRATER, CHAS DANNER, AND BENJAMIN HART
+Federal agents have grabbed a lot of phones"	Ethereum
+"Here’s who they belong to.
+10/3/2024
+POLITICS
+What’s in Jack Smith’s Unsealed January 6 Motion?
+By NIA PRATER
+In the 165-page filing, Special Counsel Jack Smith lays out his election subversion case against Trump with some new details about the alleged scheme.
+10/3/2024
+POLL POSITION
+Harris vs. Trump Polls: A Rock Fight, But Kamala Has a Slight Advantage
+By ED KILGORE
+There’s really not much movement in the polls lately, so it may come down to the ground game, and Harris could have a small but crucial edge.
+10/3/2024
+THE NATIONAL INTEREST
+Kamala Harris Is Right to Get Endorsements From Right-Wing Republicans
+By JONATHAN CHAIT
+Better late than never.
+10/3/2024
+ERIC ADAMS
+The Flamboyant Lawyer Trying to Keep Eric Adams From Prison
+By KEVIN T"	Su Zhu
+"DUGAN
+Alex Spiro has won big for Jay-Z and Alec Baldwin. The mayor may be his toughest case yet.
+10/3/2024
+EARLY AND OFTEN
+Trump Is the Only Presidential-Election Loser Who Denied Being a Loser
+By ED KILGORE
+J.D"	Su Zhu
+"Vance claims Democrats, especially Hillary Clinton, have denied defeat as well. But actually, Trump stands alone in refusing to concede.
+10/3/2024
+THE LAW
+Jack Smith’s October Surprise
+By ELIE HONIG
+The special counsel had information he wanted to make public"	Su Zhu
+"But he bent important rules to do so.
+10/3/2024
+UP IN THE AIR
+The Flying Car Is Finally Here. It’s Slightly Illegal.
+By JEFF WISE
+How the inventors of a new generation of aircraft are outsmarting the feds.
+10/2/2024
+EARLY AND OFTEN
+How Will Hurricane Helene Affect This Wildly Close Election?
+By ED KILGORE
+Barring Katrina levels of government incompetence, Helene hit long enough before Election Day to mitigate much of the political fallout.
+10/2/2024
+EARLY AND OFTEN
+All the Drama Around the New Trump Movie The Apprentice
+By MARGARET HARTMANN
+From Donald Trump’s legal threats to the Ivana rape scene, the biopic has long been mired in controversy"	Su Zhu
+"But now it’s finally hitting theaters.
+10/2/2024
+THE MONEY GAME
+Betting on Trump or Harris to Win Is Now Legal in the U.S.
+By KEVIN T. DUGAN
+A courtroom win by Kalshi, an online betting market, opens the door for everyone else.
+10/2/2024
+LABOR
+Do I Need to Panic About the Longshoremen Strike?
+By KIM VELSEY
+We talked to an expert about supply chains, consumer behavior, and bananas.
+10/2/2024
+EARLY AND OFTEN
+Snap Polls Show VP Debate Was As Close As the Presidential Race
+By ED KILGORE
+With no clear winner and no big viral moments, the debate will simply confirm a very close presidential contest.
+10/2/2024
+SOCIAL STUDIES
+The Return of Ta-Nehisi Coates
+By RYU SPAETH
+A decade after “The Case for Reparations,” he is ready to take on Israel, Palestine, and the American media.
+10/2/2024
+VANCE-WALZ DEBATE
+J.D"	Ethereum, General
+"Vance Blasted for Non-Answer on January 6 in VP Debate
+By NIA PRATER
+The Harris campaign is running with a clip of Vance refusing to admit Trump lost in 2020, turning it into an ad and blasting it on social media.
+10/2/2024
+THE INSIDE GAME
+How Tim Walz Saved Himself
+By GABRIEL DEBENEDETTI
+At first, he looked overmatched by J.D. Vance"	Su Zhu
+"Then came abortion, health care, and, above all, January 6.
+10/2/2024
+FIRST PERSON
+‘They Hit Everyone and Anyone’
+As Told To ALEX SHAMS
+From Lebanon, residents share what life has been like since Israel launched its attack.
+10/2/2024
+VANCE-WALZ DEBATE
+Republican Insiders Were Thrilled by J.D. Vance’s Debate
+By BEN JACOBS
+Even when he refused to admit Trump lost in 2020.
+10/2/2024
+LIVEBLOG
+Who Won the Shockingly Normal VP Debate? Here’s What Happened
+By INTELLIGENCER STAFF
+A running account of the Walz-Vance debate with commentary and analysis from the entire Intelligencer team.
+10/1/2024
+EARLY AND OFTEN
+Weirdly Civil VP Debate Won’t Change Many Minds
+By ED KILGORE
+Vance and Walz each scored some important points, but what was most striking is that they didn’t go after each other with claw hammers.
+10/1/2024
+EARLY AND OFTEN
+Trump’s Inane ‘Play by Play’ on VP Debate: What You Missed
+By MARGARET HARTMANN
+He issued a panicky all-caps statement on a national abortion ban on Twitter, then retreated to Truth Social to post weak jabs at “Tampon Tim.”
+Like Us
+ 
+Follow Us
+ 
+Follow Us
+ABOUT INTELLIGENCER
+ABOUT NEW YORK MAGAZINE
+NEWSLETTERS
+HELP
+CONTACT
+PRESS
+MEDIA KIT
+WE’RE HIRING
+PRIVACY
+TERMS
+AD CHOICES
+ACCESSIBILITY
+DO NOT SELL OR SHARE MY PERSONAL DATA
+INTELLIGENCER IS A VOX MEDIA NETWORK"	General
+"© 2024 VOX MEDIA, LLC. ALL RIGHTS RESERVED.
+
+This story is free for a limited time"	Su Zhu
+"Subscribe to enjoy uninterrupted access.
+
+
+Subscribe Now
+"	Su Zhu
