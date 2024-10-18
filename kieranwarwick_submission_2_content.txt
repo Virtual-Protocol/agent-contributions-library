@@ -1,0 +1,153 @@
+content	keywords
+"Unlike contemporaries such as Axie Infinity, which experienced dramatic in-game inflation, Warwick believes Illuvium will have a decade of staying power. In June 2022, the game brought in $72 million through the sale of 20,000 plots of NFT land, laying the literal groundwork for what Warwick envisions as a longstanding playing field.
+
+Designing deflation
+
+
+He explains the setup of Illuvium"	Crypto
+"When players first arrive or “crash” onto the planet, they find out that “there’s this society that’s been built, and it’s your job to be a hunter and to go out and catch creatures known as Illuvials.”
+
+Like Pokemon cards, these Illuvials, which live in certain regions of the map, are limited edition. And much like the original 1999 Charizard or Pikachu cards, Genesis Illuvials are no longer available"	General
+"Whenever a new set of Illuvials becomes available, they get progressively more difficult to find and capture based on a bonding curve comparable to the one that governs Bitcoin’s halvings and makes Bitcoins progressively rarer and more difficult to “capture” by way of mining. “That’s what makes them valuable,” Warwick notes.
+
+Artwork from Illuvium"	Crypto, General
+"Source: Twitter
+
+In addition to being limited in “mintage” and increasingly difficult to “mine,” Illuvials are deflationary due to a game mechanic termed “Fusing,” which consists of destroying lower-level characters to create higher levels.
+
+Three level-one Illuvials can fuse into a single level-two version, whereas summoning a level-three Illuvial requires a sacrifice of three level-twos, equivalent to nine basic creatures that are forever removed from circulation.
+
+Warwick is quick to note that the capped and deflationary nature of his Illuvial game pieces makes Illuvium the polar opposite of Axie Infinity, whose native Axie characters are created through a mechanism called breeding that produces an ever-inflating pool of characters within the game universe.
+
+Read also
+Features 
+
+What do crypto market makers actually do? Liquidity, or manipulation
+
+Features 
+
+‘Make sure Ethereum wins’ — Steve Newcomb reveals zkSync’s prime directive
+
+A single Axie cost hundreds of dollars in mid-2021 — to the extent that individual gamers often rented them from owners and split their earnings but have now crashed in value to almost nothing. This price plunge can be explained by the runaway breeding of more Axies, which also caused possible earnings per Axie to fall.
+
+Warwick is not surprised by the downfall of Axie Infinity’s game economy"	Ethereum, Crypto, General
+"“I’ve been calling this for 18 months now,” he says, explaining that he believes the game was doomed from the beginning, as its economics were unsustainable. The model attracted many players who worked full-time to extract value from the game, while few added any, he asserts.
+
+Many people are finding that these games are smoke and mirrors"	General
+"We are not that — we are here for 10 years at the least.”
+
+Retail
+
+Having held an interest in business from a young age, Warwick, now 32, reasoned that he wanted to start earning money right out of high school in 2007 and decided to skip college in favor of Australian retailer Harvey Norman, where he eventually became a franchisee responsible for running a store.
+
+After leaving in 2012, he founded Audio Invasion, a competing online retailer for music and computing goods with his brother Kain and a mutual friend who’d recently begun mining Bitcoin as a hobby. Around this same time, he dabbled in a business selling online tutorials.
+
+“That was the first I heard of Bitcoins — he had hundreds of BTC,” Warwick recalls, adding that the friend who introduced him to Bitcoin had tragically passed away in a biking accident, taking his private keys to the grave with him, like so many other early adopters who met untimely deaths.
+
+When Audio Invasion ran out of money in 2014, Warwick worked as head of marketing for BlueShyft, a financial payments and retail network he founded with his brother Kain and billed as the “first in the world” over-the-counter exchange, which saw over 1,000 retail locations around Australia becoming outfitted with an iPad, with which customers could directly purchase BTC in-store"	Crypto, General
+"In short, anyone could walk in with cash and have BTC deposited to the address of their choice. In addition to the retail business, the company today operates bitcoin.com.au, billing itself as the fastest way to buy Bitcoin in Australia.
+
+In 2017, Kieran’s brother Kain, who is nine years older than him, founded Synthetix (originally Havven) — an Ethereum-based DeFi platform"	Ethereum, Crypto, General
+"Kieran helped his brother raise money for the project. Around this time, Warwick started investing in Ether and other cryptocurrencies back when the price of ETH was in the single digits.
+
+I was a little skeptical of crypto — I had lost $30,000 margin trading ETH, which left a bad taste.
+
+Instead of flipping crypto, the younger Warwick tapped into his taste for burgers in 2016 to create the Burger Collective, described as an “app made for burger lovers” that hosted reviews and discounts to nearby restaurants"	Ethereum, Crypto, General
+"With 200,000 users, the app experienced initial success and an imminent integration with DoorDash, before the COVID-19 pandemic caused restaurants to close for in-person dining. “Our product was all about going to the store,” Warwick explains regarding why the company had to wind down in May 2021 after running out of money.
+
+It was while his burger app was beginning to fail that Kain peer-pressured him “to get back into crypto,” even loaning him $100,000 to do so"	Crypto, General
+"“I ended up making a whole bunch of money — 10x in six months,” Warwick recalls. In June 2020, he had the fortune of learning about the play-to-earn game Axie Infinity, which fascinated him.
+
+Read also
+Features 
+
+China’s Digital Yuan Is an Economic Cyberweapon, and the US Is Disarming
+
+Features 
+
+Blockchain Startups Think Justice Can Be Decentralized, but the Jury Is Still Out
+
+“They branded it as a Pokémon-like game, and I am an avid Pokémon fan,” he notes regarding the initial appeal, which led him down a rabbit hole of learning about NFTs, upon which the game was based"	Crypto, General
+"Describing himself as a gamer, Warwick came to the view that “this is exactly what the mainstream gaming world has been asking for decades.”
+
+“What if we made a AAA Fortnite-like title? That’s exactly what gamers have been wanting!” Warwick opined, a realization followed by what he describes as “a couple of weeks” of deeper research into the technology and possible game functions.
+
+Art from Illuvium. Source: Twitter
+
+What goes into designing a game? Designing game characters seems like a natural place to begin, so Warwick went to work to convince his more artistically inclined brother Grant to help out with design"	General
+"Getting Grant on board was no easy task, however.
+
+“Nah man, I won’t go into crypto — it’s all scams, so I can’t put reputation on the line,” Kieran recalls of his brother’s protests. He eventually relented and agreed to design five characters.
+
+Five designed characters do not a game make"	Crypto
+"Though Warwick imagined himself capable of raising money and running the business side of things, he knew little about how to build a game — a task that involves much more than mere artistic design.
+
+The answer came in the form of yet another member of the Warwick clan, Aaron. He’s an accomplished game designer and was next in line to join the team"	General
+"Aaron brought new ideas to the table, preferring “more team fight tactics, League of Legends-style.”
+
+Being brothers, we just couldn’t agree on game mechanics — we were arguing for 2–3 days until Aaron designed a beta version. That’s how Illuvium came about.
+
+“We’re a game with Crypto elements rather than gamified crypto"	Crypto
+"The result of that gaming DNA is high quality gameplay that feels no different to the best of traditional gaming,” Warwick explains regarding the resulting first-hand gaming experience.
+
+How to earn
+
+There are a number of ways by which players can earn while playing Illuvium. The first of these is through capturing Illuvials in the wilderness, which can later be sold for a profit"	General
+This process is not without expenses, however, as players must expend in-game “Fuel” to travel into a specific region where Illuvials might be present and, upon encountering one, expend a shard in order to facilitate the capture. There are several tiers of shards, which cost progressively more, and the capture of a highly ranked Illuvial with a low-level shard is statistically unlikely	General
+"“Fuel is what powers the entire economy in Illuvium,” he says.
+
+The tradeable Illuvials are very Pokémon-like. Source: Illuvium
+
+There is also Illuvium Zero, a “mobile companion game,” which Warwick describes as a “city builder with NFT land.” Owners of the land can earn Fuel, which is linked to the Illuvium economy as an integral resource needed to effectively play the game"	Crypto, General
+"According to Warwick, land owners make 5% of in-game revenue in this manner. As of writing, the cheapest individual land plots trade for close to 1,000 USDT on the in-game marketplace.
+
+Ranked battles are a driver of the demand of captured Illuvials, where they can be battled in order to climb the leaderboards and earn ILV governance tokens, of which 1 million are set aside as rewards for achievements such as tournaments"	Crypto, General
+In these cases, the DAO that governs the game takes a small percentage. With a market capitalization north of $100 million, ILV sits in the top 200 cryptocurrencies	Crypto, General
+"In addition to the governance-focused ILV token, which is in some ways comparable to Axie Infinity’s AXS token in terms of function, there is sILV2.
+
+Illuvials fight on a virtual battlefield.
+
+
+“SILV2 is our in-game currency, but it’s finite as well,” Warwick says, explaining these tokens are commonly used to buy the all-important Fuel. The “2” in the name is the result of a January 2022 incident, in which the currency was exploited by a hacker just prior to launch.
+
+“Their plan was to wait until the game started and have an unlimited amount of SLV,” Warwick explains, saying that the brothers decided to relaunch the token and make victims whole by personally putting up about $450,000"	Crypto, General
+"It was really Warwick’s money, however, as “the other guys aren’t liquid yet, but they said they’ll pay me back,” he says.
+
+Subscribe
+The most engaging reads in blockchain. Delivered once a week.
+
+Email address
+
+SUBSCRIBE
+
+Warwick has a wider vision for the future of blockchain gaming.
+
+“I think most games will migrate to Web3,” he says with confidence, explaining that the advantages of the new paradigm that is “giving power back to the players” are so numerous as to make it a necessary upgrade due to consumer demand"	Crypto, General
+"Unlike in most mainstream games where players cannot generally sell their in-game items or monetize their achievements, Web3 gaming means that “consumers have a choice.”
+
+It’s the beginning of a new cycle, and consumers will have the power in this 10–20-year period.
+
+Read also
+Features 
+
+Longevity expert: AI will help us become ‘biologically immortal’ from 2030
+
+Features 
+
+Bitcoin ledger as a secret weapon in war against ransomware
+
+AXIE INFINITY
+ETHEREUM
+ILLUVIALS
+ILLUVIUM
+KIERAN WARWICK
+LAND
+NFT
+PLAY TO EARN
+SYNTHETIX
+Share
+Share
+Share
+Share
+Elias Ahonen
+Elias Ahonen is a Finnish-Canadian author based in Dubai, who bought his first Bitcoin in 2013 and has since worked around the world operating a small blockchain consultancy. His book Blockland tells the story of the industry"	Ethereum, Crypto, General

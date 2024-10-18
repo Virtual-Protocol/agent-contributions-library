@@ -1,0 +1,50 @@
+User: Ibrahim Muhammad jalo
+Rating: 3
+Review: I really love this game
+Sentiment: positive
+
+User: Lord Killerbee
+Rating: 1
+Review: Awesome 👍 loving it
+Sentiment: positive
+
+User: Sok Panha
+Rating: 1
+Review: False ad, i thought this is open world like genshin and wuwa
+Sentiment: positive
+
+User: Michael Sharp
+Rating: 5
+Review: People need to know you can play this game as a typical idle builder game (free-to-play) OR the crypto version (requires owning a land NFT). The crypto version allows interaction with Illuvium's other games (currently Overworld, Arena & Beyond) through fuel sales, skin blueprints, etc. Even the F2P version lets you earn airdrop points with an account if you want. I'm enjoying the game quite a bit, love the graphics/music/mechanics and looking forward several major features in the roadmap!!
+Sentiment: positive
+
+User: Ease' Chill
+Rating: 2
+Review: Been playing this game since close to its release, and now you tell me, (via a google play store update) that the plot of land I was using is just for practice? We're talking about... Practice... Since we aren't talking about a game... Was the money I spent for credits in the shop, practice? I assume you will find a way to make this right. Because the only thing I've found enjoyable about this, is this review.
+Sentiment: positive
+
+User: Mike Bedford
+Rating: 5
+Review: AAA play to earn title
+Sentiment: positive
+
+User: przemek p
+Rating: 1
+Review: Its free game , and you can't sell anything later , so waste of time
+Sentiment: negative
+
+User: AİDİN JABARI ASL
+Rating: 5
+Review: Thanxs for developer team aydın from Türkiye 🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷
+Sentiment: neutral
+
+User: Curtis Barnett
+Rating: 5
+Review: Devs very active.
+Sentiment: positive
+
+User: Mohammed Ali
+Rating: 5
+Review: Done
+Sentiment: neutral
+
