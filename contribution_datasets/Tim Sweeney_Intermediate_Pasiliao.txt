@@ -1,0 +1,91 @@
+Name: Tim Sweeney
+Sentence: Timothy Dean Sweeney (born 1970) is an American video game programmer and businessman.
+Keywords: sweeney, date, tim
+
+Name: Tim Sweeney
+Sentence: He is the founder and Chief executive officer. CEO of Epic Games, and the creator of Unreal Engine, a game development platform.
+Keywords: founder, chief, executive
+
+Name: Tim Sweeney
+Sentence: Sweeney was raised in Potomac, Maryland, the youngest of three brothers.
+Keywords: early, life, sweeney
+
+Name: Tim Sweeney
+Sentence: At a young age, he became interested in tinkering with mechanical and electrical devices, and stated he had taken apart a lawnmower as early as five or six, and later built his own go-kart. He became interested in arcade games when they began to become popular in the late 1970s, knowing that like the mechanics devices he took apart and repaired, there were those that had programmed the games in the machines.
+Keywords: games, web
+
+Name: Tim Sweeney
+Sentence: Though the family got an Atari 2600, Sweeney was not as interested in the games for that, outside of Adventure (1980 video game), and later said he had not played many video games in his life and very few to completion. At the age of 11, Sweeney visited his older brother's new startup in California, where he had access to early IBM Personal Computers. Sweeney spent the week there, learning BASIC and establishing his interest in programming; while he had had a Commodore 64 before, Sweeney was much more taken by how easy the IBM PC was to use. When his family got an Apple II, Sweeney began in earnest learning how to program on that, trying to make Adventure 2 in the spirit of the Atari 2600 game.
+Keywords: sweeney, adventure, family
+
+Name: Tim Sweeney
+Sentence: Sweeney estimated that between the ages of 11 and 15, he spent over 10,000 hours teaching himself how to program using information on online bulletin boards, and completed several games, though never shared these with others.
+Keywords: sweeney, estimated, ages
+
+Name: Tim Sweeney
+Sentence: He also learned from his brothers concepts of entrepreneurship.
+Keywords: also, learned, brothers
+
+Name: Tim Sweeney
+Sentence: As a teenager, he made a good deal of money by offering to mow lawns of wealthy residents in the area for half the price of professional services. Sweeney attended the University of Maryland, College Park starting around 1989 where he studied mechanical engineering, though he was still fascinated by computers. Around this time, his father, who worked for the Defense Mapping Agency, gave him an IBM Personal Computer/AT. Sweeney established a consulting business, Potomac Computer Systems, out of his parents' home, but it never took off and he shelved the company. Later, Sweeney had the idea of creating games that could be sold, programming them at night or over weekends outside college work.
+Keywords: name
+
+Name: Tim Sweeney
+Sentence: This first required him to create a text editor based on the Pascal (programming language) to be able to program the game, which led to the idea of making a game out of the text editor itself.
+Keywords: text, editor, pascal
+
+Name: Tim Sweeney
+Sentence: This became the basis of ZZT.
+Keywords: became, basis, zzt
+
+Name: Tim Sweeney
+Sentence: He let college friends and those around his neighborhood provide feedback, and was aware it was something he could sell to other computer users.
+Keywords: let, college, friends
+
+Name: Tim Sweeney
+Sentence: To distribute the game, Sweeney looked to the shareware model, and wrote to Scott Miller of 3D Realms Apogee Software, Ltd., a leading shareware producer at the time, for ideas on how to distribute ZZT.
+Keywords: distribute, shareware, scott
+
+Name: Tim Sweeney
+Sentence: He revitalized Potomac Computer Systems for selling ZZT, fulfilling mail orders with help of his father.
+Keywords: revitalized, potomac, computer
+
+Name: Tim Sweeney
+Sentence: ZZT sold well enough, a few copies each day that came to about USD 100 per day, that Sweeney decided to make developing games his career.
+Keywords: day, zzt, sold
+
+Name: Tim Sweeney
+Sentence: Recognizing he needed a better name for a video game company, he renamed Potomac Computer Systems to Epic MegaGames. Following ZZT, Sweeney started working on his next title, Jill of the Jungle, but found that he lacked the skills to complete this alone.
+Keywords: sweeney, name, game
+
+Name: Tim Sweeney
+Sentence: He formed a team of four people to complete the game by mid-1992. For continued development, Sweeney sought out a business partner for Epic MegaGames, eventually coming to Mark Rein, who had just been let go from id Software.
+Keywords: mark, rein, software
+
+Name: Tim Sweeney
+Sentence: Rein helped with growing and managing the company; due to the company's growth, Sweeney did not end up getting his degree, short by one credit. Sweeney would later start work on the Unreal Engine, developed for the 1998 first-person shooter Unreal (1998 video game) and licensed by multiple other video games.
+Keywords: unreal, company
+
+Name: Tim Sweeney
+Sentence: The lawsuit was settled following the Fish and Wildlife Service's and Senator Richard Burr's involvement in protecting the site, which prevented it from being fragmented. "I'm grateful for the efforts of Senator Burr to help protect Box Creek Wilderness," Sweeney said.
+Keywords: senator, burr, lawsuit
+
+Name: Tim Sweeney
+Sentence: "And for the whole Fish and Wildlife Service team's tireless efforts to preserve vital North Carolina natural areas in partnership with conservation-minded landowners like me.
+Keywords: whole, fish, wildlife
+
+Name: Tim Sweeney
+Sentence: Additionally, he has participated in the expansion to Mount Mitchell State Park by donating convert|1,500|acre to a conservation project. In April 2021, it was announced that Sweeney would donate 7,500 acres in the Roan Highlands of western North Carolina to the Southern Appalachian Highlands Conservancy.
+Keywords: name, citizen
+
+Name: Tim Sweeney
+Sentence: When transferred the next year, the conservancy will manage the property as a nature preserve, conducting scientific studies in collaboration with Sweeney and offering guided hikes. In February 2012, Sweeney was inducted into the Academy of Interactive Arts & Sciences (AIAS) Hall of Fame for changing "the face of gaming with the advent of the Unreal Engine and the commitment of Epic, as a studio, to bring both consumer and industry-facing technology to new heights.
+Keywords: date, wired
+
+Name: Tim Sweeney
+Sentence: In recognition of his conservation efforts, he was named Land Conservationist of the Year in 2013 by the North Carolina Wildlife Federation, and later in 2014 the land trusts of North Carolina honored him with the Stanback Volunteer Conservationist of the Year Award. In 2017, Sweeney was the recipient of the Lifetime Achievement Award at the Game Developers Choice Awards. In 2019, he was named Person of the Year by British video game industry trade magazine MCV.
+Keywords: date
+
+Name: Tim Sweeney
+Sentence: He was also a finalist for The News & Observers Tar Heel of the Year award, which recognizes the contributions of North Carolina residents. At the Forbes Media Awards 2020, Sweeney was chosen as Person of the Year for building and turning Fortnite into a social network with his company, hosting online events such as Travis Scott's in-game concert which drew 28 million viewers. However, Bloomberg estimates his wealth at $9.6 billion. Since 2006, Sweeney has filed several patents related to computer software.
+Keywords: sweeney, forbes

@@ -1,0 +1,18 @@
+Name: Kieran Warwick
+Sentence: Blockchain-based gaming developer. Illuvium is a blockchain game developer.
+Keywords: blockchain, developer, short
+
+Name: Kieran Warwick
+Sentence: Iluvium has created three games, Illuvium Overworld, Illuvium Arena, and Illuvium Zero which operate via the  Ethereum|Ethereum blockchain.
+Keywords: illuvium, ethereum, iluvium
+
+
+Name: Kieran Warwick
+Sentence: The game Illuvium combines features of an open-world role-playing game (RPG) with an autobattler and a monster-taming game.
+Keywords: game, illuvium, combines
+
+Name: Kieran Warwick
+Sentence: It's intended to cater to both casual gamers and decentralized finance
+
+
+
